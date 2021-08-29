@@ -6,6 +6,15 @@ const packageJSON = fs.readJSONSync(path.join(__dirname, "..", "package.json"));
 const dataDir = "./data";
 const dataFiles = fs.readdirSync(dataDir);
 
+const allowed = [
+  "countries",
+  "currencies",
+  "domains",
+  "languages",
+  "language-strings",
+  "timezones",
+];
+
 dataFiles.forEach(async (file) => {
   await createFile(file);
   fs.writeJSONSync(path.join(__dirname, "..", "package.json"), packageJSON, {
@@ -15,14 +24,6 @@ dataFiles.forEach(async (file) => {
 
 async function createFile(fileName) {
   const name = fileName.replace(".json", "");
-  const allowed = [
-    "countries",
-    "currencies",
-    "domains",
-    "languages",
-    "language-strings",
-    "timezones",
-  ];
   if (allowed.includes(name)) {
     const data = await fs.readJson(
       path.join(__dirname, "..", "data", fileName)
@@ -40,14 +41,8 @@ async function createFile(fileName) {
 }
 
 function parseData(name, data) {
-  const PARSERS = {
-    currencies: (name, value) => {
-      return {
-        mjs: `export const ${name} = ${JSON.stringify(value)}`,
-        cjs: `module.exports = { ${name}: ${JSON.stringify(value)} }`,
-      };
-    },
+  return {
+    mjs: `export const ${name} = ${JSON.stringify(data)}`,
+    cjs: `module.exports = { ${name}: ${JSON.stringify(data)} }`,
   };
-  const parser = PARSERS[name] || undefined;
-  return parser ? parser(name, data) : null;
 }
