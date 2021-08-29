@@ -1,6 +1,6 @@
 {
   "name": "cimple-data",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Useful information to use in your project.",
   "main": "./index.cjs",
   "module": "./index.mjs",
