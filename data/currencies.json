@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Afghan afghani",
+    "symbol": "؋",
+    "code": "AFN",
+    "flag": "🇦🇫"
+  },
+  {
+    "name": "Albanian lek",
+    "symbol": "Lek",
+    "code": "ALL",
+    "flag": "🇦🇱"
+  },
+  {
+    "name": "Algerian dinar",
+    "symbol": "د.ج",
+    "code": "DZD",
+    "flag": "🇩🇿"
+  },
+  {
+    "name": "European euro",
+    "symbol": "€",
+    "code": "EUR",
+    "flag": "🇪🇺"
+  },
+  {
+    "name": "Angolan kwanza",
+    "symbol": "Kz",
+    "code": "AOA",
+    "flag": "🇦🇴"
+  },
+  {
+    "name": "Argentine peso",
+    "symbol": "$",
+    "code": "ARS",
+    "flag": "🇦🇷"
+  },
+  {
+    "name": "Armenian dram",
+    "symbol": "֏",
+    "code": "AMD",
+    "flag": "🇦🇲"
+  },
+  {
+    "name": "Aruban florin",
+    "symbol": "ƒ",
+    "code": "AWG",
+    "flag": "🇦🇼"
+  },
+  {
+    "name": "Australian dollar",
+    "symbol": "$",
+    "code": "AUD",
+    "flag": "🇦🇺"
+  },
+  {
+    "name": "Azerbaijani manat",
+    "symbol": "₼",
+    "code": "AZN",
+    "flag": "🇦🇿"
+  },
+  {
+    "name": "Bahamian dollar",
+    "symbol": "$",
+    "code": "BSD",
+    "flag": "🇧🇸"
+  },
+  {
+    "name": "Bahraini dinar",
+    "symbol": "د.ب",
+    "code": "BHD",
+    "flag": "🇧🇭"
+  },
+  {
+    "name": "Bangladeshi taka",
+    "symbol": "৳",
+    "code": "BDT",
+    "flag": "🇧🇩"
+  },
+  {
+    "name": "Barbadian dollar",
+    "symbol": "$",
+    "code": "BBD",
+    "flag": "🇧🇧"
+  },
+  {
+    "name": "Belarusian ruble",
+    "symbol": "Br",
+    "code": "BYN",
+    "flag": "🇧🇾"
+  },
+  {
+    "name": "Belize dollar",
+    "symbol": "$",
+    "code": "BZD",
+    "flag": "🇧🇿"
+  },
+  {
+    "name": "Bermudian dollar",
+    "symbol": "$",
+    "code": "BMD",
+    "flag": "🇧🇲"
+  },
+  {
+    "name": "Bhutanese ngultrum",
+    "symbol": "Nu.",
+    "code": "BTN",
+    "flag": "🇧🇹"
+  },
+  {
+    "name": "Bolivian boliviano",
+    "symbol": "Bs.",
+    "code": "BOB",
+    "flag": "🇧🇴"
+  },
+  {
+    "name": "Bosnia and Herzegovina convertible mark",
+    "symbol": "KM",
+    "code": "BAM",
+    "flag": "🇧🇦"
+  },
+  {
+    "name": "Botswana pula",
+    "symbol": "P",
+    "code": "BWP",
+    "flag": "🇧🇼"
+  },
+  {
+    "name": "Brazilian real",
+    "symbol": "R$",
+    "code": "BRL",
+    "flag": "🇧🇷"
+  }
+]

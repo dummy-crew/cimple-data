@@ -1,0 +1,42 @@
+{
+  "name": "cimple-data",
+  "version": "0.1.0",
+  "description": "Useful information to use in your project such as currencies or ISO codes.",
+  "main": "./index.cjs",
+  "module": "./index.mjs",
+  "files": [
+    "*.cjs",
+    "*.mjs"
+  ],
+  "exports": {
+    "./currencies": {
+      "import": "./currencies.mjs",
+      "require": "./currencies.cjs"
+    }
+  },
+  "scripts": {
+    "generate": "node ./scripts/generate.js",
+    "prepare": "npm run generate",
+    "version": "git add -A",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dummy-crew/cimple-data.git"
+  },
+  "keywords": [
+    "javascript",
+    "mock",
+    "open-source",
+    "beginner-friendly"
+  ],
+  "author": "reliut-g",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dummy-crew/cimple-data/issues"
+  },
+  "homepage": "https://github.com/dummy-crew/cimple-data#readme",
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
