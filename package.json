@@ -1,7 +1,7 @@
 {
   "name": "cimple-data",
   "version": "0.2.0",
-  "description": "Useful information to use in your project such as currencies or ISO codes.",
+  "description": "Useful information to use in your project.",
   "main": "./index.cjs",
   "module": "./index.mjs",
   "exports": {

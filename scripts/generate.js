@@ -7,14 +7,14 @@ const packageJSON = fs.readJSONSync(path.join(__dirname, "..", "package.json"));
 const dataDir = "./data";
 const dataFiles = fs.readdirSync(dataDir);
 
-const allowed = [
+const allowed = new Set([
   "countries",
   "currencies",
   "domains",
   "languages",
-  "language-strings",
+  "locales",
   "timezones",
-];
+]);
 
 dataFiles.forEach(async (file) => {
   await createFile(file);
@@ -25,13 +25,14 @@ dataFiles.forEach(async (file) => {
 
 async function createFile(fileName) {
   const name = fileName.replace(".json", "");
-  if (allowed.includes(name)) {
+  console.log(`Generating ${name}`);
+  if (allowed.has(name)) {
     const data = await fs.readJson(
       path.join(__dirname, "..", "data", fileName)
     );
     const parsedExport = parseExport(name, data);
-    fs.writeFile(`${name}.mjs`, parsedExport.mjs, "utf-8");
-    fs.writeFile(`${name}.cjs`, parsedExport.cjs, "utf-8");
+    fs.writeFileSync(`${name}.mjs`, parsedExport.mjs, "utf-8");
+    fs.writeFileSync(`${name}.cjs`, parsedExport.cjs, "utf-8");
     fs.appendFileSync(
       "index.mjs",
       `export {default as ${toCamelCaseName(name)}} from './${name}.mjs';`
