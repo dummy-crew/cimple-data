@@ -1,5 +1,6 @@
 const fs = require("fs-extra");
 const path = require("path");
+const { toCamelCaseName } = require("../helpers");
 
 const packageJSON = fs.readJSONSync(path.join(__dirname, "..", "package.json"));
 
@@ -28,21 +29,29 @@ async function createFile(fileName) {
     const data = await fs.readJson(
       path.join(__dirname, "..", "data", fileName)
     );
-    const parsedData = parseData(name, data);
-    if (parsedData) {
-      fs.writeFile(`${name}.mjs`, parsedData.mjs, "utf-8");
-      fs.writeFile(`${name}.cjs`, parsedData.cjs, "utf-8");
-      packageJSON.exports[`./${name}`] = {
-        import: `./${name}.mjs`,
-        require: `./${name}.cjs`,
-      };
-    }
+    const parsedExport = parseExport(name, data);
+    fs.writeFile(`${name}.mjs`, parsedExport.mjs, "utf-8");
+    fs.writeFile(`${name}.cjs`, parsedExport.cjs, "utf-8");
+    fs.appendFileSync(
+      "index.mjs",
+      `export {default as ${toCamelCaseName(name)}} from './${name}.mjs';`
+    );
+    fs.appendFileSync(
+      "index.cjs",
+      `const { ${toCamelCaseName(
+        name
+      )} } = require('./${name}.cjs');module.exports = { ${toCamelCaseName(
+        name
+      )} };`
+    );
   }
 }
 
-function parseData(name, data) {
+function parseExport(name, data) {
   return {
-    mjs: `export const ${name} = ${JSON.stringify(data)}`,
-    cjs: `module.exports = { ${name}: ${JSON.stringify(data)} }`,
+    mjs: `export const ${toCamelCaseName(name)} = ${JSON.stringify(data)}`,
+    cjs: `module.exports = { ${toCamelCaseName(name)}: ${JSON.stringify(
+      data
+    )} }`,
   };
 }

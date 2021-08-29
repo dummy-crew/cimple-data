@@ -4,18 +4,19 @@
   "description": "Useful information to use in your project such as currencies or ISO codes.",
   "main": "./index.cjs",
   "module": "./index.mjs",
+  "exports": {
+    ".": {
+      "import": "./index.mjs",
+      "require": "./index.cjs"
+    }
+  },
   "files": [
     "*.cjs",
     "*.mjs"
   ],
-  "exports": {
-    "./currencies": {
-      "import": "./currencies.mjs",
-      "require": "./currencies.cjs"
-    }
-  },
   "scripts": {
-    "generate": "node ./scripts/generate.js",
+    "generate": "npm run clean && node ./scripts/generate.js",
+    "clean": "rm -f -- index.cjs && rm -f -- index.mjs ",
     "prepare": "npm run generate",
     "version": "git add -A",
     "postversion": "git push && git push --tags"
