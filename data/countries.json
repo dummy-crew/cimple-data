@@ -1,0 +1,1745 @@
+[
+  {
+    "name": " Afghanistan",
+    "officialStateName": "The Islamic Republic of Afghanistan",
+    "sovereignty": "UN member state",
+    "code": "AF",
+    "ccTld": ".af"
+  },
+  {
+    "name": " Åland Islands",
+    "officialStateName": "Åland",
+    "sovereignty": "Finland",
+    "code": "AX",
+    "ccTld": ".ax"
+  },
+  {
+    "name": " Albania",
+    "officialStateName": "The Republic of Albania",
+    "sovereignty": "UN member state",
+    "code": "AL",
+    "ccTld": ".al"
+  },
+  {
+    "name": " Algeria",
+    "officialStateName": "The People's Democratic Republic of Algeria",
+    "sovereignty": "UN member state",
+    "code": "DZ",
+    "ccTld": ".dz"
+  },
+  {
+    "name": " American Samoa",
+    "officialStateName": "The Territory of American Samoa",
+    "sovereignty": "United States",
+    "code": "AS",
+    "ccTld": ".as"
+  },
+  {
+    "name": " Andorra",
+    "officialStateName": "The Principality of Andorra",
+    "sovereignty": "UN member state",
+    "code": "AD",
+    "ccTld": ".ad"
+  },
+  {
+    "name": " Angola",
+    "officialStateName": "The Republic of Angola",
+    "sovereignty": "UN member state",
+    "code": "AO",
+    "ccTld": ".ao"
+  },
+  {
+    "name": " Anguilla",
+    "officialStateName": "Anguilla",
+    "sovereignty": "United Kingdom",
+    "code": "AI",
+    "ccTld": ".ai"
+  },
+  {
+    "name": " Antarctica ",
+    "officialStateName": "All land and ice shelves south of the 60th parallel south",
+    "sovereignty": "Antarctic Treaty",
+    "code": "AQ",
+    "ccTld": ".aq"
+  },
+  {
+    "name": " Antigua and Barbuda",
+    "officialStateName": "Antigua and Barbuda",
+    "sovereignty": "UN member state",
+    "code": "AG",
+    "ccTld": ".ag"
+  },
+  {
+    "name": " Argentina",
+    "officialStateName": "The Argentine Republic",
+    "sovereignty": "UN member state",
+    "code": "AR",
+    "ccTld": ".ar"
+  },
+  {
+    "name": " Armenia",
+    "officialStateName": "The Republic of Armenia",
+    "sovereignty": "UN member state",
+    "code": "AM",
+    "ccTld": ".am"
+  },
+  {
+    "name": " Aruba",
+    "officialStateName": "Aruba",
+    "sovereignty": "Netherlands",
+    "code": "AW",
+    "ccTld": ".aw"
+  },
+  {
+    "name": " Australia ",
+    "officialStateName": "The Commonwealth of Australia",
+    "sovereignty": "UN member state",
+    "code": "AU",
+    "ccTld": ".au"
+  },
+  {
+    "name": " Austria",
+    "officialStateName": "The Republic of Austria",
+    "sovereignty": "UN member state",
+    "code": "AT",
+    "ccTld": ".at"
+  },
+  {
+    "name": " Azerbaijan",
+    "officialStateName": "The Republic of Azerbaijan",
+    "sovereignty": "UN member state",
+    "code": "AZ",
+    "ccTld": ".az"
+  },
+  {
+    "name": " Bahamas (the)",
+    "officialStateName": "The Commonwealth of The Bahamas",
+    "sovereignty": "UN member state",
+    "code": "BS",
+    "ccTld": ".bs"
+  },
+  {
+    "name": " Bahrain",
+    "officialStateName": "The Kingdom of Bahrain",
+    "sovereignty": "UN member state",
+    "code": "BH",
+    "ccTld": ".bh"
+  },
+  {
+    "name": " Bangladesh",
+    "officialStateName": "The People's Republic of Bangladesh",
+    "sovereignty": "UN member state",
+    "code": "BD",
+    "ccTld": ".bd"
+  },
+  {
+    "name": " Barbados",
+    "officialStateName": "Barbados",
+    "sovereignty": "UN member state",
+    "code": "BB",
+    "ccTld": ".bb"
+  },
+  {
+    "name": " Belarus",
+    "officialStateName": "The Republic of Belarus",
+    "sovereignty": "UN member state",
+    "code": "BY",
+    "ccTld": ".by"
+  },
+  {
+    "name": " Belgium",
+    "officialStateName": "The Kingdom of Belgium",
+    "sovereignty": "UN member state",
+    "code": "BE",
+    "ccTld": ".be"
+  },
+  {
+    "name": " Belize",
+    "officialStateName": "Belize",
+    "sovereignty": "UN member state",
+    "code": "BZ",
+    "ccTld": ".bz"
+  },
+  {
+    "name": " Benin",
+    "officialStateName": "The Republic of Benin",
+    "sovereignty": "UN member state",
+    "code": "BJ",
+    "ccTld": ".bj"
+  },
+  {
+    "name": " Bermuda",
+    "officialStateName": "Bermuda",
+    "sovereignty": "United Kingdom",
+    "code": "BM",
+    "ccTld": ".bm"
+  },
+  {
+    "name": " Bhutan",
+    "officialStateName": "The Kingdom of Bhutan",
+    "sovereignty": "UN member state",
+    "code": "BT",
+    "ccTld": ".bt"
+  },
+  {
+    "name": " Bolivia (Plurinational State of)",
+    "officialStateName": "The Plurinational State of Bolivia",
+    "sovereignty": "UN member state",
+    "code": "BO",
+    "ccTld": ".bo"
+  },
+  {
+    "name": " Bonaire, Sint Eustatius, Saba",
+    "officialStateName": "Bonaire, Sint Eustatius and Saba",
+    "sovereignty": "Netherlands",
+    "code": "BQ",
+    "ccTld": ".bq .nl "
+  },
+  {
+    "name": " Bosnia and Herzegovina",
+    "officialStateName": "Bosnia and Herzegovina",
+    "sovereignty": "UN member state",
+    "code": "BA",
+    "ccTld": ".ba"
+  },
+  {
+    "name": " Botswana",
+    "officialStateName": "The Republic of Botswana",
+    "sovereignty": "UN member state",
+    "code": "BW",
+    "ccTld": ".bw"
+  },
+  {
+    "name": " Bouvet Island",
+    "officialStateName": "Bouvet Island",
+    "sovereignty": "Norway",
+    "code": "BV",
+    "ccTld": ""
+  },
+  {
+    "name": " Brazil",
+    "officialStateName": "The Federative Republic of Brazil",
+    "sovereignty": "UN member state",
+    "code": "BR",
+    "ccTld": ".br"
+  },
+  {
+    "name": " British Indian Ocean Territory (the)",
+    "officialStateName": "The British Indian Ocean Territory",
+    "sovereignty": "United Kingdom",
+    "code": "IO",
+    "ccTld": ".io"
+  },
+  {
+    "name": " Brunei Darussalam ",
+    "officialStateName": "The Nation of Brunei, the Abode of Peace",
+    "sovereignty": "UN member state",
+    "code": "BN",
+    "ccTld": ".bn"
+  },
+  {
+    "name": " Bulgaria",
+    "officialStateName": "The Republic of Bulgaria",
+    "sovereignty": "UN member state",
+    "code": "BG",
+    "ccTld": ".bg"
+  },
+  {
+    "name": " Burkina Faso",
+    "officialStateName": "Burkina Faso",
+    "sovereignty": "UN member state",
+    "code": "BF",
+    "ccTld": ".bf"
+  },
+  {
+    "name": " Burundi",
+    "officialStateName": "The Republic of Burundi",
+    "sovereignty": "UN member state",
+    "code": "BI",
+    "ccTld": ".bi"
+  },
+  {
+    "name": " Cabo Verde ",
+    "officialStateName": "The Republic of Cabo Verde",
+    "sovereignty": "UN member state",
+    "code": "CV",
+    "ccTld": ".cv"
+  },
+  {
+    "name": " Cambodia",
+    "officialStateName": "The Kingdom of Cambodia",
+    "sovereignty": "UN member state",
+    "code": "KH",
+    "ccTld": ".kh"
+  },
+  {
+    "name": " Cameroon",
+    "officialStateName": "The Republic of Cameroon",
+    "sovereignty": "UN member state",
+    "code": "CM",
+    "ccTld": ".cm"
+  },
+  {
+    "name": " Canada",
+    "officialStateName": "Canada",
+    "sovereignty": "UN member state",
+    "code": "CA",
+    "ccTld": ".ca"
+  },
+  {
+    "name": " Cayman Islands (the)",
+    "officialStateName": "The Cayman Islands",
+    "sovereignty": "United Kingdom",
+    "code": "KY",
+    "ccTld": ".ky"
+  },
+  {
+    "name": " Central African Republic (the)",
+    "officialStateName": "The Central African Republic",
+    "sovereignty": "UN member state",
+    "code": "CF",
+    "ccTld": ".cf"
+  },
+  {
+    "name": " Chad",
+    "officialStateName": "The Republic of Chad",
+    "sovereignty": "UN member state",
+    "code": "TD",
+    "ccTld": ".td"
+  },
+  {
+    "name": " Chile",
+    "officialStateName": "The Republic of Chile",
+    "sovereignty": "UN member state",
+    "code": "CL",
+    "ccTld": ".cl"
+  },
+  {
+    "name": " China",
+    "officialStateName": "The People's Republic of China",
+    "sovereignty": "UN member state",
+    "code": "CN",
+    "ccTld": ".cn"
+  },
+  {
+    "name": " Christmas Island",
+    "officialStateName": "The Territory of Christmas Island",
+    "sovereignty": "Australia",
+    "code": "CX",
+    "ccTld": ".cx"
+  },
+  {
+    "name": " Cocos (Keeling) Islands (the)",
+    "officialStateName": "The Territory of Cocos (Keeling) Islands",
+    "sovereignty": "Australia",
+    "code": "CC",
+    "ccTld": ".cc"
+  },
+  {
+    "name": " Colombia",
+    "officialStateName": "The Republic of Colombia",
+    "sovereignty": "UN member state",
+    "code": "CO",
+    "ccTld": ".co"
+  },
+  {
+    "name": " Comoros (the)",
+    "officialStateName": "The Union of the Comoros",
+    "sovereignty": "UN member state",
+    "code": "KM",
+    "ccTld": ".km"
+  },
+  {
+    "name": " Congo (the Democratic Republic of the)",
+    "officialStateName": "The Democratic Republic of the Congo",
+    "sovereignty": "UN member state",
+    "code": "CD",
+    "ccTld": ".cd"
+  },
+  {
+    "name": " Congo (the) ",
+    "officialStateName": "The Republic of the Congo",
+    "sovereignty": "UN member state",
+    "code": "CG",
+    "ccTld": ".cg"
+  },
+  {
+    "name": " Cook Islands (the)",
+    "officialStateName": "The Cook Islands",
+    "sovereignty": "New Zealand",
+    "code": "CK",
+    "ccTld": ".ck"
+  },
+  {
+    "name": " Costa Rica",
+    "officialStateName": "The Republic of Costa Rica",
+    "sovereignty": "UN member state",
+    "code": "CR",
+    "ccTld": ".cr"
+  },
+  {
+    "name": " Côte d'Ivoire ",
+    "officialStateName": "The Republic of Côte d'Ivoire",
+    "sovereignty": "UN member state",
+    "code": "CI",
+    "ccTld": ".ci"
+  },
+  {
+    "name": " Croatia",
+    "officialStateName": "The Republic of Croatia",
+    "sovereignty": "UN member state",
+    "code": "HR",
+    "ccTld": ".hr"
+  },
+  {
+    "name": " Cuba",
+    "officialStateName": "The Republic of Cuba",
+    "sovereignty": "UN member state",
+    "code": "CU",
+    "ccTld": ".cu"
+  },
+  {
+    "name": " Curaçao",
+    "officialStateName": "The Country of Curaçao",
+    "sovereignty": "Netherlands",
+    "code": "CW",
+    "ccTld": ".cw"
+  },
+  {
+    "name": " Cyprus",
+    "officialStateName": "The Republic of Cyprus",
+    "sovereignty": "UN member state",
+    "code": "CY",
+    "ccTld": ".cy"
+  },
+  {
+    "name": " Czechia ",
+    "officialStateName": "The Czech Republic",
+    "sovereignty": "UN member state",
+    "code": "CZ",
+    "ccTld": ".cz"
+  },
+  {
+    "name": " Denmark",
+    "officialStateName": "The Kingdom of Denmark",
+    "sovereignty": "UN member state",
+    "code": "DK",
+    "ccTld": ".dk"
+  },
+  {
+    "name": " Djibouti",
+    "officialStateName": "The Republic of Djibouti",
+    "sovereignty": "UN member state",
+    "code": "DJ",
+    "ccTld": ".dj"
+  },
+  {
+    "name": " Dominica",
+    "officialStateName": "The Commonwealth of Dominica",
+    "sovereignty": "UN member state",
+    "code": "DM",
+    "ccTld": ".dm"
+  },
+  {
+    "name": " Dominican Republic (the)",
+    "officialStateName": "The Dominican Republic",
+    "sovereignty": "UN member state",
+    "code": "DO",
+    "ccTld": ".do"
+  },
+  {
+    "name": " Ecuador",
+    "officialStateName": "The Republic of Ecuador",
+    "sovereignty": "UN member state",
+    "code": "EC",
+    "ccTld": ".ec"
+  },
+  {
+    "name": " Egypt",
+    "officialStateName": "The Arab Republic of Egypt",
+    "sovereignty": "UN member state",
+    "code": "EG",
+    "ccTld": ".eg"
+  },
+  {
+    "name": " El Salvador",
+    "officialStateName": "The Republic of El Salvador",
+    "sovereignty": "UN member state",
+    "code": "SV",
+    "ccTld": ".sv"
+  },
+  {
+    "name": " Equatorial Guinea",
+    "officialStateName": "The Republic of Equatorial Guinea",
+    "sovereignty": "UN member state",
+    "code": "GQ",
+    "ccTld": ".gq"
+  },
+  {
+    "name": " Eritrea",
+    "officialStateName": "The State of Eritrea",
+    "sovereignty": "UN member state",
+    "code": "ER",
+    "ccTld": ".er"
+  },
+  {
+    "name": " Estonia",
+    "officialStateName": "The Republic of Estonia",
+    "sovereignty": "UN member state",
+    "code": "EE",
+    "ccTld": ".ee"
+  },
+  {
+    "name": " Eswatini ",
+    "officialStateName": "The Kingdom of Eswatini",
+    "sovereignty": "UN member state",
+    "code": "SZ",
+    "ccTld": ".sz"
+  },
+  {
+    "name": " Ethiopia",
+    "officialStateName": "The Federal Democratic Republic of Ethiopia",
+    "sovereignty": "UN member state",
+    "code": "ET",
+    "ccTld": ".et"
+  },
+  {
+    "name": " Falkland Islands (the) [Malvinas] ",
+    "officialStateName": "The Falkland Islands",
+    "sovereignty": "United Kingdom",
+    "code": "FK",
+    "ccTld": ".fk"
+  },
+  {
+    "name": " Faroe Islands (the)",
+    "officialStateName": "The Faroe Islands",
+    "sovereignty": "Denmark",
+    "code": "FO",
+    "ccTld": ".fo"
+  },
+  {
+    "name": " Fiji",
+    "officialStateName": "The Republic of Fiji",
+    "sovereignty": "UN member state",
+    "code": "FJ",
+    "ccTld": ".fj"
+  },
+  {
+    "name": " Finland",
+    "officialStateName": "The Republic of Finland",
+    "sovereignty": "UN member state",
+    "code": "FI",
+    "ccTld": ".fi"
+  },
+  {
+    "name": " France ",
+    "officialStateName": "The French Republic",
+    "sovereignty": "UN member state",
+    "code": "FR",
+    "ccTld": ".fr"
+  },
+  {
+    "name": " French Guiana",
+    "officialStateName": "Guyane",
+    "sovereignty": "France",
+    "code": "GF",
+    "ccTld": ".gf"
+  },
+  {
+    "name": " French Polynesia",
+    "officialStateName": "French Polynesia",
+    "sovereignty": "France",
+    "code": "PF",
+    "ccTld": ".pf"
+  },
+  {
+    "name": " French Southern Territories (the) ",
+    "officialStateName": "The French Southern and Antarctic Lands",
+    "sovereignty": "France",
+    "code": "TF",
+    "ccTld": ".tf"
+  },
+  {
+    "name": " Gabon",
+    "officialStateName": "The Gabonese Republic",
+    "sovereignty": "UN member state",
+    "code": "GA",
+    "ccTld": ".ga"
+  },
+  {
+    "name": " Gambia (the)",
+    "officialStateName": "The Republic of The Gambia",
+    "sovereignty": "UN member state",
+    "code": "GM",
+    "ccTld": ".gm"
+  },
+  {
+    "name": " Georgia",
+    "officialStateName": "Georgia",
+    "sovereignty": "UN member state",
+    "code": "GE",
+    "ccTld": ".ge"
+  },
+  {
+    "name": " Germany",
+    "officialStateName": "The Federal Republic of Germany",
+    "sovereignty": "UN member state",
+    "code": "DE",
+    "ccTld": ".de"
+  },
+  {
+    "name": " Ghana",
+    "officialStateName": "The Republic of Ghana",
+    "sovereignty": "UN member state",
+    "code": "GH",
+    "ccTld": ".gh"
+  },
+  {
+    "name": " Gibraltar",
+    "officialStateName": "Gibraltar",
+    "sovereignty": "United Kingdom",
+    "code": "GI",
+    "ccTld": ".gi"
+  },
+  {
+    "name": " Greece",
+    "officialStateName": "The Hellenic Republic",
+    "sovereignty": "UN member state",
+    "code": "GR",
+    "ccTld": ".gr"
+  },
+  {
+    "name": " Greenland",
+    "officialStateName": "Kalaallit Nunaat",
+    "sovereignty": "Denmark",
+    "code": "GL",
+    "ccTld": ".gl"
+  },
+  {
+    "name": " Grenada",
+    "officialStateName": "Grenada",
+    "sovereignty": "UN member state",
+    "code": "GD",
+    "ccTld": ".gd"
+  },
+  {
+    "name": " Guadeloupe",
+    "officialStateName": "Guadeloupe",
+    "sovereignty": "France",
+    "code": "GP",
+    "ccTld": ".gp"
+  },
+  {
+    "name": " Guam",
+    "officialStateName": "The Territory of Guam",
+    "sovereignty": "United States",
+    "code": "GU",
+    "ccTld": ".gu"
+  },
+  {
+    "name": " Guatemala",
+    "officialStateName": "The Republic of Guatemala",
+    "sovereignty": "UN member state",
+    "code": "GT",
+    "ccTld": ".gt"
+  },
+  {
+    "name": " Guernsey",
+    "officialStateName": "The Bailiwick of Guernsey",
+    "sovereignty": "British Crown",
+    "code": "GG",
+    "ccTld": ".gg"
+  },
+  {
+    "name": " Guinea",
+    "officialStateName": "The Republic of Guinea",
+    "sovereignty": "UN member state",
+    "code": "GN",
+    "ccTld": ".gn"
+  },
+  {
+    "name": " Guinea-Bissau",
+    "officialStateName": "The Republic of Guinea-Bissau",
+    "sovereignty": "UN member state",
+    "code": "GW",
+    "ccTld": ".gw"
+  },
+  {
+    "name": " Guyana",
+    "officialStateName": "The Co-operative Republic of Guyana",
+    "sovereignty": "UN member state",
+    "code": "GY",
+    "ccTld": ".gy"
+  },
+  {
+    "name": " Haiti",
+    "officialStateName": "The Republic of Haiti",
+    "sovereignty": "UN member state",
+    "code": "HT",
+    "ccTld": ".ht"
+  },
+  {
+    "name": " Heard Island and McDonald Islands",
+    "officialStateName": "The Territory of Heard Island and McDonald Islands",
+    "sovereignty": "Australia",
+    "code": "HM",
+    "ccTld": ".hm"
+  },
+  {
+    "name": " Holy See (the) ",
+    "officialStateName": "The Holy See",
+    "sovereignty": "UN observer",
+    "code": "VA",
+    "ccTld": ".va"
+  },
+  {
+    "name": " Honduras",
+    "officialStateName": "The Republic of Honduras",
+    "sovereignty": "UN member state",
+    "code": "HN",
+    "ccTld": ".hn"
+  },
+  {
+    "name": " Hong Kong",
+    "officialStateName": "The Hong Kong Special Administrative Region of China",
+    "sovereignty": "China",
+    "code": "HK",
+    "ccTld": ".hk"
+  },
+  {
+    "name": " Hungary",
+    "officialStateName": "Hungary",
+    "sovereignty": "UN member state",
+    "code": "HU",
+    "ccTld": ".hu"
+  },
+  {
+    "name": " Iceland",
+    "officialStateName": "Iceland",
+    "sovereignty": "UN member state",
+    "code": "IS",
+    "ccTld": ".is"
+  },
+  {
+    "name": " India",
+    "officialStateName": "The Republic of India",
+    "sovereignty": "UN member state",
+    "code": "IN",
+    "ccTld": ".in"
+  },
+  {
+    "name": " Indonesia",
+    "officialStateName": "The Republic of Indonesia",
+    "sovereignty": "UN member state",
+    "code": "ID",
+    "ccTld": ".id"
+  },
+  {
+    "name": " Iran (Islamic Republic of)",
+    "officialStateName": "The Islamic Republic of Iran",
+    "sovereignty": "UN member state",
+    "code": "IR",
+    "ccTld": ".ir"
+  },
+  {
+    "name": " Iraq",
+    "officialStateName": "The Republic of Iraq",
+    "sovereignty": "UN member state",
+    "code": "IQ",
+    "ccTld": ".iq"
+  },
+  {
+    "name": " Ireland",
+    "officialStateName": "Ireland",
+    "sovereignty": "UN member state",
+    "code": "IE",
+    "ccTld": ".ie"
+  },
+  {
+    "name": " Isle of Man",
+    "officialStateName": "The Isle of Man",
+    "sovereignty": "British Crown",
+    "code": "IM",
+    "ccTld": ".im"
+  },
+  {
+    "name": " Israel",
+    "officialStateName": "The State of Israel",
+    "sovereignty": "UN member state",
+    "code": "IL",
+    "ccTld": ".il"
+  },
+  {
+    "name": " Italy",
+    "officialStateName": "The Italian Republic",
+    "sovereignty": "UN member state",
+    "code": "IT",
+    "ccTld": ".it"
+  },
+  {
+    "name": " Jamaica",
+    "officialStateName": "Jamaica",
+    "sovereignty": "UN member state",
+    "code": "JM",
+    "ccTld": ".jm"
+  },
+  {
+    "name": " Japan",
+    "officialStateName": "Japan",
+    "sovereignty": "UN member state",
+    "code": "JP",
+    "ccTld": ".jp"
+  },
+  {
+    "name": " Jersey",
+    "officialStateName": "The Bailiwick of Jersey",
+    "sovereignty": "British Crown",
+    "code": "JE",
+    "ccTld": ".je"
+  },
+  {
+    "name": " Jordan",
+    "officialStateName": "The Hashemite Kingdom of Jordan",
+    "sovereignty": "UN member state",
+    "code": "JO",
+    "ccTld": ".jo"
+  },
+  {
+    "name": " Kazakhstan",
+    "officialStateName": "The Republic of Kazakhstan",
+    "sovereignty": "UN member state",
+    "code": "KZ",
+    "ccTld": ".kz"
+  },
+  {
+    "name": " Kenya",
+    "officialStateName": "The Republic of Kenya",
+    "sovereignty": "UN member state",
+    "code": "KE",
+    "ccTld": ".ke"
+  },
+  {
+    "name": " Kiribati",
+    "officialStateName": "The Republic of Kiribati",
+    "sovereignty": "UN member state",
+    "code": "KI",
+    "ccTld": ".ki"
+  },
+  {
+    "name": " Korea (the Democratic People's Republic of) ",
+    "officialStateName": "The Democratic People's Republic of Korea",
+    "sovereignty": "UN member state",
+    "code": "KP",
+    "ccTld": ".kp"
+  },
+  {
+    "name": " Korea (the Republic of) ",
+    "officialStateName": "The Republic of Korea",
+    "sovereignty": "UN member state",
+    "code": "KR",
+    "ccTld": ".kr"
+  },
+  {
+    "name": " Kuwait",
+    "officialStateName": "The State of Kuwait",
+    "sovereignty": "UN member state",
+    "code": "KW",
+    "ccTld": ".kw"
+  },
+  {
+    "name": " Kyrgyzstan",
+    "officialStateName": "The Kyrgyz Republic",
+    "sovereignty": "UN member state",
+    "code": "KG",
+    "ccTld": ".kg"
+  },
+  {
+    "name": " Lao People's Democratic Republic (the) ",
+    "officialStateName": "The Lao People's Democratic Republic",
+    "sovereignty": "UN member state",
+    "code": "LA",
+    "ccTld": ".la"
+  },
+  {
+    "name": " Latvia",
+    "officialStateName": "The Republic of Latvia",
+    "sovereignty": "UN member state",
+    "code": "LV",
+    "ccTld": ".lv"
+  },
+  {
+    "name": " Lebanon",
+    "officialStateName": "The Lebanese Republic",
+    "sovereignty": "UN member state",
+    "code": "LB",
+    "ccTld": ".lb"
+  },
+  {
+    "name": " Lesotho",
+    "officialStateName": "The Kingdom of Lesotho",
+    "sovereignty": "UN member state",
+    "code": "LS",
+    "ccTld": ".ls"
+  },
+  {
+    "name": " Liberia",
+    "officialStateName": "The Republic of Liberia",
+    "sovereignty": "UN member state",
+    "code": "LR",
+    "ccTld": ".lr"
+  },
+  {
+    "name": " Libya",
+    "officialStateName": "The State of Libya",
+    "sovereignty": "UN member state",
+    "code": "LY",
+    "ccTld": ".ly"
+  },
+  {
+    "name": " Liechtenstein",
+    "officialStateName": "The Principality of Liechtenstein",
+    "sovereignty": "UN member state",
+    "code": "LI",
+    "ccTld": ".li"
+  },
+  {
+    "name": " Lithuania",
+    "officialStateName": "The Republic of Lithuania",
+    "sovereignty": "UN member state",
+    "code": "LT",
+    "ccTld": ".lt"
+  },
+  {
+    "name": " Luxembourg",
+    "officialStateName": "The Grand Duchy of Luxembourg",
+    "sovereignty": "UN member state",
+    "code": "LU",
+    "ccTld": ".lu"
+  },
+  {
+    "name": " Macao ",
+    "officialStateName": "Macao Special Administrative Region of China",
+    "sovereignty": "China",
+    "code": "MO",
+    "ccTld": ".mo"
+  },
+  {
+    "name": " North Macedonia ",
+    "officialStateName": "The Republic of North Macedonia",
+    "sovereignty": "UN member state",
+    "code": "MK",
+    "ccTld": ".mk"
+  },
+  {
+    "name": " Madagascar",
+    "officialStateName": "The Republic of Madagascar",
+    "sovereignty": "UN member state",
+    "code": "MG",
+    "ccTld": ".mg"
+  },
+  {
+    "name": " Malawi",
+    "officialStateName": "The Republic of Malawi",
+    "sovereignty": "UN member state",
+    "code": "MW",
+    "ccTld": ".mw"
+  },
+  {
+    "name": " Malaysia",
+    "officialStateName": "Malaysia",
+    "sovereignty": "UN member state",
+    "code": "MY",
+    "ccTld": ".my"
+  },
+  {
+    "name": " Maldives",
+    "officialStateName": "The Republic of Maldives",
+    "sovereignty": "UN member state",
+    "code": "MV",
+    "ccTld": ".mv"
+  },
+  {
+    "name": " Mali",
+    "officialStateName": "The Republic of Mali",
+    "sovereignty": "UN member state",
+    "code": "ML",
+    "ccTld": ".ml"
+  },
+  {
+    "name": " Malta",
+    "officialStateName": "The Republic of Malta",
+    "sovereignty": "UN member state",
+    "code": "MT",
+    "ccTld": ".mt"
+  },
+  {
+    "name": " Marshall Islands (the)",
+    "officialStateName": "The Republic of the Marshall Islands",
+    "sovereignty": "UN member state",
+    "code": "MH",
+    "ccTld": ".mh"
+  },
+  {
+    "name": " Martinique",
+    "officialStateName": "Martinique",
+    "sovereignty": "France",
+    "code": "MQ",
+    "ccTld": ".mq"
+  },
+  {
+    "name": " Mauritania",
+    "officialStateName": "The Islamic Republic of Mauritania",
+    "sovereignty": "UN member state",
+    "code": "MR",
+    "ccTld": ".mr"
+  },
+  {
+    "name": " Mauritius",
+    "officialStateName": "The Republic of Mauritius",
+    "sovereignty": "UN member state",
+    "code": "MU",
+    "ccTld": ".mu"
+  },
+  {
+    "name": " Mayotte",
+    "officialStateName": "The Department of Mayotte",
+    "sovereignty": "France",
+    "code": "YT",
+    "ccTld": ".yt"
+  },
+  {
+    "name": " Mexico",
+    "officialStateName": "The United Mexican States",
+    "sovereignty": "UN member state",
+    "code": "MX",
+    "ccTld": ".mx"
+  },
+  {
+    "name": " Micronesia (Federated States of)",
+    "officialStateName": "The Federated States of Micronesia",
+    "sovereignty": "UN member state",
+    "code": "FM",
+    "ccTld": ".fm"
+  },
+  {
+    "name": " Moldova (the Republic of)",
+    "officialStateName": "The Republic of Moldova",
+    "sovereignty": "UN member state",
+    "code": "MD",
+    "ccTld": ".md"
+  },
+  {
+    "name": " Monaco",
+    "officialStateName": "The Principality of Monaco",
+    "sovereignty": "UN member state",
+    "code": "MC",
+    "ccTld": ".mc"
+  },
+  {
+    "name": " Mongolia",
+    "officialStateName": "Mongolia",
+    "sovereignty": "UN member state",
+    "code": "MN",
+    "ccTld": ".mn"
+  },
+  {
+    "name": " Montenegro",
+    "officialStateName": "Montenegro",
+    "sovereignty": "UN member state",
+    "code": "ME",
+    "ccTld": ".me"
+  },
+  {
+    "name": " Montserrat",
+    "officialStateName": "Montserrat",
+    "sovereignty": "United Kingdom",
+    "code": "MS",
+    "ccTld": ".ms"
+  },
+  {
+    "name": " Morocco",
+    "officialStateName": "The Kingdom of Morocco",
+    "sovereignty": "UN member state",
+    "code": "MA",
+    "ccTld": ".ma"
+  },
+  {
+    "name": " Mozambique",
+    "officialStateName": "The Republic of Mozambique",
+    "sovereignty": "UN member state",
+    "code": "MZ",
+    "ccTld": ".mz"
+  },
+  {
+    "name": " Myanmar ",
+    "officialStateName": "The Republic of the Union of Myanmar",
+    "sovereignty": "UN member state",
+    "code": "MM",
+    "ccTld": ".mm"
+  },
+  {
+    "name": " Namibia",
+    "officialStateName": "The Republic of Namibia",
+    "sovereignty": "UN member state",
+    "code": "NA",
+    "ccTld": ".na"
+  },
+  {
+    "name": " Nauru",
+    "officialStateName": "The Republic of Nauru",
+    "sovereignty": "UN member state",
+    "code": "NR",
+    "ccTld": ".nr"
+  },
+  {
+    "name": " Nepal",
+    "officialStateName": "The Federal Democratic Republic of Nepal",
+    "sovereignty": "UN member state",
+    "code": "NP",
+    "ccTld": ".np"
+  },
+  {
+    "name": " Netherlands (the)",
+    "officialStateName": "The Kingdom of the Netherlands",
+    "sovereignty": "UN member state",
+    "code": "NL",
+    "ccTld": ".nl"
+  },
+  {
+    "name": " New Caledonia",
+    "officialStateName": "New Caledonia",
+    "sovereignty": "France",
+    "code": "NC",
+    "ccTld": ".nc"
+  },
+  {
+    "name": " New Zealand",
+    "officialStateName": "New Zealand",
+    "sovereignty": "UN member state",
+    "code": "NZ",
+    "ccTld": ".nz"
+  },
+  {
+    "name": " Nicaragua",
+    "officialStateName": "The Republic of Nicaragua",
+    "sovereignty": "UN member state",
+    "code": "NI",
+    "ccTld": ".ni"
+  },
+  {
+    "name": " Niger (the)",
+    "officialStateName": "The Republic of the Niger",
+    "sovereignty": "UN member state",
+    "code": "NE",
+    "ccTld": ".ne"
+  },
+  {
+    "name": " Nigeria",
+    "officialStateName": "The Federal Republic of Nigeria",
+    "sovereignty": "UN member state",
+    "code": "NG",
+    "ccTld": ".ng"
+  },
+  {
+    "name": " Niue",
+    "officialStateName": "Niue",
+    "sovereignty": "New Zealand",
+    "code": "NU",
+    "ccTld": ".nu"
+  },
+  {
+    "name": " Norfolk Island",
+    "officialStateName": "The Territory of Norfolk Island",
+    "sovereignty": "Australia",
+    "code": "NF",
+    "ccTld": ".nf"
+  },
+  {
+    "name": " Northern Mariana Islands (the)",
+    "officialStateName": "The Commonwealth of the Northern Mariana Islands",
+    "sovereignty": "United States",
+    "code": "MP",
+    "ccTld": ".mp"
+  },
+  {
+    "name": " Norway",
+    "officialStateName": "The Kingdom of Norway",
+    "sovereignty": "UN member state",
+    "code": "NO",
+    "ccTld": ".no"
+  },
+  {
+    "name": " Oman",
+    "officialStateName": "The Sultanate of Oman",
+    "sovereignty": "UN member state",
+    "code": "OM",
+    "ccTld": ".om"
+  },
+  {
+    "name": " Pakistan",
+    "officialStateName": "The Islamic Republic of Pakistan",
+    "sovereignty": "UN member state",
+    "code": "PK",
+    "ccTld": ".pk"
+  },
+  {
+    "name": " Palau",
+    "officialStateName": "The Republic of Palau",
+    "sovereignty": "UN member state",
+    "code": "PW",
+    "ccTld": ".pw"
+  },
+  {
+    "name": " Palestine, State of",
+    "officialStateName": "The State of Palestine",
+    "sovereignty": "UN observer",
+    "code": "PS",
+    "ccTld": ".ps"
+  },
+  {
+    "name": " Panama",
+    "officialStateName": "The Republic of Panamá",
+    "sovereignty": "UN member state",
+    "code": "PA",
+    "ccTld": ".pa"
+  },
+  {
+    "name": " Papua New Guinea",
+    "officialStateName": "The Independent State of Papua New Guinea",
+    "sovereignty": "UN member state",
+    "code": "PG",
+    "ccTld": ".pg"
+  },
+  {
+    "name": " Paraguay",
+    "officialStateName": "The Republic of Paraguay",
+    "sovereignty": "UN member state",
+    "code": "PY",
+    "ccTld": ".py"
+  },
+  {
+    "name": " Peru",
+    "officialStateName": "The Republic of Perú",
+    "sovereignty": "UN member state",
+    "code": "PE",
+    "ccTld": ".pe"
+  },
+  {
+    "name": " Philippines (the)",
+    "officialStateName": "The Republic of the Philippines",
+    "sovereignty": "UN member state",
+    "code": "PH",
+    "ccTld": ".ph"
+  },
+  {
+    "name": " Pitcairn ",
+    "officialStateName": "The Pitcairn, Henderson, Ducie and Oeno Islands",
+    "sovereignty": "United Kingdom",
+    "code": "PN",
+    "ccTld": ".pn"
+  },
+  {
+    "name": " Poland",
+    "officialStateName": "The Republic of Poland",
+    "sovereignty": "UN member state",
+    "code": "PL",
+    "ccTld": ".pl"
+  },
+  {
+    "name": " Portugal",
+    "officialStateName": "The Portuguese Republic",
+    "sovereignty": "UN member state",
+    "code": "PT",
+    "ccTld": ".pt"
+  },
+  {
+    "name": " Puerto Rico",
+    "officialStateName": "The Commonwealth of Puerto Rico",
+    "sovereignty": "United States",
+    "code": "PR",
+    "ccTld": ".pr"
+  },
+  {
+    "name": " Qatar",
+    "officialStateName": "The State of Qatar",
+    "sovereignty": "UN member state",
+    "code": "QA",
+    "ccTld": ".qa"
+  },
+  {
+    "name": " Réunion",
+    "officialStateName": "Réunion",
+    "sovereignty": "France",
+    "code": "RE",
+    "ccTld": ".re"
+  },
+  {
+    "name": " Romania",
+    "officialStateName": "Romania",
+    "sovereignty": "UN member state",
+    "code": "RO",
+    "ccTld": ".ro"
+  },
+  {
+    "name": " Russian Federation (the) ",
+    "officialStateName": "The Russian Federation",
+    "sovereignty": "UN member state",
+    "code": "RU",
+    "ccTld": ".ru"
+  },
+  {
+    "name": " Rwanda",
+    "officialStateName": "The Republic of Rwanda",
+    "sovereignty": "UN member state",
+    "code": "RW",
+    "ccTld": ".rw"
+  },
+  {
+    "name": " Saint Barthélemy",
+    "officialStateName": "The Collectivity of Saint-Barthélemy",
+    "sovereignty": "France",
+    "code": "BL",
+    "ccTld": ".bl"
+  },
+  {
+    "name": " Saint Helena, Ascension Island, Tristan da Cunha",
+    "officialStateName": "Saint Helena, Ascension and Tristan da Cunha",
+    "sovereignty": "United Kingdom",
+    "code": "SH",
+    "ccTld": ".sh"
+  },
+  {
+    "name": " Saint Kitts and Nevis",
+    "officialStateName": "Saint Kitts and Nevis",
+    "sovereignty": "UN member state",
+    "code": "KN",
+    "ccTld": ".kn"
+  },
+  {
+    "name": " Saint Lucia",
+    "officialStateName": "Saint Lucia",
+    "sovereignty": "UN member state",
+    "code": "LC",
+    "ccTld": ".lc"
+  },
+  {
+    "name": " Saint Martin (French part)",
+    "officialStateName": "The Collectivity of Saint-Martin",
+    "sovereignty": "France",
+    "code": "MF",
+    "ccTld": ".mf"
+  },
+  {
+    "name": " Saint Pierre and Miquelon",
+    "officialStateName": "The Overseas Collectivity of Saint-Pierre and Miquelon",
+    "sovereignty": "France",
+    "code": "PM",
+    "ccTld": ".pm"
+  },
+  {
+    "name": " Saint Vincent and the Grenadines",
+    "officialStateName": "Saint Vincent and the Grenadines",
+    "sovereignty": "UN member state",
+    "code": "VC",
+    "ccTld": ".vc"
+  },
+  {
+    "name": " Samoa",
+    "officialStateName": "The Independent State of Samoa",
+    "sovereignty": "UN member state",
+    "code": "WS",
+    "ccTld": ".ws"
+  },
+  {
+    "name": " San Marino",
+    "officialStateName": "The Republic of San Marino",
+    "sovereignty": "UN member state",
+    "code": "SM",
+    "ccTld": ".sm"
+  },
+  {
+    "name": " Sao Tome and Principe",
+    "officialStateName": "The Democratic Republic of São Tomé and Príncipe",
+    "sovereignty": "UN member state",
+    "code": "ST",
+    "ccTld": ".st"
+  },
+  {
+    "name": " Saudi Arabia",
+    "officialStateName": "The Kingdom of Saudi Arabia",
+    "sovereignty": "UN member state",
+    "code": "SA",
+    "ccTld": ".sa"
+  },
+  {
+    "name": " Senegal",
+    "officialStateName": "The Republic of Senegal",
+    "sovereignty": "UN member state",
+    "code": "SN",
+    "ccTld": ".sn"
+  },
+  {
+    "name": " Serbia",
+    "officialStateName": "The Republic of Serbia",
+    "sovereignty": "UN member state",
+    "code": "RS",
+    "ccTld": ".rs"
+  },
+  {
+    "name": " Seychelles",
+    "officialStateName": "The Republic of Seychelles",
+    "sovereignty": "UN member state",
+    "code": "SC",
+    "ccTld": ".sc"
+  },
+  {
+    "name": " Sierra Leone",
+    "officialStateName": "The Republic of Sierra Leone",
+    "sovereignty": "UN member state",
+    "code": "SL",
+    "ccTld": ".sl"
+  },
+  {
+    "name": " Singapore",
+    "officialStateName": "The Republic of Singapore",
+    "sovereignty": "UN member state",
+    "code": "SG",
+    "ccTld": ".sg"
+  },
+  {
+    "name": " Sint Maarten (Dutch part)",
+    "officialStateName": "Sint Maarten",
+    "sovereignty": "Netherlands",
+    "code": "SX",
+    "ccTld": ".sx"
+  },
+  {
+    "name": " Slovakia",
+    "officialStateName": "The Slovak Republic",
+    "sovereignty": "UN member state",
+    "code": "SK",
+    "ccTld": ".sk"
+  },
+  {
+    "name": " Slovenia",
+    "officialStateName": "The Republic of Slovenia",
+    "sovereignty": "UN member state",
+    "code": "SI",
+    "ccTld": ".si"
+  },
+  {
+    "name": " Solomon Islands",
+    "officialStateName": "The Solomon Islands",
+    "sovereignty": "UN member state",
+    "code": "SB",
+    "ccTld": ".sb"
+  },
+  {
+    "name": " Somalia",
+    "officialStateName": "The Federal Republic of Somalia",
+    "sovereignty": "UN member state",
+    "code": "SO",
+    "ccTld": ".so"
+  },
+  {
+    "name": " South Africa",
+    "officialStateName": "The Republic of South Africa",
+    "sovereignty": "UN member state",
+    "code": "ZA",
+    "ccTld": ".za"
+  },
+  {
+    "name": " South Georgia and the South Sandwich Islands",
+    "officialStateName": "South Georgia and the South Sandwich Islands",
+    "sovereignty": "United Kingdom",
+    "code": "GS",
+    "ccTld": ".gs"
+  },
+  {
+    "name": " South Sudan",
+    "officialStateName": "The Republic of South Sudan",
+    "sovereignty": "UN member state",
+    "code": "SS",
+    "ccTld": ".ss"
+  },
+  {
+    "name": " Spain",
+    "officialStateName": "The Kingdom of Spain",
+    "sovereignty": "UN member state",
+    "code": "ES",
+    "ccTld": ".es"
+  },
+  {
+    "name": " Sri Lanka",
+    "officialStateName": "The Democratic Socialist Republic of Sri Lanka",
+    "sovereignty": "UN member state",
+    "code": "LK",
+    "ccTld": ".lk"
+  },
+  {
+    "name": " Sudan (the)",
+    "officialStateName": "The Republic of the Sudan",
+    "sovereignty": "UN member state",
+    "code": "SD",
+    "ccTld": ".sd"
+  },
+  {
+    "name": " Suriname",
+    "officialStateName": "The Republic of Suriname",
+    "sovereignty": "UN member state",
+    "code": "SR",
+    "ccTld": ".sr"
+  },
+  {
+    "name": " Svalbard, Jan Mayen",
+    "officialStateName": "Svalbard and Jan Mayen",
+    "sovereignty": "Norway",
+    "code": "SJ",
+    "ccTld": ""
+  },
+  {
+    "name": " Sweden",
+    "officialStateName": "The Kingdom of Sweden",
+    "sovereignty": "UN member state",
+    "code": "SE",
+    "ccTld": ".se"
+  },
+  {
+    "name": " Switzerland",
+    "officialStateName": "The Swiss Confederation",
+    "sovereignty": "UN member state",
+    "code": "CH",
+    "ccTld": ".ch"
+  },
+  {
+    "name": " Syrian Arab Republic (the) ",
+    "officialStateName": "The Syrian Arab Republic",
+    "sovereignty": "UN member state",
+    "code": "SY",
+    "ccTld": ".sy"
+  },
+  {
+    "name": " Taiwan (Province of China) ",
+    "officialStateName": "The Republic of China",
+    "sovereignty": "disputed ",
+    "code": "TW",
+    "ccTld": ".tw"
+  },
+  {
+    "name": " Tajikistan",
+    "officialStateName": "The Republic of Tajikistan",
+    "sovereignty": "UN member state",
+    "code": "TJ",
+    "ccTld": ".tj"
+  },
+  {
+    "name": " Tanzania, the United Republic of",
+    "officialStateName": "The United Republic of Tanzania",
+    "sovereignty": "UN member state",
+    "code": "TZ",
+    "ccTld": ".tz"
+  },
+  {
+    "name": " Thailand",
+    "officialStateName": "The Kingdom of Thailand",
+    "sovereignty": "UN member state",
+    "code": "TH",
+    "ccTld": ".th"
+  },
+  {
+    "name": " Timor-Leste [aa]",
+    "officialStateName": "The Democratic Republic of Timor-Leste",
+    "sovereignty": "UN member state",
+    "code": "TL",
+    "ccTld": ".tl"
+  },
+  {
+    "name": " Togo",
+    "officialStateName": "The Togolese Republic",
+    "sovereignty": "UN member state",
+    "code": "TG",
+    "ccTld": ".tg"
+  },
+  {
+    "name": " Tokelau",
+    "officialStateName": "Tokelau",
+    "sovereignty": "New Zealand",
+    "code": "TK",
+    "ccTld": ".tk"
+  },
+  {
+    "name": " Tonga",
+    "officialStateName": "The Kingdom of Tonga",
+    "sovereignty": "UN member state",
+    "code": "TO",
+    "ccTld": ".to"
+  },
+  {
+    "name": " Trinidad and Tobago",
+    "officialStateName": "The Republic of Trinidad and Tobago",
+    "sovereignty": "UN member state",
+    "code": "TT",
+    "ccTld": ".tt"
+  },
+  {
+    "name": " Tunisia",
+    "officialStateName": "The Republic of Tunisia",
+    "sovereignty": "UN member state",
+    "code": "TN",
+    "ccTld": ".tn"
+  },
+  {
+    "name": " Turkey",
+    "officialStateName": "The Republic of Turkey",
+    "sovereignty": "UN member state",
+    "code": "TR",
+    "ccTld": ".tr"
+  },
+  {
+    "name": " Turkmenistan",
+    "officialStateName": "Turkmenistan",
+    "sovereignty": "UN member state",
+    "code": "TM",
+    "ccTld": ".tm"
+  },
+  {
+    "name": " Turks and Caicos Islands (the)",
+    "officialStateName": "The Turks and Caicos Islands",
+    "sovereignty": "United Kingdom",
+    "code": "TC",
+    "ccTld": ".tc"
+  },
+  {
+    "name": " Tuvalu",
+    "officialStateName": "Tuvalu",
+    "sovereignty": "UN member state",
+    "code": "TV",
+    "ccTld": ".tv"
+  },
+  {
+    "name": " Uganda",
+    "officialStateName": "The Republic of Uganda",
+    "sovereignty": "UN member state",
+    "code": "UG",
+    "ccTld": ".ug"
+  },
+  {
+    "name": " Ukraine",
+    "officialStateName": "Ukraine",
+    "sovereignty": "UN member state",
+    "code": "UA",
+    "ccTld": ".ua"
+  },
+  {
+    "name": " United Arab Emirates (the)",
+    "officialStateName": "The United Arab Emirates",
+    "sovereignty": "UN member state",
+    "code": "AE",
+    "ccTld": ".ae"
+  },
+  {
+    "name": " United Kingdom of Great Britain and Northern Ireland (the)",
+    "officialStateName": "The United Kingdom of Great Britain and Northern Ireland",
+    "sovereignty": "UN member state",
+    "code": "GB",
+    "ccTld": ".gb .uk [ab]"
+  },
+  {
+    "name": " United States Minor Outlying Islands (the) [ac]",
+    "officialStateName": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island",
+    "sovereignty": "United States",
+    "code": "UM",
+    "ccTld": "[ad]"
+  },
+  {
+    "name": " United States of America (the)",
+    "officialStateName": "The United States of America",
+    "sovereignty": "UN member state",
+    "code": "US",
+    "ccTld": ".us"
+  },
+  {
+    "name": " Uruguay",
+    "officialStateName": "The Oriental Republic of Uruguay",
+    "sovereignty": "UN member state",
+    "code": "UY",
+    "ccTld": ".uy"
+  },
+  {
+    "name": " Uzbekistan",
+    "officialStateName": "The Republic of Uzbekistan",
+    "sovereignty": "UN member state",
+    "code": "UZ",
+    "ccTld": ".uz"
+  },
+  {
+    "name": " Vanuatu",
+    "officialStateName": "The Republic of Vanuatu",
+    "sovereignty": "UN member state",
+    "code": "VU",
+    "ccTld": ".vu"
+  },
+  {
+    "name": " Venezuela (Bolivarian Republic of)",
+    "officialStateName": "The Bolivarian Republic of Venezuela",
+    "sovereignty": "UN member state",
+    "code": "VE",
+    "ccTld": ".ve"
+  },
+  {
+    "name": " Viet Nam [ae]",
+    "officialStateName": "The Socialist Republic of Viet Nam",
+    "sovereignty": "UN member state",
+    "code": "VN",
+    "ccTld": ".vn"
+  },
+  {
+    "name": " Virgin Islands (British) [af]",
+    "officialStateName": "The Virgin Islands",
+    "sovereignty": "United Kingdom",
+    "code": "VG",
+    "ccTld": ".vg"
+  },
+  {
+    "name": " Virgin Islands (U.S.) [ag]",
+    "officialStateName": "The Virgin Islands of the United States",
+    "sovereignty": "United States",
+    "code": "VI",
+    "ccTld": ".vi"
+  },
+  {
+    "name": " Wallis and Futuna",
+    "officialStateName": "The Territory of the Wallis and Futuna Islands",
+    "sovereignty": "France",
+    "code": "WF",
+    "ccTld": ".wf"
+  },
+  {
+    "name": " Western Sahara [ah]",
+    "officialStateName": "The Sahrawi Arab Democratic Republic",
+    "sovereignty": "disputed [ai]",
+    "code": "EH",
+    "ccTld": "[aj]"
+  },
+  {
+    "name": " Yemen",
+    "officialStateName": "The Republic of Yemen",
+    "sovereignty": "UN member state",
+    "code": "YE",
+    "ccTld": ".ye"
+  },
+  {
+    "name": " Zambia",
+    "officialStateName": "The Republic of Zambia",
+    "sovereignty": "UN member state",
+    "code": "ZM",
+    "ccTld": ".zm"
+  },
+  {
+    "name": " Zimbabwe",
+    "officialStateName": "The Republic of Zimbabwe",
+    "sovereignty": "UN member state",
+    "code": "ZW",
+    "ccTld": ".zw"
+  }
+]

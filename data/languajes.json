@@ -1,0 +1,1873 @@
+[
+  {
+    "country": "Abkhazia",
+    "officialLanguage": "Abkhaz,Russian",
+    "regionalLanguage": "",
+    "minorityLanguage": "Georgian",
+    "nationalLanguage": "Abkhaz",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Afghanistan",
+    "officialLanguage": "Pashto,Dari",
+    "regionalLanguage": "Uzbek,Turkmen,Pashai,Nuristani,Balochi,Pamiri",
+    "minorityLanguage": "",
+    "nationalLanguage": "Pashto",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Albania",
+    "officialLanguage": "Albanian",
+    "regionalLanguage": "",
+    "minorityLanguage": "Greek,Macedonian,Aromanian",
+    "nationalLanguage": "",
+    "widelySpoken": "Italian"
+  },
+  {
+    "country": "Algeria",
+    "officialLanguage": "Arabic,Tamazight",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Arabic,Tamazight",
+    "widelySpoken": "French"
+  },
+  {
+    "country": "Andorra",
+    "officialLanguage": "Catalan",
+    "regionalLanguage": "",
+    "minorityLanguage": "Spanish,French,Portuguese",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Angola",
+    "officialLanguage": "Portuguese",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Kimbundu,Umbundu,Kikongo,Chokwe,Kwanyama,Ganguela[citation needed]",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Argentina",
+    "officialLanguage": "None (Spanish has de facto status)",
+    "regionalLanguage": "Spanish (in Corrientes and Chaco),Guaraní (in Corrientes),Kom (in Chaco),Moquoit (in Chaco),Wichi (in Chaco)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Armenia",
+    "officialLanguage": "Armenian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Armenian (state language)",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Artsakh",
+    "officialLanguage": "Armenian,Russian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Australia",
+    "officialLanguage": "None (English has de facto status)",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Austria",
+    "officialLanguage": "German",
+    "regionalLanguage": "Croatian (parts of Burgenland),Hungarian (parts of Burgenland),Slovene (parts of Carinthia)",
+    "minorityLanguage": "Slovene,Czech,Hungarian,Slovak,Romani,Serbian",
+    "nationalLanguage": "German (state language)",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Azerbaijan",
+    "officialLanguage": "Azerbaijani",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Azerbaijani (state language)",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Bahamas",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Bahrain",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Bangladesh",
+    "officialLanguage": "Bengali",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Bengali",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Barbados",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Belarus",
+    "officialLanguage": "Belarusian,Russian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Belgium",
+    "officialLanguage": "Dutch,French,German",
+    "regionalLanguage": "Dutch (Flanders, Brussels),French (Brussels, Wallonia),German (German-speaking community)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Belize",
+    "officialLanguage": "English",
+    "regionalLanguage": "Spanish (border with Mexico and Guatemala)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Kriol (lingua franca)"
+  },
+  {
+    "country": "Benin",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Bhutan",
+    "officialLanguage": "Dzongkha",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Bolivia",
+    "officialLanguage": "Spanish,37 other languages",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "officialLanguage": "None (Bosnian, Croatian and Serbian all have de facto status) ",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Botswana",
+    "officialLanguage": "English,Tswana",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Tswana",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Brazil",
+    "officialLanguage": "Portuguese",
+    "regionalLanguage": "German (in Pomerode),East Pomeranian (in Pancas, Santa Maria de Jetibá, Domingos Martins, Itarana, Laranja da Terra, Vila Pavão and Canguçu),Riograndenser Hunsrückisch (in Antônio Carlos, Santa Catarina, and in Santa Maria do Herval, Rio Grande do Sul),Talian (in Bento Gonçalves, Caxias do Sul, Flores da Cunha Nova Roma do Sul and Serafina Corréa),Nheengatu, Baniwa, Tucano (in Sào Gabriel de Cachoeira, Amazonas),Guaraní (in Tacuru, Mato Grosso do Sul)",
+    "minorityLanguage": "",
+    "nationalLanguage": "Portuguese",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Brunei",
+    "officialLanguage": "Malay,English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Bulgaria",
+    "officialLanguage": "Bulgarian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Burkina Faso",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Fula,Jula,More",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Burundi",
+    "officialLanguage": "French,Kirundi,English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Kirundi",
+    "widelySpoken": "Swahili"
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Cambodia",
+    "officialLanguage": "Khmer",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Cameroon",
+    "officialLanguage": "English,French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Canada",
+    "officialLanguage": "English (Federal),French (Federal)",
+    "regionalLanguage": "Chipewyan (Northwest Territories),Cree (Northwest Territories),Gwich'in (Northwest Territories),Inuinnaqtun (Northwest Territories and Nunavut),Inuktitut (Northwest Territories and Nunavut),Inuvialuktun (Northwest Territories),North Slavey (Northwest Territories),South Slavey (Northwest Territories),Tłı̨chǫ (Northwest Territories)",
+    "minorityLanguage": "Chipewyan,Cree,Gwich'in,Inuinnaqtun,Inuktitut,Inuvialuktun,North Slavey,South Slavey,Tłı̨chǫ",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Cape Verde",
+    "officialLanguage": "Portuguese",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Cape Verdean Creole",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Central African Republic",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "Sango",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Chad",
+    "officialLanguage": "Arabic,French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Chile",
+    "officialLanguage": "None (Spanish has de facto status)",
+    "regionalLanguage": "(Languages of ethnic groups are official in their territories)",
+    "minorityLanguage": "",
+    "nationalLanguage": "Spanish",
+    "widelySpoken": ""
+  },
+  {
+    "country": "China",
+    "officialLanguage": "Mandarin Chinese",
+    "regionalLanguage": "English (Hong Kong),Portuguese (Macau)",
+    "minorityLanguage": "Mongolian,Uyghur,Tibetan,Zhuang,Kazakh,Korean",
+    "nationalLanguage": "",
+    "widelySpoken": "Cantonese (De facto in Hong Kong and Macau)"
+  },
+  {
+    "country": " Christmas Island",
+    "officialLanguage": "English, Mandarin Chinese, Malay",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": ""
+  },
+  {
+    "country": " Cocos (Keeling) Islands",
+    "officialLanguage": "English, Cocos Malay",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Malay"
+  },
+  {
+    "country": "Colombia",
+    "officialLanguage": "Spanish",
+    "regionalLanguage": "(Languages of ethnic groups are official in their territories)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Comoros",
+    "officialLanguage": "Arabic,Comorian,French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "Lingala,Kikongo",
+    "nationalLanguage": "Swahili,Tshiluba",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Republic of the Congo",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "Lingala,Munukutuba",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": " Cook Islands",
+    "officialLanguage": "English, Cook Islands Māori",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Costa Rica",
+    "officialLanguage": "Spanish",
+    "regionalLanguage": "",
+    "minorityLanguage": "Indigenous languages,Limonese Creole",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Croatia",
+    "officialLanguage": "Croatian",
+    "regionalLanguage": "Serbian,Hungarian,Czech,Slovak,Pannonian Rusyn,Istro-Romanian (protected[clarification needed])",
+    "minorityLanguage": "",
+    "nationalLanguage": "Italian (Istria County),Romani (non-territorial),Slovene (non-territorial)",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Cuba",
+    "officialLanguage": "Spanish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Cyprus",
+    "officialLanguage": "Greek,Turkish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Armenian,Cypriot Arabic",
+    "widelySpoken": "English"
+  },
+  {
+    "country": "Czech Republic",
+    "officialLanguage": "Czech,Slovak",
+    "regionalLanguage": "",
+    "minorityLanguage": "Belarusian,Bulgarian,Croatian,German,Greek,Hungarian,Polish,Romani,Russian,Rusyn,Serbian,Ukrainian,Vietnamese",
+    "nationalLanguage": "Czech",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Denmark",
+    "officialLanguage": "Danish",
+    "regionalLanguage": "Faroese (in the Faroe Islands),Kalaallisut (in Greenland)",
+    "minorityLanguage": "German (in Southern Jutland)",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Djibouti",
+    "officialLanguage": "Arabic,French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Dominica",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Dominican Republic",
+    "officialLanguage": "Spanish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "East Timor",
+    "officialLanguage": "Portuguese,Tetum",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Ecuador",
+    "officialLanguage": "Spanish,Quechua (official language of intercultural relation)",
+    "regionalLanguage": "",
+    "minorityLanguage": "Kichwa (official minority language),Shuar (official minority language)",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Egypt",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "Coptic",
+    "nationalLanguage": "Egyptian Language",
+    "widelySpoken": "Egyptian Arabic"
+  },
+  {
+    "country": "El Salvador",
+    "officialLanguage": "Spanish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Equatorial Guinea",
+    "officialLanguage": "French,Portuguese,Spanish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Eritrea",
+    "officialLanguage": "Tigrinya",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Arabic,Italian"
+  },
+  {
+    "country": "Estonia",
+    "officialLanguage": "Estonian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Russian"
+  },
+  {
+    "country": "Eswatini",
+    "officialLanguage": "English,Swazi",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Ethiopia",
+    "officialLanguage": "Afar,Amharic,Oromo,Somali,Tigrinya,English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Afar,Amharic,Benshangul,Gumuz,Harari,Kunama,Oromo,Sidamo,Somali,Tigrinya,English",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Fiji",
+    "officialLanguage": "English,Fijian,Fiji Hindi",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Finland",
+    "officialLanguage": "Finnish,Swedish",
+    "regionalLanguage": "",
+    "minorityLanguage": "Sami (in Enontekiö, Inari, Sodankylä, Utsjoki)",
+    "nationalLanguage": "Finnish,Swedish",
+    "widelySpoken": ""
+  },
+  {
+    "country": "France",
+    "officialLanguage": "French",
+    "regionalLanguage": "Corsican language (in Corsica)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Gabon",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Gambia",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Georgia",
+    "officialLanguage": "Georgian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Germany",
+    "officialLanguage": "German",
+    "regionalLanguage": "Danish (in Schleswig-Holstein),Lower Sorbian (in Brandenburg),North Frisian (in Schleswig-Holstein),Saterland Frisian (in Lower Saxony),Upper Sorbian (in Saxony),German Sign Language,Low German",
+    "minorityLanguage": "Danish,Lower Sorbian,North Frisian,Romani,Upper Sorbian",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Ghana",
+    "officialLanguage": "English",
+    "regionalLanguage": "Fante,Asante Twi,Akuapem Twi,Adangme (in Greater Accra),Dagaare (in the Upper West Region),Dagbani (in the Northern Region),Ewe (in the Volta Region),Ga (in the Greater Accra),Gonja (in the Northern Region),Kasem (in the Upper East Region),Nzema (in the Western Region)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Greece",
+    "officialLanguage": "Greek",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Grenada",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Guatemala",
+    "officialLanguage": "Spanish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Guinea",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Fula,Maninka,Susu"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "officialLanguage": "Portuguese",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Guyana",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Guyanese Creole"
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Haiti",
+    "officialLanguage": "French,Haitian Creole",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Honduras",
+    "officialLanguage": "Spanish",
+    "regionalLanguage": "Garifuna (on the Caribbean Coast),English (in the Bay Islands),Miskito (in Eastern Honduras)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Hungary",
+    "officialLanguage": "Hungarian",
+    "regionalLanguage": "",
+    "minorityLanguage": "Croatian,German,Romanian,Serbian,Slovak,Slovene",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Iceland",
+    "officialLanguage": "Icelandic[citation needed],Icelandic Sign Language[citation needed]",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "India",
+    "officialLanguage": "English , Hindi",
+    "regionalLanguage": "(32 languages)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Hindi,Bengali,Tamil,Telugu,Malayalam,Kannada"
+  },
+  {
+    "country": "Indonesia",
+    "officialLanguage": "Indonesian",
+    "regionalLanguage": "Javanese",
+    "minorityLanguage": "",
+    "nationalLanguage": "Indonesian",
+    "widelySpoken": "Javanese,Indonesian,Sundanese,Madurese,Minangkabau"
+  },
+  {
+    "country": "Iran",
+    "officialLanguage": "Persian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Persian",
+    "widelySpoken": "Persian"
+  },
+  {
+    "country": "Iraq",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "Armenian recognized,Assyrian Neo-Aramaic (in Assyrian areas),Iraqi Turkmen (in Turkmen areas),Kurdish[citation needed]",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Ireland",
+    "officialLanguage": "English,Irish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Irish",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Israel",
+    "officialLanguage": "Hebrew",
+    "regionalLanguage": "Arabic",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Russian,English"
+  },
+  {
+    "country": "Italy",
+    "officialLanguage": "Italian",
+    "regionalLanguage": "French (in Aosta Valley),German (in South Tyrol),Ladin (in South Tyrol),Slovene (in Province of Trieste, Province of Gorizia),Albanian/Arbereshe (in Sicily and Calabria),Sardinian language (in Sardinia),Corsican language (in North Sardinia),Two dialects of Greek language, Griko dialect (in Grecìa Salentina) and Calabrian Greek (in Calabria)",
+    "minorityLanguage": "Ladin,Slovene",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Ivory Coast",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Jamaica",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Jamaican Patois",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Japan",
+    "officialLanguage": "None (Japanese has de facto status)",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Japanese",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Jordan",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Kazakhstan",
+    "officialLanguage": "Kazakh,Russian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Kazakh",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Kenya",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Swahili",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Kiribati",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Kiribati",
+    "widelySpoken": ""
+  },
+  {
+    "country": "North Korea",
+    "officialLanguage": "Korean",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "South Korea",
+    "officialLanguage": "Korean,Korean Sign Language",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Kosovo",
+    "officialLanguage": "Albanian,Serbian",
+    "regionalLanguage": "Turkish",
+    "minorityLanguage": "",
+    "nationalLanguage": "Albanian (nationwide),Serbian (Northern Kosovo)",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Kuwait",
+    "officialLanguage": "Standard Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Kuwaiti Sign Language,Kuwaiti Arabic,Kuwaiti Persian",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Kyrgyzstan",
+    "officialLanguage": "Kyrgyz,Russian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Kyrgyz",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Laos",
+    "officialLanguage": "Lao",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Latvia",
+    "officialLanguage": "Latvian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Russian"
+  },
+  {
+    "country": "Lebanon",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "Arabic",
+    "minorityLanguage": "Armenian",
+    "nationalLanguage": "Arabic,English,French",
+    "widelySpoken": "Arabic,English,French"
+  },
+  {
+    "country": "Lesotho",
+    "officialLanguage": "Sotho,English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Sotho",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Liberia",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Libya",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Liechtenstein",
+    "officialLanguage": "German",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Lithuania",
+    "officialLanguage": "Lithuanian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Russian"
+  },
+  {
+    "country": "Luxembourg",
+    "officialLanguage": "French,German,Luxembourgish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Luxembourgish",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Madagascar",
+    "officialLanguage": "French,Malagasy",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Malagasy",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Malawi",
+    "officialLanguage": "English,Chichewa",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Chichewa",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Malaysia",
+    "officialLanguage": "Malay,English(second language)",
+    "regionalLanguage": "Regional/State dialects",
+    "minorityLanguage": "",
+    "nationalLanguage": "Malaysian",
+    "widelySpoken": "Mandarin Chinese,Cantonese,Tamil"
+  },
+  {
+    "country": "Maldives",
+    "officialLanguage": "Dhivehi",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Mali",
+    "officialLanguage": "French",
+    "regionalLanguage": "Tamazight (Azawad district)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Malta",
+    "officialLanguage": "Maltese,English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Maltese",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Sovereign Military Order of Malta",
+    "officialLanguage": "Italian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Marshall Islands",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Marshallese",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Mauritania",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Arabic,Fula,Soninke,Wolof",
+    "widelySpoken": "French"
+  },
+  {
+    "country": "Mauritius",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "French",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Mexico",
+    "officialLanguage": "None (Spanish has de facto status)",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "None (Spanish has de facto status)",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "officialLanguage": "English",
+    "regionalLanguage": "Chuukese (in Chuuk State),Kosraean (in Kosrae State),Pohnpeian (in Pohnpei State),Yapese (in Yap State)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Moldova",
+    "officialLanguage": "Romanian",
+    "regionalLanguage": "Gagauz,Russian,Ukrainian",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Monaco",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Monégasque"
+  },
+  {
+    "country": "Mongolia",
+    "officialLanguage": "Mongolian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Montenegro",
+    "officialLanguage": "Montenegrin,Albanian,Bosnian,Croatian,Serbian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Morocco",
+    "officialLanguage": "Arabic,Tamazight",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Arabic",
+    "widelySpoken": "Darija (Moroccan Arabic)"
+  },
+  {
+    "country": "Mozambique",
+    "officialLanguage": "Portuguese",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Myanmar (Burma)",
+    "officialLanguage": "Burmese",
+    "regionalLanguage": "Chin,Kachin,Karen,Karenni,Mon,Rakhine,Shan",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Namibia",
+    "officialLanguage": "English",
+    "regionalLanguage": "German,Oshiwambo",
+    "minorityLanguage": "",
+    "nationalLanguage": "Afrikaans",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Nauru",
+    "officialLanguage": "English,Nauruan",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Nepal",
+    "officialLanguage": "Nepali",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "all languages spoken as the mother tongue in Nepal",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Netherlands",
+    "officialLanguage": "Dutch",
+    "regionalLanguage": "English (in Curaçao, Sint Maarten, Sint Eustatius, Saba),Papiamento (in Aruba, Curaçao, Bonaire),West Frisian (in Friesland)",
+    "minorityLanguage": "Dutch Low Saxon,Dutch Sign Language,Limburgish,Sinte Romani,Yiddish",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "New Zealand",
+    "officialLanguage": "English,Maori,New Zealand Sign Language",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Nicaragua",
+    "officialLanguage": "Spanish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Niger",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Arabic,Hausa,Fulfulde,Gulmancema,Kanuri,Zarma,Tamazight",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Nigeria",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Hausa,Yoruba,Igbo,Tiv",
+    "widelySpoken": ""
+  },
+  {
+    "country": " Niue",
+    "officialLanguage": "English,Niuean",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Norfolk Island",
+    "officialLanguage": "English,Norfuk",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "North Macedonia",
+    "officialLanguage": "Macedonian,Albanian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Northern Cyprus",
+    "officialLanguage": "Turkish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Norway",
+    "officialLanguage": "Norwegian,Sami",
+    "regionalLanguage": "Northern Sami (in Kautokeino, Karasjok, Gáivuotna, Kåfjord, Nesseby, Porsanger, Tana, Tysfjord)",
+    "minorityLanguage": "Kven,Scandoromani",
+    "nationalLanguage": "Bokmål (written),Nynorsk (written),Sami",
+    "widelySpoken": "Bokmål (written),Nynorsk (written),Sami,Romani"
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Oman",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Pakistan",
+    "officialLanguage": "Urdu,English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Urdu",
+    "widelySpoken": "Punjabi,Balochi,Sindhi,Pashto"
+  },
+  {
+    "country": "Palau",
+    "officialLanguage": "English,Palauan",
+    "regionalLanguage": "Sonsorolese (in Sonsorol),Tobian (in Hatohobei),Japanese (in Angaur)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Palestine",
+    "officialLanguage": "None (Arabic has de facto status)",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "English,Hebrew"
+  },
+  {
+    "country": "Panama",
+    "officialLanguage": "Spanish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Papua New Guinea",
+    "officialLanguage": "English,Hiri Motu,PNG Sign Language,Tok Pisin",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Paraguay",
+    "officialLanguage": "Spanish,Guaraní",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Peru",
+    "officialLanguage": "Spanish,Aymara,Quechua",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Philippines",
+    "officialLanguage": "Filipino,English",
+    "regionalLanguage": "Aklanon (in the Visayas),Bikol (in Luzon),Cebuano (in the Visayas and Mindanao),Chavacano (in Mindanao),Hiligaynon (in the Visayas),Ibanag (in Luzon),Ilocano (in Luzon, official in La Union),Ivatan (in Luzon),Kapampangan (in Luzon),Kinaray-a (in the Visayas),Maguindanao (in Mindanao),Maranao (in Mindanao),Pangasinan (in Luzon),Sambal (in Luzon),Tagalog (in Luzon),Tausug (in Mindanao),Waray (in the Visayas),Yakan (in Mindanao)",
+    "minorityLanguage": "Arabic (optional language),Spanish (optional language),(+ over 100 more minority languages)",
+    "nationalLanguage": "Filipino,Filipino Sign Language (national sign language)",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Poland",
+    "officialLanguage": "Polish",
+    "regionalLanguage": "Kashubian (Pomeranian Voivodeship)",
+    "minorityLanguage": "German (Opole Voivodeship),Lithuanian (Puńsk commune),Belarusian (Podlaskie Voivodseship),Czech,Hebrew,Yiddish,Lemko,Karaim,Armenian,Romani,Russian,Slovak,Tatar,Ukrainian",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Portugal",
+    "officialLanguage": "Portuguese",
+    "regionalLanguage": "Mirandese (Terra de Miranda)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Qatar",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Romania",
+    "officialLanguage": "Romanian",
+    "regionalLanguage": "",
+    "minorityLanguage": "Armenian,German,Hungarian,Romani,Russian,Serbian,Slovak,Tatar,Turkish,Ukrainian",
+    "nationalLanguage": "",
+    "widelySpoken": "Aromanian"
+  },
+  {
+    "country": "Russia",
+    "officialLanguage": "Russian",
+    "regionalLanguage": "(33 languages)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Rwanda",
+    "officialLanguage": "English,French,Kinyarwanda,Swahili",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Sahrawi Arab Democratic Republic",
+    "officialLanguage": "Tamazight,Arabic,Spanish",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Saint Lucia",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Samoa",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Samoan",
+    "widelySpoken": ""
+  },
+  {
+    "country": "San Marino",
+    "officialLanguage": "Italian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "officialLanguage": "Portuguese",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Saudi Arabia",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Senegal",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Jola-Fogny,Mandinka,Pulaar,Serer,Soninke,Wolof",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Serbia",
+    "officialLanguage": "Serbian",
+    "regionalLanguage": "",
+    "minorityLanguage": "(15 languages)",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Seychelles",
+    "officialLanguage": "English,French,Seychellois Creole",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Sierra Leone",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Krio",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Singapore",
+    "officialLanguage": "English,Malay,Mandarin Chinese,Tamil",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Malay",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Slovakia",
+    "officialLanguage": "Slovak",
+    "regionalLanguage": "",
+    "minorityLanguage": "Bulgarian,Czech,German,Hungarian,Polish,Romani,Rusyn,Serbian,Ukrainian",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Slovenia",
+    "officialLanguage": "Slovene",
+    "regionalLanguage": "",
+    "minorityLanguage": "Hungarian (Dobrovnik, Hodoš, Lendava),Italian (Izola, Koper, Piran),Croatian (Metlika, Brežice)",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Solomon Islands",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Somalia",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Somali",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Somaliland",
+    "officialLanguage": "Arabic,English,Somali",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "South Africa",
+    "officialLanguage": "Afrikaans,English,Southern Ndebele,Sotho,Northern Sotho,Swazi,Tsonga,Tswana,Venda,Xhosa,Zulu",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "South Ossetia",
+    "officialLanguage": "Ossetian,Russian",
+    "regionalLanguage": "Georgian",
+    "minorityLanguage": "Georgian",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "South Sudan",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Arabic,Bari,Dinka,Luo,Murle,Nuer,Zande,(60 other languages)",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Spain",
+    "officialLanguage": "Spanish",
+    "regionalLanguage": "Catalan (Balearic Islands, Catalonia, Valencia),Galician (Galicia),Occitan (Catalonia),Basque (Basque Country, Navarra)",
+    "minorityLanguage": "Astur-Leonese (Asturias),Aragonese (Aragon),Fala (Province of Cáceres),French,Portuguese",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Sri Lanka",
+    "officialLanguage": "Sinhala,Tamil",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "sinhala,,Tamil",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Sudan",
+    "officialLanguage": "Arabic,English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Suriname",
+    "officialLanguage": "Dutch",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Sranan Tongo",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Sweden",
+    "officialLanguage": "Swedish",
+    "regionalLanguage": "",
+    "minorityLanguage": "Finnish (Gällivare, Haparanda, Kiruna, Pajala, Övertorneå,Meänkieli (Gällivare, Haparanda, Kiruna, Pajala, Övertorneå),Sami (Arjeplog, Gällivare, Jokkmokk, Kiruna)",
+    "nationalLanguage": "",
+    "widelySpoken": "English,Romani,Yiddish"
+  },
+  {
+    "country": "Switzerland",
+    "officialLanguage": "French (Bern, Fribourg, Geneva, Jura, Neuchâtel, Valais, Vaud),German (Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Bern, Fribourg, Glarus, Graubünden, Lucerne, Nidwalden, Obwalden, Saint Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Uri, Valais, Zug, Zürich),Italian (Ticino, Graubünden),Romansh (Graubünden)",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Syria",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "Kurdish",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Taiwan",
+    "officialLanguage": "Mandarin Chinese",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Formosan languages,Hakka,Mandarin,Taiwan Sign Language,Taiwanese Hokkien",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Tajikistan",
+    "officialLanguage": "Tajik",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Tajik",
+    "widelySpoken": "Russian"
+  },
+  {
+    "country": "Tanzania",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Swahili",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Thailand",
+    "officialLanguage": "Thai",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Togo",
+    "officialLanguage": "French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": " Tokelau",
+    "officialLanguage": "English,Tokelauan",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Tonga",
+    "officialLanguage": "English,Tongan",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Transnistria",
+    "officialLanguage": "Moldovan,Russian,Ukrainian",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Tunisia",
+    "officialLanguage": "Tunisian,Arabic,French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Arabic",
+    "widelySpoken": "Tunisian"
+  },
+  {
+    "country": "Turkey",
+    "officialLanguage": "Turkish",
+    "regionalLanguage": "",
+    "minorityLanguage": "Kurdish",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Turkmenistan",
+    "officialLanguage": "Turkmen",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Turkmen",
+    "widelySpoken": "Russian"
+  },
+  {
+    "country": "Tuvalu",
+    "officialLanguage": "Tuvaluan,English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Tuvaluan,English"
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Uganda",
+    "officialLanguage": "English,Swahili",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Ukraine",
+    "officialLanguage": "Ukrainian",
+    "regionalLanguage": "Russian (Autonomous Republic of Crimea),Crimean Tatar (Autonomous Republic of Crimea)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "United Arab Emirates",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "United Kingdom and Crown dependencies etc.",
+    "officialLanguage": "None (English has de facto status)",
+    "regionalLanguage": "Cornish (in Cornwall),Irish and Ulster-Scots (in Northern Ireland),Scots and Scottish Gaelic (in Scotland),Welsh (in Wales),Pitcairnese (in Pitcairn Islands),Guernésiais and French (in Guernsey),Jèrriais and French (in Jersey),Manx (in Isle of Man)",
+    "minorityLanguage": "",
+    "nationalLanguage": "English",
+    "widelySpoken": ""
+  },
+  {
+    "country": "United States",
+    "officialLanguage": "None (English has de facto status)",
+    "regionalLanguage": "(28 languages)",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": "Spanish"
+  },
+  {
+    "country": "Uruguay",
+    "officialLanguage": "None (Spanish has de facto status)",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Uzbekistan",
+    "officialLanguage": "Uzbek",
+    "regionalLanguage": "",
+    "minorityLanguage": "Uzbek,Karakalpak and Uzbek in Karakalpakstan",
+    "nationalLanguage": "",
+    "widelySpoken": "Russian"
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Vanuatu",
+    "officialLanguage": "English,French",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Bislama",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Vatican City",
+    "officialLanguage": "Latin",
+    "regionalLanguage": "Italian",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Venezuela",
+    "officialLanguage": "Spanish,Venezuelan Sign Language",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Vietnam",
+    "officialLanguage": "Vietnamese",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "Vietnamese",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Yemen",
+    "officialLanguage": "Arabic",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Country",
+    "officialLanguage": "Official language",
+    "regionalLanguage": "Regional language",
+    "minorityLanguage": "Minority language",
+    "nationalLanguage": "National language",
+    "widelySpoken": "Widely spoken"
+  },
+  {
+    "country": "Zambia",
+    "officialLanguage": "English",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  },
+  {
+    "country": "Zimbabwe",
+    "officialLanguage": "Chewa,Chibarwe,English,Kalanga,Khoisan,Nambya,Ndau,Ndebele,Shangani,Shona,Sign language,Sotho,Tonga,Tswana,Venda,Xhosa",
+    "regionalLanguage": "",
+    "minorityLanguage": "",
+    "nationalLanguage": "",
+    "widelySpoken": ""
+  }
+]
+

@@ -1,134 +1,37 @@
 [
-  {
-    "name": "Afghan afghani",
-    "symbol": "؋",
-    "code": "AFN",
-    "flag": "🇦🇫"
-  },
-  {
-    "name": "Albanian lek",
-    "symbol": "Lek",
-    "code": "ALL",
-    "flag": "🇦🇱"
-  },
-  {
-    "name": "Algerian dinar",
-    "symbol": "د.ج",
-    "code": "DZD",
-    "flag": "🇩🇿"
-  },
-  {
-    "name": "European euro",
-    "symbol": "€",
-    "code": "EUR",
-    "flag": "🇪🇺"
-  },
-  {
-    "name": "Angolan kwanza",
-    "symbol": "Kz",
-    "code": "AOA",
-    "flag": "🇦🇴"
-  },
-  {
-    "name": "Argentine peso",
-    "symbol": "$",
-    "code": "ARS",
-    "flag": "🇦🇷"
-  },
-  {
-    "name": "Armenian dram",
-    "symbol": "֏",
-    "code": "AMD",
-    "flag": "🇦🇲"
-  },
-  {
-    "name": "Aruban florin",
-    "symbol": "ƒ",
-    "code": "AWG",
-    "flag": "🇦🇼"
-  },
-  {
-    "name": "Australian dollar",
-    "symbol": "$",
-    "code": "AUD",
-    "flag": "🇦🇺"
-  },
-  {
-    "name": "Azerbaijani manat",
-    "symbol": "₼",
-    "code": "AZN",
-    "flag": "🇦🇿"
-  },
-  {
-    "name": "Bahamian dollar",
-    "symbol": "$",
-    "code": "BSD",
-    "flag": "🇧🇸"
-  },
-  {
-    "name": "Bahraini dinar",
-    "symbol": "د.ب",
-    "code": "BHD",
-    "flag": "🇧🇭"
-  },
-  {
-    "name": "Bangladeshi taka",
-    "symbol": "৳",
-    "code": "BDT",
-    "flag": "🇧🇩"
-  },
-  {
-    "name": "Barbadian dollar",
-    "symbol": "$",
-    "code": "BBD",
-    "flag": "🇧🇧"
-  },
-  {
-    "name": "Belarusian ruble",
-    "symbol": "Br",
-    "code": "BYN",
-    "flag": "🇧🇾"
-  },
-  {
-    "name": "Belize dollar",
-    "symbol": "$",
-    "code": "BZD",
-    "flag": "🇧🇿"
-  },
-  {
-    "name": "Bermudian dollar",
-    "symbol": "$",
-    "code": "BMD",
-    "flag": "🇧🇲"
-  },
-  {
-    "name": "Bhutanese ngultrum",
-    "symbol": "Nu.",
-    "code": "BTN",
-    "flag": "🇧🇹"
-  },
-  {
-    "name": "Bolivian boliviano",
-    "symbol": "Bs.",
-    "code": "BOB",
-    "flag": "🇧🇴"
-  },
-  {
-    "name": "Bosnia and Herzegovina convertible mark",
-    "symbol": "KM",
-    "code": "BAM",
-    "flag": "🇧🇦"
-  },
-  {
-    "name": "Botswana pula",
-    "symbol": "P",
-    "code": "BWP",
-    "flag": "🇧🇼"
-  },
-  {
-    "name": "Brazilian real",
-    "symbol": "R$",
-    "code": "BRL",
-    "flag": "🇧🇷"
-  }
+  { "name": "United States dollar", "symbol": "USD (US$)" },
+  { "name": "Euro", "symbol": "EUR (€)" },
+  { "name": "Japanese yen", "symbol": "JPY (¥)" },
+  { "name": "Pound sterling", "symbol": "GBP (£)" },
+  { "name": "Australian dollar", "symbol": "AUD (A$)" },
+  { "name": "Canadian dollar", "symbol": "CAD (C$)" },
+  { "name": "Swiss franc", "symbol": "CHF (CHF)" },
+  { "name": "Renminbi", "symbol": "CNY (元 / ¥)" },
+  { "name": "Hong Kong dollar", "symbol": "HKD (HK$)" },
+  { "name": "New Zealand dollar", "symbol": "NZD (NZ$)" },
+  { "name": "Swedish krona", "symbol": "SEK (kr)" },
+  { "name": "South Korean won", "symbol": "KRW (₩)" },
+  { "name": "Singapore dollar", "symbol": "SGD (S$)" },
+  { "name": "Norwegian krone", "symbol": "NOK (kr)" },
+  { "name": "Mexican peso", "symbol": "MXN ($)" },
+  { "name": "Indian rupee", "symbol": "INR (₹)" },
+  { "name": "Russian ruble", "symbol": "RUB (₽)" },
+  { "name": "South African rand", "symbol": "ZAR (R)" },
+  { "name": "Turkish lira", "symbol": "TRY (₺)" },
+  { "name": "Brazilian real", "symbol": "BRL (R$)" },
+  { "name": "New Taiwan dollar", "symbol": "TWD (NT$)" },
+  { "name": "Danish krone", "symbol": "DKK (kr)" },
+  { "name": "Polish złoty", "symbol": "PLN (zł)" },
+  { "name": "Thai baht", "symbol": "THB (฿)" },
+  { "name": "Indonesian rupiah", "symbol": "IDR (Rp)" },
+  { "name": "Hungarian forint", "symbol": "HUF (Ft)" },
+  { "name": "Czech koruna", "symbol": "CZK (Kč)" },
+  { "name": "Israeli new shekel", "symbol": "ILS (₪)" },
+  { "name": "Chilean peso", "symbol": "CLP (CLP$)" },
+  { "name": "Philippine peso", "symbol": "PHP (₱)" },
+  { "name": "UAE dirham", "symbol": "AED (د.إ)" },
+  { "name": "Colombian peso", "symbol": "COP (COL$)" },
+  { "name": "Saudi riyal", "symbol": "SAR (﷼)" },
+  { "name": "Malaysian ringgit", "symbol": "MYR (RM)" },
+  { "name": "Romanian leu", "symbol": "RON (L)" }
 ]

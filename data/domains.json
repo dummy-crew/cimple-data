@@ -1,0 +1,5059 @@
+[
+  {
+    "name": ".aaa",
+    "type": "generic",
+    "tldManager": "American Automobile Association, Inc."
+  },
+  { "name": ".aarp", "type": "generic", "tldManager": "AARP" },
+  {
+    "name": ".abarth",
+    "type": "generic",
+    "tldManager": "Fiat Chrysler Automobiles N.V."
+  },
+  { "name": ".abb", "type": "generic", "tldManager": "ABB Ltd" },
+  {
+    "name": ".abbott",
+    "type": "generic",
+    "tldManager": "Abbott Laboratories, Inc."
+  },
+  { "name": ".abbvie", "type": "generic", "tldManager": "AbbVie Inc." },
+  {
+    "name": ".abc",
+    "type": "generic",
+    "tldManager": "Disney Enterprises, Inc."
+  },
+  { "name": ".able", "type": "generic", "tldManager": "Able Inc." },
+  {
+    "name": ".abogado",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".abudhabi",
+    "type": "generic",
+    "tldManager": "Abu Dhabi Systems and Information Centre"
+  },
+  {
+    "name": ".ac",
+    "type": "country-code",
+    "tldManager": "Internet Computer Bureau Limited"
+  },
+  { "name": ".academy", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".accenture", "type": "generic", "tldManager": "Accenture plc" },
+  {
+    "name": ".accountant",
+    "type": "generic",
+    "tldManager": "dot Accountant Limited"
+  },
+  {
+    "name": ".accountants",
+    "type": "generic",
+    "tldManager": "Binky Moon, LLC"
+  },
+  {
+    "name": ".aco",
+    "type": "generic",
+    "tldManager": "ACO Severin Ahlmann GmbH & Co. KG"
+  },
+  { "name": ".active", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".actor", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".ad", "type": "country-code", "tldManager": "Andorra Telecom" },
+  {
+    "name": ".adac",
+    "type": "generic",
+    "tldManager": "Allgemeiner Deutscher Automobil-Club e.V. (ADAC)"
+  },
+  {
+    "name": ".ads",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".adult", "type": "generic", "tldManager": "ICM Registry AD LLC" },
+  {
+    "name": ".ae",
+    "type": "country-code",
+    "tldManager": "Telecommunication Regulatory Authority (TRA)"
+  },
+  {
+    "name": ".aeg",
+    "type": "generic",
+    "tldManager": "Aktiebolaget Electrolux"
+  },
+  {
+    "name": ".aero",
+    "type": "sponsored",
+    "tldManager": "Societe Internationale de Telecommunications Aeronautique (SITA INC USA)"
+  },
+  {
+    "name": ".aetna",
+    "type": "generic",
+    "tldManager": "Aetna Life Insurance Company"
+  },
+  {
+    "name": ".af",
+    "type": "country-code",
+    "tldManager": "Ministry of Communications and IT"
+  },
+  {
+    "name": ".afamilycompany",
+    "type": "generic",
+    "tldManager": "Johnson Shareholdings, Inc."
+  },
+  {
+    "name": ".afl",
+    "type": "generic",
+    "tldManager": "Australian Football League"
+  },
+  {
+    "name": ".africa",
+    "type": "generic",
+    "tldManager": "ZA Central Registry NPC trading as Registry.Africa"
+  },
+  {
+    "name": ".ag",
+    "type": "country-code",
+    "tldManager": "UHSA School of Medicine"
+  },
+  {
+    "name": ".agakhan",
+    "type": "generic",
+    "tldManager": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  { "name": ".agency", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".ai",
+    "type": "country-code",
+    "tldManager": "Government of Anguilla"
+  },
+  {
+    "name": ".aig",
+    "type": "generic",
+    "tldManager": "American International Group, Inc."
+  },
+  { "name": ".aigo", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".airbus", "type": "generic", "tldManager": "Airbus S.A.S." },
+  { "name": ".airforce", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".airtel",
+    "type": "generic",
+    "tldManager": "Bharti Airtel Limited"
+  },
+  {
+    "name": ".akdn",
+    "type": "generic",
+    "tldManager": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  {
+    "name": ".al",
+    "type": "country-code",
+    "tldManager": "Electronic and Postal Communications Authority - AKEP"
+  },
+  {
+    "name": ".alfaromeo",
+    "type": "generic",
+    "tldManager": "Fiat Chrysler Automobiles N.V."
+  },
+  {
+    "name": ".alibaba",
+    "type": "generic",
+    "tldManager": "Alibaba Group Holding Limited"
+  },
+  {
+    "name": ".alipay",
+    "type": "generic",
+    "tldManager": "Alibaba Group Holding Limited"
+  },
+  {
+    "name": ".allfinanz",
+    "type": "generic",
+    "tldManager": "Allfinanz Deutsche Vermögensberatung Aktiengesellschaft"
+  },
+  {
+    "name": ".allstate",
+    "type": "generic",
+    "tldManager": "Allstate Fire and Casualty Insurance Company"
+  },
+  { "name": ".ally", "type": "generic", "tldManager": "Ally Financial Inc." },
+  { "name": ".alsace", "type": "generic", "tldManager": "REGION GRAND EST" },
+  { "name": ".alstom", "type": "generic", "tldManager": "ALSTOM" },
+  {
+    "name": ".am",
+    "type": "country-code",
+    "tldManager": "\"Internet Society\" Non-governmental Organization"
+  },
+  {
+    "name": ".amazon",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".americanexpress",
+    "type": "generic",
+    "tldManager": "American Express Travel Related Services Company, Inc."
+  },
+  { "name": ".americanfamily", "type": "generic", "tldManager": "AmFam, Inc." },
+  {
+    "name": ".amex",
+    "type": "generic",
+    "tldManager": "American Express Travel Related Services Company, Inc."
+  },
+  { "name": ".amfam", "type": "generic", "tldManager": "AmFam, Inc." },
+  {
+    "name": ".amica",
+    "type": "generic",
+    "tldManager": "Amica Mutual Insurance Company"
+  },
+  {
+    "name": ".amsterdam",
+    "type": "generic",
+    "tldManager": "Gemeente Amsterdam"
+  },
+  { "name": ".an", "type": "country-code", "tldManager": "Retired" },
+  { "name": ".analytics", "type": "generic", "tldManager": "Campus IP LLC" },
+  {
+    "name": ".android",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".anquan",
+    "type": "generic",
+    "tldManager": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  {
+    "name": ".anz",
+    "type": "generic",
+    "tldManager": "Australia and New Zealand Banking Group Limited"
+  },
+  {
+    "name": ".ao",
+    "type": "country-code",
+    "tldManager": "Ministry of Telecommunications and Information Technologies (MTTI)"
+  },
+  { "name": ".aol", "type": "generic", "tldManager": "OATH Inc." },
+  { "name": ".apartments", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".app",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".apple", "type": "generic", "tldManager": "Apple Inc." },
+  {
+    "name": ".aq",
+    "type": "country-code",
+    "tldManager": "Antarctica Network Information Centre Limited"
+  },
+  { "name": ".aquarelle", "type": "generic", "tldManager": "Aquarelle.com" },
+  {
+    "name": ".ar",
+    "type": "country-code",
+    "tldManager": "Presidencia de la Nación – Secretaría Legal y Técnica"
+  },
+  { "name": ".arab", "type": "generic", "tldManager": "League of Arab States" },
+  {
+    "name": ".aramco",
+    "type": "generic",
+    "tldManager": "Aramco Services Company"
+  },
+  { "name": ".archi", "type": "generic", "tldManager": "Afilias Limited" },
+  { "name": ".army", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".arpa",
+    "type": "infrastructure",
+    "tldManager": "Internet Architecture Board (IAB)"
+  },
+  {
+    "name": ".art",
+    "type": "generic",
+    "tldManager": "UK Creative Ideas Limited"
+  },
+  {
+    "name": ".arte",
+    "type": "generic",
+    "tldManager": "Association Relative à la Télévision Européenne G.E.I.E."
+  },
+  { "name": ".as", "type": "country-code", "tldManager": "AS Domain Registry" },
+  { "name": ".asda", "type": "generic", "tldManager": "Wal-Mart Stores, Inc." },
+  {
+    "name": ".asia",
+    "type": "sponsored",
+    "tldManager": "DotAsia Organisation Ltd."
+  },
+  { "name": ".associates", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".at", "type": "country-code", "tldManager": "nic.at GmbH" },
+  { "name": ".athleta", "type": "generic", "tldManager": "The Gap, Inc." },
+  { "name": ".attorney", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".au",
+    "type": "country-code",
+    "tldManager": ".au Domain Administration (auDA)"
+  },
+  { "name": ".auction", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".audi",
+    "type": "generic",
+    "tldManager": "AUDI Aktiengesellschaft"
+  },
+  {
+    "name": ".audible",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".audio", "type": "generic", "tldManager": "UNR Corp." },
+  {
+    "name": ".auspost",
+    "type": "generic",
+    "tldManager": "Australian Postal Corporation"
+  },
+  {
+    "name": ".author",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".auto", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".autos", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  {
+    "name": ".avianca",
+    "type": "generic",
+    "tldManager": "Avianca Holdings S.A."
+  },
+  { "name": ".aw", "type": "country-code", "tldManager": "SETAR" },
+  { "name": ".aws", "type": "generic", "tldManager": "AWS Registry LLC" },
+  {
+    "name": ".ax",
+    "type": "country-code",
+    "tldManager": "Ålands landskapsregering"
+  },
+  {
+    "name": ".axa",
+    "type": "generic",
+    "tldManager": "AXA Group Operations SAS"
+  },
+  { "name": ".az", "type": "country-code", "tldManager": "IntraNS" },
+  {
+    "name": ".azure",
+    "type": "generic",
+    "tldManager": "Microsoft Corporation"
+  },
+  {
+    "name": ".ba",
+    "type": "country-code",
+    "tldManager": "Universtiy Telinformatic Centre (UTIC)"
+  },
+  { "name": ".baby", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".baidu", "type": "generic", "tldManager": "Baidu, Inc." },
+  { "name": ".banamex", "type": "generic", "tldManager": "Citigroup Inc." },
+  {
+    "name": ".bananarepublic",
+    "type": "generic",
+    "tldManager": "The Gap, Inc."
+  },
+  { "name": ".band", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".bank",
+    "type": "generic",
+    "tldManager": "fTLD Registry Services, LLC"
+  },
+  {
+    "name": ".bar",
+    "type": "generic",
+    "tldManager": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
+  },
+  {
+    "name": ".barcelona",
+    "type": "generic",
+    "tldManager": "Municipi de Barcelona"
+  },
+  {
+    "name": ".barclaycard",
+    "type": "generic",
+    "tldManager": "Barclays Bank PLC"
+  },
+  { "name": ".barclays", "type": "generic", "tldManager": "Barclays Bank PLC" },
+  {
+    "name": ".barefoot",
+    "type": "generic",
+    "tldManager": "Gallo Vineyards, Inc."
+  },
+  { "name": ".bargains", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".baseball",
+    "type": "generic",
+    "tldManager": "MLB Advanced Media DH, LLC"
+  },
+  {
+    "name": ".basketball",
+    "type": "generic",
+    "tldManager": "Fédération Internationale de Basketball (FIBA)"
+  },
+  { "name": ".bauhaus", "type": "generic", "tldManager": "Werkhaus GmbH" },
+  { "name": ".bayern", "type": "generic", "tldManager": "Bayern Connect GmbH" },
+  {
+    "name": ".bb",
+    "type": "country-code",
+    "tldManager": "Government of Barbados Ministry of Economic Affairs and Development Telecommunications Unit"
+  },
+  {
+    "name": ".bbc",
+    "type": "generic",
+    "tldManager": "British Broadcasting Corporation"
+  },
+  { "name": ".bbt", "type": "generic", "tldManager": "BB&T Corporation" },
+  {
+    "name": ".bbva",
+    "type": "generic",
+    "tldManager": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A."
+  },
+  {
+    "name": ".bcg",
+    "type": "generic",
+    "tldManager": "The Boston Consulting Group, Inc."
+  },
+  { "name": ".bcn", "type": "generic", "tldManager": "Municipi de Barcelona" },
+  {
+    "name": ".bd",
+    "type": "country-code",
+    "tldManager": "Posts and Telecommunications Division"
+  },
+  {
+    "name": ".be",
+    "type": "country-code",
+    "tldManager": "DNS Belgium vzw/asbl"
+  },
+  {
+    "name": ".beats",
+    "type": "generic",
+    "tldManager": "Beats Electronics, LLC"
+  },
+  { "name": ".beauty", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  {
+    "name": ".beer",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".bentley",
+    "type": "generic",
+    "tldManager": "Bentley Motors Limited"
+  },
+  {
+    "name": ".berlin",
+    "type": "generic",
+    "tldManager": "dotBERLIN GmbH & Co. KG"
+  },
+  { "name": ".best", "type": "generic", "tldManager": "BestTLD Pty Ltd" },
+  {
+    "name": ".bestbuy",
+    "type": "generic",
+    "tldManager": "BBY Solutions, Inc."
+  },
+  { "name": ".bet", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".bf",
+    "type": "country-code",
+    "tldManager": "ARCE-AutoritÈ de RÈgulation des Communications Electroniques"
+  },
+  { "name": ".bg", "type": "country-code", "tldManager": "Register.BG" },
+  {
+    "name": ".bh",
+    "type": "country-code",
+    "tldManager": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "name": ".bharti",
+    "type": "generic",
+    "tldManager": "Bharti Enterprises (Holding) Private Limited"
+  },
+  {
+    "name": ".bi",
+    "type": "country-code",
+    "tldManager": "Centre National de l'Informatique"
+  },
+  {
+    "name": ".bible",
+    "type": "generic",
+    "tldManager": "American Bible Society"
+  },
+  { "name": ".bid", "type": "generic", "tldManager": "dot Bid Limited" },
+  { "name": ".bike", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".bing", "type": "generic", "tldManager": "Microsoft Corporation" },
+  { "name": ".bingo", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".bio", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".biz",
+    "type": "generic-restricted",
+    "tldManager": "Registry Services, LLC"
+  },
+  {
+    "name": ".bj",
+    "type": "country-code",
+    "tldManager": "Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN)"
+  },
+  { "name": ".bl", "type": "country-code", "tldManager": "Not assigned" },
+  { "name": ".black", "type": "generic", "tldManager": "Afilias Limited" },
+  { "name": ".blackfriday", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".blanco", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".blockbuster",
+    "type": "generic",
+    "tldManager": "Dish DBS Corporation"
+  },
+  {
+    "name": ".blog",
+    "type": "generic",
+    "tldManager": "Knock Knock WHOIS There, LLC"
+  },
+  {
+    "name": ".bloomberg",
+    "type": "generic",
+    "tldManager": "Bloomberg IP Holdings LLC"
+  },
+  { "name": ".blue", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".bm",
+    "type": "country-code",
+    "tldManager": "Registry General Department, Ministry of Home Affairs"
+  },
+  {
+    "name": ".bms",
+    "type": "generic",
+    "tldManager": "Bristol-Myers Squibb Company"
+  },
+  {
+    "name": ".bmw",
+    "type": "generic",
+    "tldManager": "Bayerische Motoren Werke Aktiengesellschaft"
+  },
+  {
+    "name": ".bn",
+    "type": "country-code",
+    "tldManager": "Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)"
+  },
+  { "name": ".bnl", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".bnpparibas", "type": "generic", "tldManager": "BNP Paribas" },
+  {
+    "name": ".bo",
+    "type": "country-code",
+    "tldManager": "Agencia para el Desarrollo de la Información de la Sociedad en Bolivia"
+  },
+  { "name": ".boats", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  {
+    "name": ".boehringer",
+    "type": "generic",
+    "tldManager": "Boehringer Ingelheim International GmbH"
+  },
+  {
+    "name": ".bofa",
+    "type": "generic",
+    "tldManager": "Bank of America Corporation"
+  },
+  {
+    "name": ".bom",
+    "type": "generic",
+    "tldManager": "Núcleo de Informação e Coordenação do Ponto BR - NIC.br"
+  },
+  { "name": ".bond", "type": "generic", "tldManager": "Shortdot SA" },
+  {
+    "name": ".boo",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".book",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".booking", "type": "generic", "tldManager": "Booking.com B.V." },
+  { "name": ".boots", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".bosch", "type": "generic", "tldManager": "Robert Bosch GMBH" },
+  { "name": ".bostik", "type": "generic", "tldManager": "Bostik SA" },
+  {
+    "name": ".boston",
+    "type": "generic",
+    "tldManager": "Boston TLD Management, LLC"
+  },
+  {
+    "name": ".bot",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".boutique", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".box", "type": "generic", "tldManager": "Intercap Registry Inc." },
+  { "name": ".bq", "type": "country-code", "tldManager": "Not assigned" },
+  {
+    "name": ".br",
+    "type": "country-code",
+    "tldManager": "Comite Gestor da Internet no Brasil"
+  },
+  {
+    "name": ".bradesco",
+    "type": "generic",
+    "tldManager": "Banco Bradesco S.A."
+  },
+  {
+    "name": ".bridgestone",
+    "type": "generic",
+    "tldManager": "Bridgestone Corporation"
+  },
+  {
+    "name": ".broadway",
+    "type": "generic",
+    "tldManager": "Celebrate Broadway, Inc."
+  },
+  { "name": ".broker", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".brother",
+    "type": "generic",
+    "tldManager": "Brother Industries, Ltd."
+  },
+  { "name": ".brussels", "type": "generic", "tldManager": "DNS.be vzw" },
+  {
+    "name": ".bs",
+    "type": "country-code",
+    "tldManager": "University of The Bahamas"
+  },
+  {
+    "name": ".bt",
+    "type": "country-code",
+    "tldManager": "Ministry of Information and Communications"
+  },
+  {
+    "name": ".budapest",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".bugatti",
+    "type": "generic",
+    "tldManager": "Bugatti International SA"
+  },
+  { "name": ".build", "type": "generic", "tldManager": "Plan Bee LLC" },
+  { "name": ".builders", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".business", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".buy",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, INC"
+  },
+  { "name": ".buzz", "type": "generic", "tldManager": "DOTSTRATEGY CO." },
+  { "name": ".bv", "type": "country-code", "tldManager": "Norid A/S" },
+  {
+    "name": ".bw",
+    "type": "country-code",
+    "tldManager": "Botswana Communications Regulatory Authority (BOCRA)"
+  },
+  {
+    "name": ".by",
+    "type": "country-code",
+    "tldManager": "Reliable Software, Ltd."
+  },
+  {
+    "name": ".bz",
+    "type": "country-code",
+    "tldManager": "University of Belize"
+  },
+  { "name": ".bzh", "type": "generic", "tldManager": "Association www.bzh" },
+  {
+    "name": ".ca",
+    "type": "country-code",
+    "tldManager": "Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)"
+  },
+  { "name": ".cab", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".cafe", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".cal",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".call",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".calvinklein",
+    "type": "generic",
+    "tldManager": "PVH gTLD Holdings LLC"
+  },
+  {
+    "name": ".cam",
+    "type": "generic",
+    "tldManager": "AC Webconnecting Holding B.V."
+  },
+  { "name": ".camera", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".camp", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".cancerresearch",
+    "type": "generic",
+    "tldManager": "Australian Cancer Research Foundation"
+  },
+  { "name": ".canon", "type": "generic", "tldManager": "Canon Inc." },
+  {
+    "name": ".capetown",
+    "type": "generic",
+    "tldManager": "ZA Central Registry NPC trading as ZA Central Registry"
+  },
+  { "name": ".capital", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".capitalone",
+    "type": "generic",
+    "tldManager": "Capital One Financial Corporation"
+  },
+  { "name": ".car", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  {
+    "name": ".caravan",
+    "type": "generic",
+    "tldManager": "Caravan International, Inc."
+  },
+  { "name": ".cards", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".care", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".career", "type": "generic", "tldManager": "dotCareer LLC" },
+  { "name": ".careers", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".cars", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".cartier", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".casa",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  { "name": ".case", "type": "generic", "tldManager": "CNH Industrial N.V." },
+  { "name": ".caseih", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".cash", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".casino", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".cat", "type": "sponsored", "tldManager": "Fundacio puntCAT" },
+  { "name": ".catering", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".catholic",
+    "type": "generic",
+    "tldManager": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  {
+    "name": ".cba",
+    "type": "generic",
+    "tldManager": "COMMONWEALTH BANK OF AUSTRALIA"
+  },
+  {
+    "name": ".cbn",
+    "type": "generic",
+    "tldManager": "The Christian Broadcasting Network, Inc."
+  },
+  { "name": ".cbre", "type": "generic", "tldManager": "CBRE, Inc." },
+  { "name": ".cbs", "type": "generic", "tldManager": "CBS Domains Inc." },
+  {
+    "name": ".cc",
+    "type": "country-code",
+    "tldManager": "eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services"
+  },
+  {
+    "name": ".cd",
+    "type": "country-code",
+    "tldManager": "Office Congolais des Postes et Télécommunications - OCPT"
+  },
+  { "name": ".ceb", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".center", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".ceo", "type": "generic", "tldManager": "CEOTLD Pty Ltd" },
+  {
+    "name": ".cern",
+    "type": "generic",
+    "tldManager": "European Organization for Nuclear Research (\"CERN\")"
+  },
+  {
+    "name": ".cf",
+    "type": "country-code",
+    "tldManager": "Societe Centrafricaine de Telecommunications (SOCATEL)"
+  },
+  { "name": ".cfa", "type": "generic", "tldManager": "CFA Institute" },
+  { "name": ".cfd", "type": "generic", "tldManager": "DOTCFD REGISTRY LTD" },
+  {
+    "name": ".cg",
+    "type": "country-code",
+    "tldManager": "Interpoint Switzerland"
+  },
+  {
+    "name": ".ch",
+    "type": "country-code",
+    "tldManager": "SWITCH The Swiss Education & Research Network"
+  },
+  {
+    "name": ".chanel",
+    "type": "generic",
+    "tldManager": "Chanel International B.V."
+  },
+  {
+    "name": ".channel",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".charity", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".chase",
+    "type": "generic",
+    "tldManager": "JPMorgan Chase Bank, National Association"
+  },
+  { "name": ".chat", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".cheap", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".chintai",
+    "type": "generic",
+    "tldManager": "CHINTAI Corporation"
+  },
+  { "name": ".chloe", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".christmas", "type": "generic", "tldManager": "UNR Corp." },
+  {
+    "name": ".chrome",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".chrysler", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".church", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".ci",
+    "type": "country-code",
+    "tldManager": "Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)"
+  },
+  {
+    "name": ".cipriani",
+    "type": "generic",
+    "tldManager": "Hotel Cipriani Srl"
+  },
+  {
+    "name": ".circle",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".cisco",
+    "type": "generic",
+    "tldManager": "Cisco Technology, Inc."
+  },
+  { "name": ".citadel", "type": "generic", "tldManager": "Citadel Domain LLC" },
+  { "name": ".citi", "type": "generic", "tldManager": "Citigroup Inc." },
+  {
+    "name": ".citic",
+    "type": "generic",
+    "tldManager": "CITIC Group Corporation"
+  },
+  { "name": ".city", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".cityeats",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": ".ck",
+    "type": "country-code",
+    "tldManager": "Telecom Cook Islands Ltd."
+  },
+  {
+    "name": ".cl",
+    "type": "country-code",
+    "tldManager": "NIC Chile (University of Chile)"
+  },
+  { "name": ".claims", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".cleaning", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".click", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".clinic", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".clinique",
+    "type": "generic",
+    "tldManager": "The Estée Lauder Companies Inc."
+  },
+  { "name": ".clothing", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".cloud", "type": "generic", "tldManager": "ARUBA PEC S.p.A." },
+  {
+    "name": ".club",
+    "type": "generic",
+    "tldManager": "Registry Services, LLC"
+  },
+  {
+    "name": ".clubmed",
+    "type": "generic",
+    "tldManager": "Club Méditerranée S.A."
+  },
+  {
+    "name": ".cm",
+    "type": "country-code",
+    "tldManager": "Cameroon Telecommunications (CAMTEL)"
+  },
+  {
+    "name": ".cn",
+    "type": "country-code",
+    "tldManager": "China Internet Network Information Center (CNNIC)"
+  },
+  {
+    "name": ".co",
+    "type": "country-code",
+    "tldManager": "Ministry of Information and Communications Technologies (MinTIC)"
+  },
+  { "name": ".coach", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".codes", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".coffee", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".college", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".cologne", "type": "generic", "tldManager": "dotKoeln GmbH" },
+  {
+    "name": ".com",
+    "type": "generic",
+    "tldManager": "VeriSign Global Registry Services"
+  },
+  {
+    "name": ".comcast",
+    "type": "generic",
+    "tldManager": "Comcast IP Holdings I, LLC"
+  },
+  {
+    "name": ".commbank",
+    "type": "generic",
+    "tldManager": "COMMONWEALTH BANK OF AUSTRALIA"
+  },
+  { "name": ".community", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".company", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".compare",
+    "type": "generic",
+    "tldManager": "Registry Services, LLC"
+  },
+  { "name": ".computer", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".comsec", "type": "generic", "tldManager": "VeriSign, Inc." },
+  { "name": ".condos", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".construction",
+    "type": "generic",
+    "tldManager": "Binky Moon, LLC"
+  },
+  { "name": ".consulting", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".contact", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".contractors",
+    "type": "generic",
+    "tldManager": "Binky Moon, LLC"
+  },
+  {
+    "name": ".cooking",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".cookingchannel",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  { "name": ".cool", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".coop", "type": "sponsored", "tldManager": "DotCooperation LLC" },
+  {
+    "name": ".corsica",
+    "type": "generic",
+    "tldManager": "Collectivité de Corse"
+  },
+  {
+    "name": ".country",
+    "type": "generic",
+    "tldManager": "Top Level Domain Holdings Limited"
+  },
+  {
+    "name": ".coupon",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".coupons", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".courses",
+    "type": "generic",
+    "tldManager": "OPEN UNIVERSITIES AUSTRALIA PTY LTD"
+  },
+  {
+    "name": ".cpa",
+    "type": "generic",
+    "tldManager": "American Institute of Certified Public Accountants"
+  },
+  {
+    "name": ".cr",
+    "type": "country-code",
+    "tldManager": "National Academy of Sciences Academia Nacional de Ciencias"
+  },
+  { "name": ".credit", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".creditcard", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".creditunion",
+    "type": "generic",
+    "tldManager": "DotCooperation, LLC"
+  },
+  {
+    "name": ".cricket",
+    "type": "generic",
+    "tldManager": "dot Cricket Limited"
+  },
+  {
+    "name": ".crown",
+    "type": "generic",
+    "tldManager": "Crown Equipment Corporation"
+  },
+  {
+    "name": ".crs",
+    "type": "generic",
+    "tldManager": "Federated Co-operatives Limited"
+  },
+  {
+    "name": ".cruise",
+    "type": "generic",
+    "tldManager": "Viking River Cruises (Bermuda) Ltd."
+  },
+  { "name": ".cruises", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".csc",
+    "type": "generic",
+    "tldManager": "Alliance-One Services, Inc."
+  },
+  {
+    "name": ".cu",
+    "type": "country-code",
+    "tldManager": "CENIAInternet Industria y San Jose Capitolio Nacional"
+  },
+  {
+    "name": ".cuisinella",
+    "type": "generic",
+    "tldManager": "SCHMIDT GROUPE S.A.S."
+  },
+  {
+    "name": ".cv",
+    "type": "country-code",
+    "tldManager": "Agência Reguladora Multissectorial da Economia (ARME)"
+  },
+  {
+    "name": ".cw",
+    "type": "country-code",
+    "tldManager": "University of Curacao"
+  },
+  {
+    "name": ".cx",
+    "type": "country-code",
+    "tldManager": "Christmas Island Domain Administration Limited"
+  },
+  {
+    "name": ".cy",
+    "type": "country-code",
+    "tldManager": "University of Cyprus"
+  },
+  { "name": ".cymru", "type": "generic", "tldManager": "Nominet UK" },
+  { "name": ".cyou", "type": "generic", "tldManager": "Shortdot SA" },
+  { "name": ".cz", "type": "country-code", "tldManager": "CZ.NIC, z.s.p.o" },
+  { "name": ".dabur", "type": "generic", "tldManager": "Dabur India Limited" },
+  {
+    "name": ".dad",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".dance", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".data", "type": "generic", "tldManager": "Dish DBS Corporation" },
+  { "name": ".date", "type": "generic", "tldManager": "dot Date Limited" },
+  { "name": ".dating", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".datsun",
+    "type": "generic",
+    "tldManager": "NISSAN MOTOR CO., LTD."
+  },
+  {
+    "name": ".day",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".dclk",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".dds",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  { "name": ".de", "type": "country-code", "tldManager": "DENIC eG" },
+  {
+    "name": ".deal",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".dealer",
+    "type": "generic",
+    "tldManager": "Intercap Registry Inc."
+  },
+  { "name": ".deals", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".degree", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".delivery", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".dell", "type": "generic", "tldManager": "Dell Inc." },
+  {
+    "name": ".deloitte",
+    "type": "generic",
+    "tldManager": "Deloitte Touche Tohmatsu"
+  },
+  {
+    "name": ".delta",
+    "type": "generic",
+    "tldManager": "Delta Air Lines, Inc."
+  },
+  { "name": ".democrat", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".dental", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".dentist", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".desi", "type": "generic", "tldManager": "Desi Networks LLC" },
+  {
+    "name": ".design",
+    "type": "generic",
+    "tldManager": "Top Level Design, LLC"
+  },
+  {
+    "name": ".dev",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".dhl", "type": "generic", "tldManager": "Deutsche Post AG" },
+  { "name": ".diamonds", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".diet", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".digital", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".direct", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".directory", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".discount", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".discover",
+    "type": "generic",
+    "tldManager": "Discover Financial Services"
+  },
+  { "name": ".dish", "type": "generic", "tldManager": "Dish DBS Corporation" },
+  {
+    "name": ".diy",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": ".dj",
+    "type": "country-code",
+    "tldManager": "Djibouti Telecom S.A"
+  },
+  {
+    "name": ".dk",
+    "type": "country-code",
+    "tldManager": "Dansk Internet Forum"
+  },
+  { "name": ".dm", "type": "country-code", "tldManager": "DotDM Corporation" },
+  {
+    "name": ".dnp",
+    "type": "generic",
+    "tldManager": "Dai Nippon Printing Co., Ltd."
+  },
+  {
+    "name": ".do",
+    "type": "country-code",
+    "tldManager": "Pontificia Universidad Catolica Madre y Maestra Recinto Santo Tomas de Aquino"
+  },
+  {
+    "name": ".docs",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".doctor", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".dodge", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".dog", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".doha", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".domains", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".doosan", "type": "generic", "tldManager": "Retired" },
+  { "name": ".dot", "type": "generic", "tldManager": "Dish DBS Corporation" },
+  {
+    "name": ".download",
+    "type": "generic",
+    "tldManager": "dot Support Limited"
+  },
+  {
+    "name": ".drive",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".dtv", "type": "generic", "tldManager": "Dish DBS Corporation" },
+  {
+    "name": ".dubai",
+    "type": "generic",
+    "tldManager": "Dubai Smart Government Department"
+  },
+  {
+    "name": ".duck",
+    "type": "generic",
+    "tldManager": "Johnson Shareholdings, Inc."
+  },
+  {
+    "name": ".dunlop",
+    "type": "generic",
+    "tldManager": "The Goodyear Tire & Rubber Company"
+  },
+  { "name": ".duns", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".dupont",
+    "type": "generic",
+    "tldManager": "E. I. du Pont de Nemours and Company"
+  },
+  {
+    "name": ".durban",
+    "type": "generic",
+    "tldManager": "ZA Central Registry NPC trading as ZA Central Registry"
+  },
+  {
+    "name": ".dvag",
+    "type": "generic",
+    "tldManager": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  {
+    "name": ".dvr",
+    "type": "generic",
+    "tldManager": "Hughes Satellite Systems Corporation"
+  },
+  { "name": ".dz", "type": "country-code", "tldManager": "CERIST" },
+  { "name": ".earth", "type": "generic", "tldManager": "Interlink Co., Ltd." },
+  {
+    "name": ".eat",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".ec", "type": "country-code", "tldManager": "ECUADORDOMAIN S.A." },
+  { "name": ".eco", "type": "generic", "tldManager": "Big Room Inc." },
+  {
+    "name": ".edeka",
+    "type": "generic",
+    "tldManager": "EDEKA Verband kaufmännischer Genossenschaften e.V."
+  },
+  { "name": ".edu", "type": "sponsored", "tldManager": "EDUCAUSE" },
+  { "name": ".education", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".ee",
+    "type": "country-code",
+    "tldManager": "Eesti Interneti Sihtasutus (EIS)"
+  },
+  {
+    "name": ".eg",
+    "type": "country-code",
+    "tldManager": "Egyptian Universities Network (EUN) Supreme Council of Universities"
+  },
+  { "name": ".eh", "type": "country-code", "tldManager": "Not assigned" },
+  { "name": ".email", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".emerck", "type": "generic", "tldManager": "Merck KGaA" },
+  { "name": ".energy", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".engineer", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".engineering",
+    "type": "generic",
+    "tldManager": "Binky Moon, LLC"
+  },
+  {
+    "name": ".enterprises",
+    "type": "generic",
+    "tldManager": "Binky Moon, LLC"
+  },
+  { "name": ".epost", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".epson",
+    "type": "generic",
+    "tldManager": "Seiko Epson Corporation"
+  },
+  { "name": ".equipment", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".er",
+    "type": "country-code",
+    "tldManager": "Eritrea Telecommunication Services Corporation (EriTel)"
+  },
+  {
+    "name": ".ericsson",
+    "type": "generic",
+    "tldManager": "Telefonaktiebolaget L M Ericsson"
+  },
+  { "name": ".erni", "type": "generic", "tldManager": "ERNI Group Holding AG" },
+  { "name": ".es", "type": "country-code", "tldManager": "Red.es" },
+  {
+    "name": ".esq",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".estate", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".esurance", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".et", "type": "country-code", "tldManager": "Ethio telecom" },
+  {
+    "name": ".etisalat",
+    "type": "generic",
+    "tldManager": "Emirates Telecommunications Corporation (trading as Etisalat)"
+  },
+  { "name": ".eu", "type": "country-code", "tldManager": "EURid vzw/asbl" },
+  {
+    "name": ".eurovision",
+    "type": "generic",
+    "tldManager": "European Broadcasting Union (EBU)"
+  },
+  { "name": ".eus", "type": "generic", "tldManager": "Puntueus Fundazioa" },
+  { "name": ".events", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".everbank", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".exchange", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".expert", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".exposed", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".express", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".extraspace",
+    "type": "generic",
+    "tldManager": "Extra Space Storage LLC"
+  },
+  {
+    "name": ".fage",
+    "type": "generic",
+    "tldManager": "Fage International S.A."
+  },
+  { "name": ".fail", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".fairwinds",
+    "type": "generic",
+    "tldManager": "FairWinds Partners, LLC"
+  },
+  { "name": ".faith", "type": "generic", "tldManager": "dot Faith Limited" },
+  { "name": ".family", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".fan", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".fans",
+    "type": "generic",
+    "tldManager": "ZDNS International Limited"
+  },
+  { "name": ".farm", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".farmers",
+    "type": "generic",
+    "tldManager": "Farmers Insurance Exchange"
+  },
+  {
+    "name": ".fashion",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".fast",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".fedex",
+    "type": "generic",
+    "tldManager": "Federal Express Corporation"
+  },
+  {
+    "name": ".feedback",
+    "type": "generic",
+    "tldManager": "Top Level Spectrum, Inc."
+  },
+  {
+    "name": ".ferrari",
+    "type": "generic",
+    "tldManager": "Fiat Chrysler Automobiles N.V."
+  },
+  {
+    "name": ".ferrero",
+    "type": "generic",
+    "tldManager": "Ferrero Trading Lux S.A."
+  },
+  {
+    "name": ".fi",
+    "type": "country-code",
+    "tldManager": "Finnish Transport and Communications Agency Traficom"
+  },
+  {
+    "name": ".fiat",
+    "type": "generic",
+    "tldManager": "Fiat Chrysler Automobiles N.V."
+  },
+  {
+    "name": ".fidelity",
+    "type": "generic",
+    "tldManager": "Fidelity Brokerage Services LLC"
+  },
+  {
+    "name": ".fido",
+    "type": "generic",
+    "tldManager": "Rogers Communications Canada Inc."
+  },
+  {
+    "name": ".film",
+    "type": "generic",
+    "tldManager": "Motion Picture Domain Registry Pty Ltd"
+  },
+  {
+    "name": ".final",
+    "type": "generic",
+    "tldManager": "Núcleo de Informação e Coordenação do Ponto BR - NIC.br"
+  },
+  { "name": ".finance", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".financial", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".fire",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".firestone",
+    "type": "generic",
+    "tldManager": "Bridgestone Licensing Services, Inc."
+  },
+  {
+    "name": ".firmdale",
+    "type": "generic",
+    "tldManager": "Firmdale Holdings Limited"
+  },
+  { "name": ".fish", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".fishing",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".fit",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  { "name": ".fitness", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".fj",
+    "type": "country-code",
+    "tldManager": "The University of the South Pacific IT Services"
+  },
+  {
+    "name": ".fk",
+    "type": "country-code",
+    "tldManager": "Falkland Islands Government"
+  },
+  { "name": ".flickr", "type": "generic", "tldManager": "Flickr, Inc." },
+  { "name": ".flights", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".flir", "type": "generic", "tldManager": "FLIR Systems, Inc." },
+  { "name": ".florist", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".flowers", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".flsmidth", "type": "generic", "tldManager": "Retired" },
+  {
+    "name": ".fly",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".fm",
+    "type": "country-code",
+    "tldManager": "FSM Telecommunications Corporation"
+  },
+  { "name": ".fo", "type": "country-code", "tldManager": "FO Council" },
+  {
+    "name": ".foo",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".food",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": ".foodnetwork",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  { "name": ".football", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".ford", "type": "generic", "tldManager": "Ford Motor Company" },
+  { "name": ".forex", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".forsale", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".forum", "type": "generic", "tldManager": "Fegistry, LLC" },
+  { "name": ".foundation", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".fox", "type": "generic", "tldManager": "FOX Registry, LLC" },
+  {
+    "name": ".fr",
+    "type": "country-code",
+    "tldManager": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": ".free",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".fresenius",
+    "type": "generic",
+    "tldManager": "Fresenius Immobilien-Verwaltungs-GmbH"
+  },
+  { "name": ".frl", "type": "generic", "tldManager": "FRLregistry B.V." },
+  { "name": ".frogans", "type": "generic", "tldManager": "OP3FT" },
+  {
+    "name": ".frontdoor",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": ".frontier",
+    "type": "generic",
+    "tldManager": "Frontier Communications Corporation"
+  },
+  {
+    "name": ".ftr",
+    "type": "generic",
+    "tldManager": "Frontier Communications Corporation"
+  },
+  { "name": ".fujitsu", "type": "generic", "tldManager": "Fujitsu Limited" },
+  { "name": ".fujixerox", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".fun", "type": "generic", "tldManager": "Radix FZC" },
+  { "name": ".fund", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".furniture", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".futbol", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".fyi", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".ga",
+    "type": "country-code",
+    "tldManager": "Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)"
+  },
+  { "name": ".gal", "type": "generic", "tldManager": "Asociación puntoGAL" },
+  { "name": ".gallery", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".gallo",
+    "type": "generic",
+    "tldManager": "Gallo Vineyards, Inc."
+  },
+  { "name": ".gallup", "type": "generic", "tldManager": "Gallup, Inc." },
+  { "name": ".game", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".games", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".gap", "type": "generic", "tldManager": "The Gap, Inc." },
+  {
+    "name": ".garden",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  { "name": ".gay", "type": "generic", "tldManager": "Top Level Design, LLC" },
+  {
+    "name": ".gb",
+    "type": "country-code",
+    "tldManager": "Reserved Domain - IANA"
+  },
+  {
+    "name": ".gbiz",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".gd",
+    "type": "country-code",
+    "tldManager": "The National Telecommunications Regulatory Commission (NTRC)"
+  },
+  {
+    "name": ".gdn",
+    "type": "generic",
+    "tldManager": "Joint Stock Company \"Navigation-information systems\""
+  },
+  {
+    "name": ".ge",
+    "type": "country-code",
+    "tldManager": "Caucasus Online LLC"
+  },
+  {
+    "name": ".gea",
+    "type": "generic",
+    "tldManager": "GEA Group Aktiengesellschaft"
+  },
+  { "name": ".gent", "type": "generic", "tldManager": "Combell nv" },
+  {
+    "name": ".genting",
+    "type": "generic",
+    "tldManager": "Resorts World Inc. Pte. Ltd."
+  },
+  {
+    "name": ".george",
+    "type": "generic",
+    "tldManager": "Wal-Mart Stores, Inc."
+  },
+  { "name": ".gf", "type": "country-code", "tldManager": "CANAL+ TELECOM" },
+  {
+    "name": ".gg",
+    "type": "country-code",
+    "tldManager": "Island Networks Ltd."
+  },
+  { "name": ".ggee", "type": "generic", "tldManager": "GMO Internet, Inc." },
+  {
+    "name": ".gh",
+    "type": "country-code",
+    "tldManager": "Network Computer Systems Limited"
+  },
+  { "name": ".gi", "type": "country-code", "tldManager": "Sapphire Networks" },
+  { "name": ".gift", "type": "generic", "tldManager": "Uniregistry, Corp." },
+  { "name": ".gifts", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".gives", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".giving", "type": "generic", "tldManager": "Giving Limited" },
+  { "name": ".gl", "type": "country-code", "tldManager": "TELE Greenland A/S" },
+  {
+    "name": ".glade",
+    "type": "generic",
+    "tldManager": "Johnson Shareholdings, Inc."
+  },
+  { "name": ".glass", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".gle",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".global",
+    "type": "generic",
+    "tldManager": "Dot Global Domain Registry Limited"
+  },
+  {
+    "name": ".globo",
+    "type": "generic",
+    "tldManager": "Globo Comunicação e Participações S.A"
+  },
+  { "name": ".gm", "type": "country-code", "tldManager": "GM-NIC" },
+  {
+    "name": ".gmail",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".gmbh", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".gmo", "type": "generic", "tldManager": "GMO Internet, Inc." },
+  { "name": ".gmx", "type": "generic", "tldManager": "1&1 Mail & Media GmbH" },
+  {
+    "name": ".gn",
+    "type": "country-code",
+    "tldManager": "Centre National des Sciences Halieutiques de Boussoura"
+  },
+  { "name": ".godaddy", "type": "generic", "tldManager": "Go Daddy East, LLC" },
+  { "name": ".gold", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".goldpoint",
+    "type": "generic",
+    "tldManager": "YODOBASHI CAMERA CO.,LTD."
+  },
+  { "name": ".golf", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".goo", "type": "generic", "tldManager": "NTT Resonant Inc." },
+  { "name": ".goodhands", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".goodyear",
+    "type": "generic",
+    "tldManager": "The Goodyear Tire & Rubber Company"
+  },
+  {
+    "name": ".goog",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".google",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".gop",
+    "type": "generic",
+    "tldManager": "Republican State Leadership Committee, Inc."
+  },
+  {
+    "name": ".got",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".gov",
+    "type": "sponsored",
+    "tldManager": "Cybersecurity and Infrastructure Security Agency"
+  },
+  {
+    "name": ".gp",
+    "type": "country-code",
+    "tldManager": "Networking Technologies Group"
+  },
+  { "name": ".gq", "type": "country-code", "tldManager": "GETESA" },
+  { "name": ".gr", "type": "country-code", "tldManager": "ICS-FORTH GR" },
+  {
+    "name": ".grainger",
+    "type": "generic",
+    "tldManager": "Grainger Registry Services, LLC"
+  },
+  { "name": ".graphics", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".gratis", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".green", "type": "generic", "tldManager": "Afilias Limited" },
+  { "name": ".gripe", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".grocery",
+    "type": "generic",
+    "tldManager": "Wal-Mart Stores, Inc."
+  },
+  { "name": ".group", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".gs",
+    "type": "country-code",
+    "tldManager": "Government of South Georgia and South Sandwich Islands (GSGSSI)"
+  },
+  {
+    "name": ".gt",
+    "type": "country-code",
+    "tldManager": "Universidad del Valle de Guatemala"
+  },
+  { "name": ".gu", "type": "country-code", "tldManager": "University of Guam" },
+  {
+    "name": ".guardian",
+    "type": "generic",
+    "tldManager": "The Guardian Life Insurance Company of America"
+  },
+  { "name": ".gucci", "type": "generic", "tldManager": "Guccio Gucci S.p.a." },
+  {
+    "name": ".guge",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".guide", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".guitars", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".guru", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".gw",
+    "type": "country-code",
+    "tldManager": "Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau"
+  },
+  {
+    "name": ".gy",
+    "type": "country-code",
+    "tldManager": "University of Guyana"
+  },
+  { "name": ".hair", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  {
+    "name": ".hamburg",
+    "type": "generic",
+    "tldManager": "Hamburg Top-Level-Domain GmbH"
+  },
+  {
+    "name": ".hangout",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".haus", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".hbo",
+    "type": "generic",
+    "tldManager": "HBO Registry Services, Inc."
+  },
+  {
+    "name": ".hdfc",
+    "type": "generic",
+    "tldManager": "HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED"
+  },
+  { "name": ".hdfcbank", "type": "generic", "tldManager": "HDFC Bank Limited" },
+  { "name": ".health", "type": "generic", "tldManager": "DotHealth, LLC" },
+  { "name": ".healthcare", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".help", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".helsinki", "type": "generic", "tldManager": "City of Helsinki" },
+  {
+    "name": ".here",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".hermes",
+    "type": "generic",
+    "tldManager": "Hermes International"
+  },
+  {
+    "name": ".hgtv",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  { "name": ".hiphop", "type": "generic", "tldManager": "UNR Corp." },
+  {
+    "name": ".hisamitsu",
+    "type": "generic",
+    "tldManager": "Hisamitsu Pharmaceutical Co.,Inc."
+  },
+  { "name": ".hitachi", "type": "generic", "tldManager": "Hitachi, Ltd." },
+  { "name": ".hiv", "type": "generic", "tldManager": "UNR Corp." },
+  {
+    "name": ".hk",
+    "type": "country-code",
+    "tldManager": "Hong Kong Internet Registration Corporation Ltd."
+  },
+  {
+    "name": ".hkt",
+    "type": "generic",
+    "tldManager": "PCCW-HKT DataCom Services Limited"
+  },
+  { "name": ".hm", "type": "country-code", "tldManager": "HM Domain Registry" },
+  {
+    "name": ".hn",
+    "type": "country-code",
+    "tldManager": "Red de Desarrollo Sostenible Honduras"
+  },
+  { "name": ".hockey", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".holdings", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".holiday", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".homedepot",
+    "type": "generic",
+    "tldManager": "Home Depot Product Authority, LLC"
+  },
+  {
+    "name": ".homegoods",
+    "type": "generic",
+    "tldManager": "The TJX Companies, Inc."
+  },
+  { "name": ".homes", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  {
+    "name": ".homesense",
+    "type": "generic",
+    "tldManager": "The TJX Companies, Inc."
+  },
+  {
+    "name": ".honda",
+    "type": "generic",
+    "tldManager": "Honda Motor Co., Ltd."
+  },
+  { "name": ".honeywell", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".horse",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  { "name": ".hospital", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".host", "type": "generic", "tldManager": "Radix FZC" },
+  { "name": ".hosting", "type": "generic", "tldManager": "UNR Corp." },
+  {
+    "name": ".hot",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".hoteles",
+    "type": "generic",
+    "tldManager": "Travel Reservations SRL"
+  },
+  { "name": ".hotels", "type": "generic", "tldManager": "Booking.com B.V." },
+  {
+    "name": ".hotmail",
+    "type": "generic",
+    "tldManager": "Microsoft Corporation"
+  },
+  { "name": ".house", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".how",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".hr",
+    "type": "country-code",
+    "tldManager": "CARNet - Croatian Academic and Research Network"
+  },
+  {
+    "name": ".hsbc",
+    "type": "generic",
+    "tldManager": "HSBC Global Services (UK) Limited"
+  },
+  {
+    "name": ".ht",
+    "type": "country-code",
+    "tldManager": "Consortium FDS/RDDH"
+  },
+  { "name": ".htc", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".hu",
+    "type": "country-code",
+    "tldManager": "Council of Hungarian Internet Providers (CHIP)"
+  },
+  {
+    "name": ".hughes",
+    "type": "generic",
+    "tldManager": "Hughes Satellite Systems Corporation"
+  },
+  { "name": ".hyatt", "type": "generic", "tldManager": "Hyatt GTLD, L.L.C." },
+  {
+    "name": ".hyundai",
+    "type": "generic",
+    "tldManager": "Hyundai Motor Company"
+  },
+  {
+    "name": ".ibm",
+    "type": "generic",
+    "tldManager": "International Business Machines Corporation"
+  },
+  {
+    "name": ".icbc",
+    "type": "generic",
+    "tldManager": "Industrial and Commercial Bank of China Limited"
+  },
+  {
+    "name": ".ice",
+    "type": "generic",
+    "tldManager": "IntercontinentalExchange, Inc."
+  },
+  { "name": ".icu", "type": "generic", "tldManager": "Shortdot SA" },
+  {
+    "name": ".id",
+    "type": "country-code",
+    "tldManager": "Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)"
+  },
+  {
+    "name": ".ie",
+    "type": "country-code",
+    "tldManager": "University College Dublin Computing Services Computer Centre"
+  },
+  { "name": ".ieee", "type": "generic", "tldManager": "IEEE Global LLC" },
+  { "name": ".ifm", "type": "generic", "tldManager": "ifm electronic gmbh" },
+  { "name": ".iinet", "type": "generic", "tldManager": "Retired" },
+  { "name": ".ikano", "type": "generic", "tldManager": "Ikano S.A." },
+  {
+    "name": ".il",
+    "type": "country-code",
+    "tldManager": "The Israel Internet Association (RA)"
+  },
+  {
+    "name": ".im",
+    "type": "country-code",
+    "tldManager": "Isle of Man Government"
+  },
+  {
+    "name": ".imamat",
+    "type": "generic",
+    "tldManager": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  {
+    "name": ".imdb",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".immo", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".immobilien", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".in",
+    "type": "country-code",
+    "tldManager": "National Internet Exchange of India"
+  },
+  { "name": ".inc", "type": "generic", "tldManager": "Intercap Registry Inc." },
+  { "name": ".industries", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".infiniti",
+    "type": "generic",
+    "tldManager": "NISSAN MOTOR CO., LTD."
+  },
+  { "name": ".info", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".ing",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".ink", "type": "generic", "tldManager": "Top Level Design, LLC" },
+  { "name": ".institute", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".insurance",
+    "type": "generic",
+    "tldManager": "fTLD Registry Services LLC"
+  },
+  { "name": ".insure", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".int",
+    "type": "sponsored",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  { "name": ".intel", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".international",
+    "type": "generic",
+    "tldManager": "Binky Moon, LLC"
+  },
+  {
+    "name": ".intuit",
+    "type": "generic",
+    "tldManager": "Intuit Administrative Services, Inc."
+  },
+  {
+    "name": ".investments",
+    "type": "generic",
+    "tldManager": "Binky Moon, LLC"
+  },
+  {
+    "name": ".io",
+    "type": "country-code",
+    "tldManager": "Internet Computer Bureau Limited"
+  },
+  {
+    "name": ".ipiranga",
+    "type": "generic",
+    "tldManager": "Ipiranga Produtos de Petroleo S.A."
+  },
+  {
+    "name": ".iq",
+    "type": "country-code",
+    "tldManager": "Communications and Media Commission (CMC)"
+  },
+  {
+    "name": ".ir",
+    "type": "country-code",
+    "tldManager": "Institute for Research in Fundamental Sciences"
+  },
+  { "name": ".irish", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".is",
+    "type": "country-code",
+    "tldManager": "ISNIC - Internet Iceland ltd."
+  },
+  { "name": ".iselect", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".ismaili",
+    "type": "generic",
+    "tldManager": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  {
+    "name": ".ist",
+    "type": "generic",
+    "tldManager": "Istanbul Metropolitan Municipality"
+  },
+  {
+    "name": ".istanbul",
+    "type": "generic",
+    "tldManager": "Istanbul Metropolitan Municipality"
+  },
+  { "name": ".it", "type": "country-code", "tldManager": "IIT - CNR" },
+  {
+    "name": ".itau",
+    "type": "generic",
+    "tldManager": "Itau Unibanco Holding S.A."
+  },
+  { "name": ".itv", "type": "generic", "tldManager": "ITV Services Limited" },
+  { "name": ".iveco", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".iwc", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".jaguar",
+    "type": "generic",
+    "tldManager": "Jaguar Land Rover Ltd"
+  },
+  { "name": ".java", "type": "generic", "tldManager": "Oracle Corporation" },
+  { "name": ".jcb", "type": "generic", "tldManager": "JCB Co., Ltd." },
+  { "name": ".jcp", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".je",
+    "type": "country-code",
+    "tldManager": "Island Networks (Jersey) Ltd."
+  },
+  { "name": ".jeep", "type": "generic", "tldManager": "FCA US LLC." },
+  { "name": ".jetzt", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".jewelry", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".jio", "type": "generic", "tldManager": "Affinity Names, Inc." },
+  { "name": ".jlc", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".jll",
+    "type": "generic",
+    "tldManager": "Jones Lang LaSalle Incorporated"
+  },
+  {
+    "name": ".jm",
+    "type": "country-code",
+    "tldManager": "University of West Indies"
+  },
+  { "name": ".jmp", "type": "generic", "tldManager": "Matrix IP LLC" },
+  {
+    "name": ".jnj",
+    "type": "generic",
+    "tldManager": "Johnson & Johnson Services, Inc."
+  },
+  {
+    "name": ".jo",
+    "type": "country-code",
+    "tldManager": "Ministry of Digital Economy and Entrepreneurship (MoDEE)"
+  },
+  { "name": ".jobs", "type": "sponsored", "tldManager": "Employ Media LLC" },
+  {
+    "name": ".joburg",
+    "type": "generic",
+    "tldManager": "ZA Central Registry NPC trading as ZA Central Registry"
+  },
+  {
+    "name": ".jot",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".joy",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".jp",
+    "type": "country-code",
+    "tldManager": "Japan Registry Services Co., Ltd."
+  },
+  {
+    "name": ".jpmorgan",
+    "type": "generic",
+    "tldManager": "JPMorgan Chase Bank, National Association"
+  },
+  {
+    "name": ".jprs",
+    "type": "generic",
+    "tldManager": "Japan Registry Services Co., Ltd."
+  },
+  { "name": ".juegos", "type": "generic", "tldManager": "UNR Corp." },
+  {
+    "name": ".juniper",
+    "type": "generic",
+    "tldManager": "JUNIPER NETWORKS, INC."
+  },
+  { "name": ".kaufen", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".kddi", "type": "generic", "tldManager": "KDDI CORPORATION" },
+  {
+    "name": ".ke",
+    "type": "country-code",
+    "tldManager": "Kenya Network Information Center (KeNIC)"
+  },
+  {
+    "name": ".kerryhotels",
+    "type": "generic",
+    "tldManager": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": ".kerrylogistics",
+    "type": "generic",
+    "tldManager": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": ".kerryproperties",
+    "type": "generic",
+    "tldManager": "Kerry Trading Co. Limited"
+  },
+  { "name": ".kfh", "type": "generic", "tldManager": "Kuwait Finance House" },
+  {
+    "name": ".kg",
+    "type": "country-code",
+    "tldManager": "AsiaInfo Telecommunication Enterprise"
+  },
+  {
+    "name": ".kh",
+    "type": "country-code",
+    "tldManager": "Telecommunication Regulator of Cambodia (TRC)"
+  },
+  {
+    "name": ".ki",
+    "type": "country-code",
+    "tldManager": "Ministry of Communications, Transport, and Tourism Development"
+  },
+  { "name": ".kia", "type": "generic", "tldManager": "KIA MOTORS CORPORATION" },
+  { "name": ".kim", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".kinder",
+    "type": "generic",
+    "tldManager": "Ferrero Trading Lux S.A."
+  },
+  {
+    "name": ".kindle",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".kitchen", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".kiwi", "type": "generic", "tldManager": "DOT KIWI LIMITED" },
+  { "name": ".km", "type": "country-code", "tldManager": "Comores Telecom" },
+  {
+    "name": ".kn",
+    "type": "country-code",
+    "tldManager": "Ministry of Finance, Sustainable Development Information & Technology"
+  },
+  { "name": ".koeln", "type": "generic", "tldManager": "dotKoeln GmbH" },
+  { "name": ".komatsu", "type": "generic", "tldManager": "Komatsu Ltd." },
+  {
+    "name": ".kosher",
+    "type": "generic",
+    "tldManager": "Kosher Marketing Assets LLC"
+  },
+  {
+    "name": ".kp",
+    "type": "country-code",
+    "tldManager": "Star Joint Venture Company"
+  },
+  {
+    "name": ".kpmg",
+    "type": "generic",
+    "tldManager": "KPMG International Cooperative (KPMG International Genossenschaft)"
+  },
+  { "name": ".kpn", "type": "generic", "tldManager": "Koninklijke KPN N.V." },
+  {
+    "name": ".kr",
+    "type": "country-code",
+    "tldManager": "Korea Internet & Security Agency (KISA)"
+  },
+  {
+    "name": ".krd",
+    "type": "generic",
+    "tldManager": "KRG Department of Information Technology"
+  },
+  { "name": ".kred", "type": "generic", "tldManager": "KredTLD Pty Ltd" },
+  {
+    "name": ".kuokgroup",
+    "type": "generic",
+    "tldManager": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": ".kw",
+    "type": "country-code",
+    "tldManager": "Communications and Information Technology Regulatory Authority"
+  },
+  {
+    "name": ".ky",
+    "type": "country-code",
+    "tldManager": "Utility Regulation and Competition Office (OfReg)"
+  },
+  {
+    "name": ".kyoto",
+    "type": "generic",
+    "tldManager": "Academic Institution: Kyoto Jyoho Gakuen"
+  },
+  {
+    "name": ".kz",
+    "type": "country-code",
+    "tldManager": "Association of IT Companies of Kazakhstan"
+  },
+  {
+    "name": ".la",
+    "type": "country-code",
+    "tldManager": "Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications"
+  },
+  {
+    "name": ".lacaixa",
+    "type": "generic",
+    "tldManager": "CAIXA D'ESTALVIS I PENSIONS DE BARCELONA"
+  },
+  { "name": ".ladbrokes", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".lamborghini",
+    "type": "generic",
+    "tldManager": "Automobili Lamborghini S.p.A."
+  },
+  {
+    "name": ".lamer",
+    "type": "generic",
+    "tldManager": "The Estée Lauder Companies Inc."
+  },
+  { "name": ".lancaster", "type": "generic", "tldManager": "LANCASTER" },
+  {
+    "name": ".lancia",
+    "type": "generic",
+    "tldManager": "Fiat Chrysler Automobiles N.V."
+  },
+  { "name": ".lancome", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".land", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".landrover",
+    "type": "generic",
+    "tldManager": "Jaguar Land Rover Ltd"
+  },
+  {
+    "name": ".lanxess",
+    "type": "generic",
+    "tldManager": "LANXESS Corporation"
+  },
+  {
+    "name": ".lasalle",
+    "type": "generic",
+    "tldManager": "Jones Lang LaSalle Incorporated"
+  },
+  {
+    "name": ".lat",
+    "type": "generic",
+    "tldManager": "ECOM-LAC Federación de Latinoamérica y el Caribe para Internet y el Comercio Electrónico"
+  },
+  {
+    "name": ".latino",
+    "type": "generic",
+    "tldManager": "Dish DBS Corporation"
+  },
+  {
+    "name": ".latrobe",
+    "type": "generic",
+    "tldManager": "La Trobe University"
+  },
+  { "name": ".law", "type": "generic", "tldManager": "LW TLD Limited" },
+  { "name": ".lawyer", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".lb",
+    "type": "country-code",
+    "tldManager": "American University of Beirut Computing and Networking Services"
+  },
+  {
+    "name": ".lc",
+    "type": "country-code",
+    "tldManager": "University of Puerto Rico"
+  },
+  {
+    "name": ".lds",
+    "type": "generic",
+    "tldManager": "IRI Domain Management, LLC"
+  },
+  { "name": ".lease", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".leclerc",
+    "type": "generic",
+    "tldManager": "A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc"
+  },
+  {
+    "name": ".lefrak",
+    "type": "generic",
+    "tldManager": "LeFrak Organization, Inc."
+  },
+  { "name": ".legal", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".lego", "type": "generic", "tldManager": "LEGO Juris A/S" },
+  {
+    "name": ".lexus",
+    "type": "generic",
+    "tldManager": "TOYOTA MOTOR CORPORATION"
+  },
+  { "name": ".lgbt", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".li",
+    "type": "country-code",
+    "tldManager": "SWITCH The Swiss Education & Research Network"
+  },
+  { "name": ".liaison", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".lidl",
+    "type": "generic",
+    "tldManager": "Schwarz Domains und Services GmbH & Co. KG"
+  },
+  { "name": ".life", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".lifeinsurance",
+    "type": "generic",
+    "tldManager": "American Council of Life Insurers"
+  },
+  {
+    "name": ".lifestyle",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  { "name": ".lighting", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".like",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".lilly",
+    "type": "generic",
+    "tldManager": "Eli Lilly and Company"
+  },
+  { "name": ".limited", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".limo", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".lincoln", "type": "generic", "tldManager": "Ford Motor Company" },
+  {
+    "name": ".linde",
+    "type": "generic",
+    "tldManager": "Linde Aktiengesellschaft"
+  },
+  { "name": ".link", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".lipsy", "type": "generic", "tldManager": "Lipsy Ltd" },
+  { "name": ".live", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".living",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": ".lixil",
+    "type": "generic",
+    "tldManager": "LIXIL Group Corporation"
+  },
+  {
+    "name": ".lk",
+    "type": "country-code",
+    "tldManager": "Council for Information Technology LK Domain Registrar"
+  },
+  { "name": ".llc", "type": "generic", "tldManager": "Afilias Limited" },
+  { "name": ".llp", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".loan", "type": "generic", "tldManager": "dot Loan Limited" },
+  { "name": ".loans", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".locker",
+    "type": "generic",
+    "tldManager": "Dish DBS Corporation"
+  },
+  { "name": ".locus", "type": "generic", "tldManager": "Locus Analytics LLC" },
+  { "name": ".loft", "type": "generic", "tldManager": "Annco, Inc." },
+  { "name": ".lol", "type": "generic", "tldManager": "UNR Corp." },
+  {
+    "name": ".london",
+    "type": "generic",
+    "tldManager": "Dot London Domains Limited"
+  },
+  {
+    "name": ".lotte",
+    "type": "generic",
+    "tldManager": "Lotte Holdings Co., Ltd."
+  },
+  { "name": ".lotto", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".love",
+    "type": "generic",
+    "tldManager": "Merchant Law Group LLP"
+  },
+  { "name": ".lpl", "type": "generic", "tldManager": "LPL Holdings, Inc." },
+  {
+    "name": ".lplfinancial",
+    "type": "generic",
+    "tldManager": "LPL Holdings, Inc."
+  },
+  {
+    "name": ".lr",
+    "type": "country-code",
+    "tldManager": "Data Technology Solutions, Inc."
+  },
+  {
+    "name": ".ls",
+    "type": "country-code",
+    "tldManager": "Lesotho Network Information Centre Proprietary (LSNIC)"
+  },
+  {
+    "name": ".lt",
+    "type": "country-code",
+    "tldManager": "Kaunas University of Technology"
+  },
+  { "name": ".ltd", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".ltda", "type": "generic", "tldManager": "InterNetX Corp." },
+  { "name": ".lu", "type": "country-code", "tldManager": "RESTENA" },
+  { "name": ".lundbeck", "type": "generic", "tldManager": "H. Lundbeck A/S" },
+  { "name": ".lupin", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".luxe",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  { "name": ".luxury", "type": "generic", "tldManager": "Luxury Partners LLC" },
+  {
+    "name": ".lv",
+    "type": "country-code",
+    "tldManager": "University of Latvia Institute of Mathematics and Computer Science Department of Network Solutions (DNS)"
+  },
+  {
+    "name": ".ly",
+    "type": "country-code",
+    "tldManager": "General Post and Telecommunication Company"
+  },
+  {
+    "name": ".ma",
+    "type": "country-code",
+    "tldManager": "Agence Nationale de Réglementation des Télécommunications (ANRT)"
+  },
+  { "name": ".macys", "type": "generic", "tldManager": "Macys, Inc." },
+  { "name": ".madrid", "type": "generic", "tldManager": "Comunidad de Madrid" },
+  {
+    "name": ".maif",
+    "type": "generic",
+    "tldManager": "Mutuelle Assurance Instituteur France (MAIF)"
+  },
+  { "name": ".maison", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".makeup", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".man", "type": "generic", "tldManager": "MAN SE" },
+  { "name": ".management", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".mango", "type": "generic", "tldManager": "PUNTO FA S.L." },
+  {
+    "name": ".map",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".market", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".marketing", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".markets", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".marriott",
+    "type": "generic",
+    "tldManager": "Marriott Worldwide Corporation"
+  },
+  {
+    "name": ".marshalls",
+    "type": "generic",
+    "tldManager": "The TJX Companies, Inc."
+  },
+  {
+    "name": ".maserati",
+    "type": "generic",
+    "tldManager": "Fiat Chrysler Automobiles N.V."
+  },
+  { "name": ".mattel", "type": "generic", "tldManager": "Mattel Sites, Inc." },
+  { "name": ".mba", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".mc",
+    "type": "country-code",
+    "tldManager": "Direction des Plateformes et des Ressources Numériques"
+  },
+  { "name": ".mcd", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".mcdonalds", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".mckinsey",
+    "type": "generic",
+    "tldManager": "McKinsey Holdings, Inc."
+  },
+  {
+    "name": ".md",
+    "type": "country-code",
+    "tldManager": "IP Serviciul Tehnologia Informatiei si Securitate Cibernetica"
+  },
+  {
+    "name": ".me",
+    "type": "country-code",
+    "tldManager": "Government of Montenegro"
+  },
+  { "name": ".med", "type": "generic", "tldManager": "Medistry LLC" },
+  { "name": ".media", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".meet",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".melbourne",
+    "type": "generic",
+    "tldManager": "The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation"
+  },
+  {
+    "name": ".meme",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".memorial", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".men",
+    "type": "generic",
+    "tldManager": "Exclusive Registry Limited"
+  },
+  { "name": ".menu", "type": "generic", "tldManager": "Wedding TLD2, LLC" },
+  { "name": ".meo", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".merckmsd",
+    "type": "generic",
+    "tldManager": "MSD Registry Holdings, Inc."
+  },
+  { "name": ".metlife", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".mf", "type": "country-code", "tldManager": "Not assigned" },
+  {
+    "name": ".mg",
+    "type": "country-code",
+    "tldManager": "NIC-MG (Network Information Center Madagascar)"
+  },
+  {
+    "name": ".mh",
+    "type": "country-code",
+    "tldManager": "Office of the Cabinet"
+  },
+  {
+    "name": ".miami",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".microsoft",
+    "type": "generic",
+    "tldManager": "Microsoft Corporation"
+  },
+  {
+    "name": ".mil",
+    "type": "sponsored",
+    "tldManager": "DoD Network Information Center"
+  },
+  {
+    "name": ".mini",
+    "type": "generic",
+    "tldManager": "Bayerische Motoren Werke Aktiengesellschaft"
+  },
+  {
+    "name": ".mint",
+    "type": "generic",
+    "tldManager": "Intuit Administrative Services, Inc."
+  },
+  {
+    "name": ".mit",
+    "type": "generic",
+    "tldManager": "Massachusetts Institute of Technology"
+  },
+  {
+    "name": ".mitsubishi",
+    "type": "generic",
+    "tldManager": "Mitsubishi Corporation"
+  },
+  {
+    "name": ".mk",
+    "type": "country-code",
+    "tldManager": "Macedonian Academic Research Network Skopje"
+  },
+  {
+    "name": ".ml",
+    "type": "country-code",
+    "tldManager": "Agence des Technologies de l’Information et de la Communication"
+  },
+  {
+    "name": ".mlb",
+    "type": "generic",
+    "tldManager": "MLB Advanced Media DH, LLC"
+  },
+  {
+    "name": ".mls",
+    "type": "generic",
+    "tldManager": "The Canadian Real Estate Association"
+  },
+  {
+    "name": ".mm",
+    "type": "country-code",
+    "tldManager": "Ministry of Transport and Communications"
+  },
+  { "name": ".mma", "type": "generic", "tldManager": "MMA IARD" },
+  { "name": ".mn", "type": "country-code", "tldManager": "Datacom Co., Ltd." },
+  {
+    "name": ".mo",
+    "type": "country-code",
+    "tldManager": "Macao Post and Telecommunications Bureau (CTT)"
+  },
+  {
+    "name": ".mobi",
+    "type": "generic",
+    "tldManager": "Afilias Technologies Limited dba dotMobi"
+  },
+  {
+    "name": ".mobile",
+    "type": "generic",
+    "tldManager": "Dish DBS Corporation"
+  },
+  { "name": ".mobily", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".moda", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".moe", "type": "generic", "tldManager": "Interlink Co., Ltd." },
+  {
+    "name": ".moi",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".mom", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".monash", "type": "generic", "tldManager": "Monash University" },
+  { "name": ".money", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".monster", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".montblanc", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".mopar", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".mormon",
+    "type": "generic",
+    "tldManager": "IRI Domain Management, LLC (\"Applicant\")"
+  },
+  { "name": ".mortgage", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".moscow",
+    "type": "generic",
+    "tldManager": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)"
+  },
+  {
+    "name": ".moto",
+    "type": "generic",
+    "tldManager": "Motorola Trademark Holdings, LLC"
+  },
+  { "name": ".motorcycles", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  {
+    "name": ".mov",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".movie", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".movistar", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".mp",
+    "type": "country-code",
+    "tldManager": "Saipan Datacom, Inc."
+  },
+  { "name": ".mq", "type": "country-code", "tldManager": "CANAL+ TELECOM" },
+  {
+    "name": ".mr",
+    "type": "country-code",
+    "tldManager": "Université de Nouakchott Al Aasriya"
+  },
+  { "name": ".ms", "type": "country-code", "tldManager": "MNI Networks Ltd." },
+  {
+    "name": ".msd",
+    "type": "generic",
+    "tldManager": "MSD Registry Holdings, Inc."
+  },
+  { "name": ".mt", "type": "country-code", "tldManager": "NIC (Malta)" },
+  { "name": ".mtn", "type": "generic", "tldManager": "MTN Dubai Limited" },
+  { "name": ".mtpc", "type": "generic", "tldManager": "Retired" },
+  {
+    "name": ".mtr",
+    "type": "generic",
+    "tldManager": "MTR Corporation Limited"
+  },
+  {
+    "name": ".mu",
+    "type": "country-code",
+    "tldManager": "Internet Direct Ltd"
+  },
+  {
+    "name": ".museum",
+    "type": "sponsored",
+    "tldManager": "Museum Domain Management Association"
+  },
+  {
+    "name": ".mutual",
+    "type": "generic",
+    "tldManager": "Northwestern Mutual MU TLD Registry, LLC"
+  },
+  { "name": ".mutuelle", "type": "generic", "tldManager": "Retired" },
+  {
+    "name": ".mv",
+    "type": "country-code",
+    "tldManager": "Dhiraagu Pvt. Ltd. (DHIVEHINET)"
+  },
+  {
+    "name": ".mw",
+    "type": "country-code",
+    "tldManager": "Malawi Sustainable Development Network Programme (Malawi SDNP)"
+  },
+  {
+    "name": ".mx",
+    "type": "country-code",
+    "tldManager": "NIC-Mexico ITESM - Campus Monterrey"
+  },
+  { "name": ".my", "type": "country-code", "tldManager": "MYNIC Berhad" },
+  {
+    "name": ".mz",
+    "type": "country-code",
+    "tldManager": "Centro de Informatica de Universidade Eduardo Mondlane"
+  },
+  {
+    "name": ".na",
+    "type": "country-code",
+    "tldManager": "Namibian Network Information Center"
+  },
+  {
+    "name": ".nab",
+    "type": "generic",
+    "tldManager": "National Australia Bank Limited"
+  },
+  { "name": ".nadex", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".nagoya", "type": "generic", "tldManager": "GMO Registry, Inc." },
+  {
+    "name": ".name",
+    "type": "generic-restricted",
+    "tldManager": "VeriSign Information Services, Inc."
+  },
+  { "name": ".nationwide", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".natura",
+    "type": "generic",
+    "tldManager": "NATURA COSMÉTICOS S.A."
+  },
+  { "name": ".navy", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".nba", "type": "generic", "tldManager": "NBA REGISTRY, LLC" },
+  {
+    "name": ".nc",
+    "type": "country-code",
+    "tldManager": "Office des Postes et Telecommunications"
+  },
+  { "name": ".ne", "type": "country-code", "tldManager": "SONITEL" },
+  { "name": ".nec", "type": "generic", "tldManager": "NEC Corporation" },
+  {
+    "name": ".net",
+    "type": "generic",
+    "tldManager": "VeriSign Global Registry Services"
+  },
+  {
+    "name": ".netbank",
+    "type": "generic",
+    "tldManager": "COMMONWEALTH BANK OF AUSTRALIA"
+  },
+  { "name": ".netflix", "type": "generic", "tldManager": "Netflix, Inc." },
+  { "name": ".network", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".neustar", "type": "generic", "tldManager": "NeuStar, Inc." },
+  {
+    "name": ".new",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".newholland", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".news", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".next", "type": "generic", "tldManager": "Next plc" },
+  { "name": ".nextdirect", "type": "generic", "tldManager": "Next plc" },
+  {
+    "name": ".nexus",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".nf",
+    "type": "country-code",
+    "tldManager": "Norfolk Island Data Services"
+  },
+  { "name": ".nfl", "type": "generic", "tldManager": "NFL Reg Ops LLC" },
+  {
+    "name": ".ng",
+    "type": "country-code",
+    "tldManager": "Nigeria Internet Registration Association"
+  },
+  {
+    "name": ".ngo",
+    "type": "generic",
+    "tldManager": "Public Interest Registry"
+  },
+  {
+    "name": ".nhk",
+    "type": "generic",
+    "tldManager": "Japan Broadcasting Corporation (NHK)"
+  },
+  {
+    "name": ".ni",
+    "type": "country-code",
+    "tldManager": "Universidad Nacional del Ingernieria Centro de Computo"
+  },
+  { "name": ".nico", "type": "generic", "tldManager": "DWANGO Co., Ltd." },
+  { "name": ".nike", "type": "generic", "tldManager": "NIKE, Inc." },
+  { "name": ".nikon", "type": "generic", "tldManager": "NIKON CORPORATION" },
+  { "name": ".ninja", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".nissan",
+    "type": "generic",
+    "tldManager": "NISSAN MOTOR CO., LTD."
+  },
+  {
+    "name": ".nissay",
+    "type": "generic",
+    "tldManager": "Nippon Life Insurance Company"
+  },
+  {
+    "name": ".nl",
+    "type": "country-code",
+    "tldManager": "SIDN (Stichting Internet Domeinregistratie Nederland)"
+  },
+  { "name": ".no", "type": "country-code", "tldManager": "Norid A/S" },
+  { "name": ".nokia", "type": "generic", "tldManager": "Nokia Corporation" },
+  {
+    "name": ".northwesternmutual",
+    "type": "generic",
+    "tldManager": "Northwestern Mutual Registry, LLC"
+  },
+  {
+    "name": ".norton",
+    "type": "generic",
+    "tldManager": "Symantec Corporation"
+  },
+  {
+    "name": ".now",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".nowruz",
+    "type": "generic",
+    "tldManager": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
+  },
+  {
+    "name": ".nowtv",
+    "type": "generic",
+    "tldManager": "Starbucks (HK) Limited"
+  },
+  {
+    "name": ".np",
+    "type": "country-code",
+    "tldManager": "Mercantile Communications Pvt. Ltd."
+  },
+  { "name": ".nr", "type": "country-code", "tldManager": "CENPAC NET" },
+  {
+    "name": ".nra",
+    "type": "generic",
+    "tldManager": "NRA Holdings Company, INC."
+  },
+  { "name": ".nrw", "type": "generic", "tldManager": "Minds + Machines GmbH" },
+  {
+    "name": ".ntt",
+    "type": "generic",
+    "tldManager": "NIPPON TELEGRAPH AND TELEPHONE CORPORATION"
+  },
+  {
+    "name": ".nu",
+    "type": "country-code",
+    "tldManager": "The IUSN Foundation"
+  },
+  {
+    "name": ".nyc",
+    "type": "generic",
+    "tldManager": "The City of New York by and through the New York City Department of Information Technology & Telecommunications"
+  },
+  { "name": ".nz", "type": "country-code", "tldManager": "InternetNZ" },
+  {
+    "name": ".obi",
+    "type": "generic",
+    "tldManager": "OBI Group Holding SE & Co. KGaA"
+  },
+  { "name": ".observer", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".off",
+    "type": "generic",
+    "tldManager": "Johnson Shareholdings, Inc."
+  },
+  {
+    "name": ".office",
+    "type": "generic",
+    "tldManager": "Microsoft Corporation"
+  },
+  { "name": ".okinawa", "type": "generic", "tldManager": "BRregistry, Inc." },
+  {
+    "name": ".olayan",
+    "type": "generic",
+    "tldManager": "Crescent Holding GmbH"
+  },
+  {
+    "name": ".olayangroup",
+    "type": "generic",
+    "tldManager": "Crescent Holding GmbH"
+  },
+  { "name": ".oldnavy", "type": "generic", "tldManager": "The Gap, Inc." },
+  { "name": ".ollo", "type": "generic", "tldManager": "Dish DBS Corporation" },
+  {
+    "name": ".om",
+    "type": "country-code",
+    "tldManager": "Telecommunications Regulatory Authority (TRA)"
+  },
+  { "name": ".omega", "type": "generic", "tldManager": "The Swatch Group Ltd" },
+  { "name": ".one", "type": "generic", "tldManager": "One.com A/S" },
+  {
+    "name": ".ong",
+    "type": "generic",
+    "tldManager": "Public Interest Registry"
+  },
+  { "name": ".onl", "type": "generic", "tldManager": "iRegistry GmbH" },
+  { "name": ".online", "type": "generic", "tldManager": "Radix FZC" },
+  { "name": ".onyourside", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".ooo",
+    "type": "generic",
+    "tldManager": "INFIBEAM INCORPORATION LIMITED"
+  },
+  {
+    "name": ".open",
+    "type": "generic",
+    "tldManager": "American Express Travel Related Services Company, Inc."
+  },
+  { "name": ".oracle", "type": "generic", "tldManager": "Oracle Corporation" },
+  {
+    "name": ".orange",
+    "type": "generic",
+    "tldManager": "Orange Brand Services Limited"
+  },
+  {
+    "name": ".org",
+    "type": "generic",
+    "tldManager": "Public Interest Registry (PIR)"
+  },
+  { "name": ".organic", "type": "generic", "tldManager": "Afilias Limited" },
+  { "name": ".orientexpress", "type": "generic", "tldManager": "Retired" },
+  {
+    "name": ".origins",
+    "type": "generic",
+    "tldManager": "The Estée Lauder Companies Inc."
+  },
+  {
+    "name": ".osaka",
+    "type": "generic",
+    "tldManager": "Osaka Registry Co., Ltd."
+  },
+  {
+    "name": ".otsuka",
+    "type": "generic",
+    "tldManager": "Otsuka Holdings Co., Ltd."
+  },
+  { "name": ".ott", "type": "generic", "tldManager": "Dish DBS Corporation" },
+  { "name": ".ovh", "type": "generic", "tldManager": "OVH SAS" },
+  {
+    "name": ".pa",
+    "type": "country-code",
+    "tldManager": "Universidad Tecnologica de Panama"
+  },
+  {
+    "name": ".page",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".pamperedchef", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".panasonic",
+    "type": "generic",
+    "tldManager": "Panasonic Corporation"
+  },
+  { "name": ".panerai", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".paris", "type": "generic", "tldManager": "City of Paris" },
+  {
+    "name": ".pars",
+    "type": "generic",
+    "tldManager": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
+  },
+  { "name": ".partners", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".parts", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".party",
+    "type": "generic",
+    "tldManager": "Blue Sky Registry Limited"
+  },
+  {
+    "name": ".passagens",
+    "type": "generic",
+    "tldManager": "Travel Reservations SRL"
+  },
+  {
+    "name": ".pay",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".pccw",
+    "type": "generic",
+    "tldManager": "PCCW Enterprises Limited"
+  },
+  {
+    "name": ".pe",
+    "type": "country-code",
+    "tldManager": "Red Cientifica Peruana"
+  },
+  { "name": ".pet", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".pf",
+    "type": "country-code",
+    "tldManager": "Gouvernement de la Polynésie française"
+  },
+  { "name": ".pfizer", "type": "generic", "tldManager": "Pfizer Inc." },
+  {
+    "name": ".pg",
+    "type": "country-code",
+    "tldManager": "PNG DNS Administration Vice Chancellors Office The Papua New Guinea University of Technology"
+  },
+  {
+    "name": ".ph",
+    "type": "country-code",
+    "tldManager": "PH Domain Foundation"
+  },
+  {
+    "name": ".pharmacy",
+    "type": "generic",
+    "tldManager": "National Association of Boards of Pharmacy"
+  },
+  {
+    "name": ".phd",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".philips",
+    "type": "generic",
+    "tldManager": "Koninklijke Philips N.V."
+  },
+  { "name": ".phone", "type": "generic", "tldManager": "Dish DBS Corporation" },
+  { "name": ".photo", "type": "generic", "tldManager": "UNR Corp." },
+  {
+    "name": ".photography",
+    "type": "generic",
+    "tldManager": "Binky Moon, LLC"
+  },
+  { "name": ".photos", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".physio", "type": "generic", "tldManager": "PhysBiz Pty Ltd" },
+  { "name": ".piaget", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".pics", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".pictet", "type": "generic", "tldManager": "Pictet Europe S.A." },
+  { "name": ".pictures", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".pid",
+    "type": "generic",
+    "tldManager": "Top Level Spectrum, Inc."
+  },
+  {
+    "name": ".pin",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".ping",
+    "type": "generic",
+    "tldManager": "Ping Registry Provider, Inc."
+  },
+  { "name": ".pink", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".pioneer",
+    "type": "generic",
+    "tldManager": "Pioneer Corporation"
+  },
+  { "name": ".pizza", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".pk", "type": "country-code", "tldManager": "PKNIC" },
+  {
+    "name": ".pl",
+    "type": "country-code",
+    "tldManager": "Research and Academic Computer Network"
+  },
+  { "name": ".place", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".play",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".playstation",
+    "type": "generic",
+    "tldManager": "Sony Computer Entertainment Inc."
+  },
+  { "name": ".plumbing", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".plus", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".pm",
+    "type": "country-code",
+    "tldManager": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": ".pn",
+    "type": "country-code",
+    "tldManager": "Pitcairn Island Administration"
+  },
+  { "name": ".pnc", "type": "generic", "tldManager": "PNC Domain Co., LLC" },
+  {
+    "name": ".pohl",
+    "type": "generic",
+    "tldManager": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  { "name": ".poker", "type": "generic", "tldManager": "Afilias Limited" },
+  { "name": ".politie", "type": "generic", "tldManager": "Politie Nederland" },
+  { "name": ".porn", "type": "generic", "tldManager": "ICM Registry PN LLC" },
+  {
+    "name": ".post",
+    "type": "sponsored",
+    "tldManager": "Universal Postal Union"
+  },
+  {
+    "name": ".pr",
+    "type": "country-code",
+    "tldManager": "Gauss Research Laboratory Inc."
+  },
+  {
+    "name": ".pramerica",
+    "type": "generic",
+    "tldManager": "Prudential Financial, Inc."
+  },
+  { "name": ".praxi", "type": "generic", "tldManager": "Praxi S.p.A." },
+  { "name": ".press", "type": "generic", "tldManager": "Radix FZC" },
+  {
+    "name": ".prime",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".pro",
+    "type": "generic-restricted",
+    "tldManager": "Afilias Limited"
+  },
+  {
+    "name": ".prod",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".productions",
+    "type": "generic",
+    "tldManager": "Binky Moon, LLC"
+  },
+  {
+    "name": ".prof",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".progressive",
+    "type": "generic",
+    "tldManager": "Progressive Casualty Insurance Company"
+  },
+  { "name": ".promo", "type": "generic", "tldManager": "Afilias Limited" },
+  { "name": ".properties", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".property", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".protection", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  {
+    "name": ".pru",
+    "type": "generic",
+    "tldManager": "Prudential Financial, Inc."
+  },
+  {
+    "name": ".prudential",
+    "type": "generic",
+    "tldManager": "Prudential Financial, Inc."
+  },
+  {
+    "name": ".ps",
+    "type": "country-code",
+    "tldManager": "Ministry Of Telecommunications & Information Technology, Government Computer Center."
+  },
+  { "name": ".pt", "type": "country-code", "tldManager": "Associação DNS.PT" },
+  { "name": ".pub", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".pw",
+    "type": "country-code",
+    "tldManager": "Micronesia Investment and Development Corporation"
+  },
+  {
+    "name": ".pwc",
+    "type": "generic",
+    "tldManager": "PricewaterhouseCoopers LLP"
+  },
+  { "name": ".py", "type": "country-code", "tldManager": "NIC-PY" },
+  {
+    "name": ".qa",
+    "type": "country-code",
+    "tldManager": "Communications Regulatory Authority"
+  },
+  { "name": ".qpon", "type": "generic", "tldManager": "dotCOOL, Inc." },
+  { "name": ".quebec", "type": "generic", "tldManager": "PointQuébec Inc" },
+  { "name": ".quest", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".qvc", "type": "generic", "tldManager": "QVC, Inc." },
+  {
+    "name": ".racing",
+    "type": "generic",
+    "tldManager": "Premier Registry Limited"
+  },
+  {
+    "name": ".radio",
+    "type": "generic",
+    "tldManager": "European Broadcasting Union (EBU)"
+  },
+  {
+    "name": ".raid",
+    "type": "generic",
+    "tldManager": "Johnson Shareholdings, Inc."
+  },
+  {
+    "name": ".re",
+    "type": "country-code",
+    "tldManager": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": ".read",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".realestate",
+    "type": "generic",
+    "tldManager": "dotRealEstate LLC"
+  },
+  {
+    "name": ".realtor",
+    "type": "generic",
+    "tldManager": "Real Estate Domains LLC"
+  },
+  { "name": ".realty", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".recipes", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".red", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".redstone",
+    "type": "generic",
+    "tldManager": "Redstone Haute Couture Co., Ltd."
+  },
+  {
+    "name": ".redumbrella",
+    "type": "generic",
+    "tldManager": "Travelers TLD, LLC"
+  },
+  { "name": ".rehab", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".reise", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".reisen", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".reit",
+    "type": "generic",
+    "tldManager": "National Association of Real Estate Investment Trusts, Inc."
+  },
+  {
+    "name": ".reliance",
+    "type": "generic",
+    "tldManager": "Reliance Industries Limited"
+  },
+  {
+    "name": ".ren",
+    "type": "generic",
+    "tldManager": "ZDNS International Limited"
+  },
+  { "name": ".rent", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".rentals", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".repair", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".report", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".republican", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".rest",
+    "type": "generic",
+    "tldManager": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
+  },
+  { "name": ".restaurant", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".review", "type": "generic", "tldManager": "dot Review Limited" },
+  { "name": ".reviews", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".rexroth", "type": "generic", "tldManager": "Robert Bosch GMBH" },
+  { "name": ".rich", "type": "generic", "tldManager": "iRegistry GmbH" },
+  {
+    "name": ".richardli",
+    "type": "generic",
+    "tldManager": "Pacific Century Asset Management (HK) Limited"
+  },
+  { "name": ".ricoh", "type": "generic", "tldManager": "Ricoh Company, Ltd." },
+  { "name": ".rightathome", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".ril",
+    "type": "generic",
+    "tldManager": "Reliance Industries Limited"
+  },
+  {
+    "name": ".rio",
+    "type": "generic",
+    "tldManager": "Empresa Municipal de Informática SA - IPLANRIO"
+  },
+  { "name": ".rip", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".rmit",
+    "type": "generic",
+    "tldManager": "Royal Melbourne Institute of Technology"
+  },
+  {
+    "name": ".ro",
+    "type": "country-code",
+    "tldManager": "National Institute for R&D in Informatics"
+  },
+  {
+    "name": ".rocher",
+    "type": "generic",
+    "tldManager": "Ferrero Trading Lux S.A."
+  },
+  { "name": ".rocks", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".rodeo",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".rogers",
+    "type": "generic",
+    "tldManager": "Rogers Communications Canada Inc."
+  },
+  {
+    "name": ".room",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".rs",
+    "type": "country-code",
+    "tldManager": "Serbian National Internet Domain Registry (RNIDS)"
+  },
+  {
+    "name": ".rsvp",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".ru",
+    "type": "country-code",
+    "tldManager": "Coordination Center for TLD RU"
+  },
+  {
+    "name": ".rugby",
+    "type": "generic",
+    "tldManager": "World Rugby Strategic Developments Limited"
+  },
+  {
+    "name": ".ruhr",
+    "type": "generic",
+    "tldManager": "regiodot GmbH & Co. KG"
+  },
+  { "name": ".run", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".rw",
+    "type": "country-code",
+    "tldManager": "Rwanda Internet Community and Technology Alliance (RICTA) Ltd"
+  },
+  { "name": ".rwe", "type": "generic", "tldManager": "RWE AG" },
+  { "name": ".ryukyu", "type": "generic", "tldManager": "BRregistry, Inc." },
+  {
+    "name": ".sa",
+    "type": "country-code",
+    "tldManager": "Communications and Information Technology Commission"
+  },
+  { "name": ".saarland", "type": "generic", "tldManager": "dotSaarland GmbH" },
+  {
+    "name": ".safe",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".safety",
+    "type": "generic",
+    "tldManager": "Safety Registry Services, LLC."
+  },
+  {
+    "name": ".sakura",
+    "type": "generic",
+    "tldManager": "SAKURA Internet Inc."
+  },
+  { "name": ".sale", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".salon", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".samsclub",
+    "type": "generic",
+    "tldManager": "Wal-Mart Stores, Inc."
+  },
+  {
+    "name": ".samsung",
+    "type": "generic",
+    "tldManager": "SAMSUNG SDS CO., LTD"
+  },
+  { "name": ".sandvik", "type": "generic", "tldManager": "Sandvik AB" },
+  { "name": ".sandvikcoromant", "type": "generic", "tldManager": "Sandvik AB" },
+  { "name": ".sanofi", "type": "generic", "tldManager": "Sanofi" },
+  { "name": ".sap", "type": "generic", "tldManager": "SAP AG" },
+  { "name": ".sapo", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".sarl", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".sas", "type": "generic", "tldManager": "Research IP LLC" },
+  {
+    "name": ".save",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".saxo", "type": "generic", "tldManager": "Saxo Bank A/S" },
+  {
+    "name": ".sb",
+    "type": "country-code",
+    "tldManager": "Solomon Telekom Company Limited"
+  },
+  { "name": ".sbi", "type": "generic", "tldManager": "STATE BANK OF INDIA" },
+  {
+    "name": ".sbs",
+    "type": "generic",
+    "tldManager": "SPECIAL BROADCASTING SERVICE CORPORATION"
+  },
+  { "name": ".sc", "type": "country-code", "tldManager": "VCS Pty Ltd" },
+  {
+    "name": ".sca",
+    "type": "generic",
+    "tldManager": "SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)"
+  },
+  {
+    "name": ".scb",
+    "type": "generic",
+    "tldManager": "The Siam Commercial Bank Public Company Limited (\"SCB\")"
+  },
+  {
+    "name": ".schaeffler",
+    "type": "generic",
+    "tldManager": "Schaeffler Technologies AG & Co. KG"
+  },
+  {
+    "name": ".schmidt",
+    "type": "generic",
+    "tldManager": "SCHMIDT GROUPE S.A.S."
+  },
+  {
+    "name": ".scholarships",
+    "type": "generic",
+    "tldManager": "Scholarships.com, LLC"
+  },
+  { "name": ".school", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".schule", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".schwarz",
+    "type": "generic",
+    "tldManager": "Schwarz Domains und Services GmbH & Co. KG"
+  },
+  {
+    "name": ".science",
+    "type": "generic",
+    "tldManager": "dot Science Limited"
+  },
+  {
+    "name": ".scjohnson",
+    "type": "generic",
+    "tldManager": "Johnson Shareholdings, Inc."
+  },
+  { "name": ".scor", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".scot",
+    "type": "generic",
+    "tldManager": "Dot Scot Registry Limited"
+  },
+  {
+    "name": ".sd",
+    "type": "country-code",
+    "tldManager": "Sudan Internet Society"
+  },
+  {
+    "name": ".se",
+    "type": "country-code",
+    "tldManager": "The Internet Infrastructure Foundation"
+  },
+  {
+    "name": ".search",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".seat",
+    "type": "generic",
+    "tldManager": "SEAT, S.A. (Sociedad Unipersonal)"
+  },
+  {
+    "name": ".secure",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".security", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".seek", "type": "generic", "tldManager": "Seek Limited" },
+  {
+    "name": ".select",
+    "type": "generic",
+    "tldManager": "Registry Services, LLC"
+  },
+  {
+    "name": ".sener",
+    "type": "generic",
+    "tldManager": "Sener Ingeniería y Sistemas, S.A."
+  },
+  { "name": ".services", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".ses", "type": "generic", "tldManager": "SES" },
+  { "name": ".seven", "type": "generic", "tldManager": "Seven West Media Ltd" },
+  {
+    "name": ".sew",
+    "type": "generic",
+    "tldManager": "SEW-EURODRIVE GmbH & Co KG"
+  },
+  { "name": ".sex", "type": "generic", "tldManager": "ICM Registry SX LLC" },
+  { "name": ".sexy", "type": "generic", "tldManager": "UNR Corp." },
+  {
+    "name": ".sfr",
+    "type": "generic",
+    "tldManager": "Societe Francaise du Radiotelephone - SFR"
+  },
+  {
+    "name": ".sg",
+    "type": "country-code",
+    "tldManager": "Singapore Network Information Centre (SGNIC) Pte Ltd"
+  },
+  {
+    "name": ".sh",
+    "type": "country-code",
+    "tldManager": "Government of St. Helena"
+  },
+  {
+    "name": ".shangrila",
+    "type": "generic",
+    "tldManager": "Shangri‐La International Hotel Management Limited"
+  },
+  { "name": ".sharp", "type": "generic", "tldManager": "Sharp Corporation" },
+  {
+    "name": ".shaw",
+    "type": "generic",
+    "tldManager": "Shaw Cablesystems G.P."
+  },
+  {
+    "name": ".shell",
+    "type": "generic",
+    "tldManager": "Shell Information Technology International Inc"
+  },
+  {
+    "name": ".shia",
+    "type": "generic",
+    "tldManager": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
+  },
+  { "name": ".shiksha", "type": "generic", "tldManager": "Afilias Limited" },
+  { "name": ".shoes", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".shop", "type": "generic", "tldManager": "GMO Registry, Inc." },
+  { "name": ".shopping", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".shouji",
+    "type": "generic",
+    "tldManager": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  { "name": ".show", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".showtime", "type": "generic", "tldManager": "CBS Domains Inc." },
+  { "name": ".shriram", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".si",
+    "type": "country-code",
+    "tldManager": "Academic and Research Network of Slovenia (ARNES)"
+  },
+  {
+    "name": ".silk",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".sina", "type": "generic", "tldManager": "Sina Corporation" },
+  { "name": ".singles", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".site", "type": "generic", "tldManager": "DotSite Inc." },
+  { "name": ".sj", "type": "country-code", "tldManager": "Norid A/S" },
+  { "name": ".sk", "type": "country-code", "tldManager": "SK-NIC, a.s." },
+  { "name": ".ski", "type": "generic", "tldManager": "Afilias Limited" },
+  { "name": ".skin", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".sky", "type": "generic", "tldManager": "Sky International AG" },
+  {
+    "name": ".skype",
+    "type": "generic",
+    "tldManager": "Microsoft Corporation"
+  },
+  { "name": ".sl", "type": "country-code", "tldManager": "Sierratel" },
+  {
+    "name": ".sling",
+    "type": "generic",
+    "tldManager": "Hughes Satellite Systems Corporation"
+  },
+  {
+    "name": ".sm",
+    "type": "country-code",
+    "tldManager": "Telecom Italia San Marino S.p.A."
+  },
+  {
+    "name": ".smart",
+    "type": "generic",
+    "tldManager": "Smart Communications, Inc. (SMART)"
+  },
+  {
+    "name": ".smile",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".sn",
+    "type": "country-code",
+    "tldManager": "Universite Cheikh Anta Diop NIC Senegal"
+  },
+  {
+    "name": ".sncf",
+    "type": "generic",
+    "tldManager": "SNCF (Société Nationale des Chemins de fer Francais)"
+  },
+  {
+    "name": ".so",
+    "type": "country-code",
+    "tldManager": "Ministry of Post and Telecommunications"
+  },
+  { "name": ".soccer", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".social", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".softbank",
+    "type": "generic",
+    "tldManager": "SoftBank Group Corp."
+  },
+  { "name": ".software", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".sohu", "type": "generic", "tldManager": "Sohu.com Limited" },
+  { "name": ".solar", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".solutions", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".song",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".sony", "type": "generic", "tldManager": "Sony Corporation" },
+  {
+    "name": ".soy",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".spa",
+    "type": "generic",
+    "tldManager": "Asia Spa and Wellness Promotion Council Limited"
+  },
+  { "name": ".space", "type": "generic", "tldManager": "Radix FZC" },
+  { "name": ".spiegel", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".sport",
+    "type": "generic",
+    "tldManager": "Global Association of International Sports Federations (GAISF)"
+  },
+  {
+    "name": ".spot",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".spreadbetting", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".sr", "type": "country-code", "tldManager": "Telesur" },
+  { "name": ".srl", "type": "generic", "tldManager": "InterNetX Corp." },
+  { "name": ".srt", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".ss",
+    "type": "country-code",
+    "tldManager": "National Communication Authority (NCA)"
+  },
+  { "name": ".st", "type": "country-code", "tldManager": "Tecnisys" },
+  {
+    "name": ".stada",
+    "type": "generic",
+    "tldManager": "STADA Arzneimittel AG"
+  },
+  { "name": ".staples", "type": "generic", "tldManager": "Staples, Inc." },
+  {
+    "name": ".star",
+    "type": "generic",
+    "tldManager": "Star India Private Limited"
+  },
+  { "name": ".starhub", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".statebank",
+    "type": "generic",
+    "tldManager": "STATE BANK OF INDIA"
+  },
+  {
+    "name": ".statefarm",
+    "type": "generic",
+    "tldManager": "State Farm Mutual Automobile Insurance Company"
+  },
+  { "name": ".statoil", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".stc", "type": "generic", "tldManager": "Saudi Telecom Company" },
+  {
+    "name": ".stcgroup",
+    "type": "generic",
+    "tldManager": "Saudi Telecom Company"
+  },
+  {
+    "name": ".stockholm",
+    "type": "generic",
+    "tldManager": "Stockholms kommun"
+  },
+  { "name": ".storage", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".store", "type": "generic", "tldManager": "Radix FZC" },
+  { "name": ".stream", "type": "generic", "tldManager": "dot Stream Limited" },
+  { "name": ".studio", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".study",
+    "type": "generic",
+    "tldManager": "OPEN UNIVERSITIES AUSTRALIA PTY LTD"
+  },
+  { "name": ".style", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".su",
+    "type": "country-code",
+    "tldManager": "Russian Institute for Development of Public Networks (ROSNIIROS)"
+  },
+  {
+    "name": ".sucks",
+    "type": "generic",
+    "tldManager": "Vox Populi Registry Ltd."
+  },
+  { "name": ".supplies", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".supply", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".support", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".surf",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  { "name": ".surgery", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".suzuki",
+    "type": "generic",
+    "tldManager": "SUZUKI MOTOR CORPORATION"
+  },
+  { "name": ".sv", "type": "country-code", "tldManager": "SVNet" },
+  {
+    "name": ".swatch",
+    "type": "generic",
+    "tldManager": "The Swatch Group Ltd"
+  },
+  {
+    "name": ".swiftcover",
+    "type": "generic",
+    "tldManager": "Swiftcover Insurance Services Limited"
+  },
+  { "name": ".swiss", "type": "generic", "tldManager": "Swiss Confederation" },
+  {
+    "name": ".sx",
+    "type": "country-code",
+    "tldManager": "SX Registry SA B.V."
+  },
+  {
+    "name": ".sy",
+    "type": "country-code",
+    "tldManager": "National Agency for Network Services (NANS)"
+  },
+  {
+    "name": ".sydney",
+    "type": "generic",
+    "tldManager": "State of New South Wales, Department of Premier and Cabinet"
+  },
+  { "name": ".symantec", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".systems", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".sz",
+    "type": "country-code",
+    "tldManager": "University of Swaziland Department of Computer Science"
+  },
+  {
+    "name": ".tab",
+    "type": "generic",
+    "tldManager": "Tabcorp Holdings Limited"
+  },
+  {
+    "name": ".taipei",
+    "type": "generic",
+    "tldManager": "Taipei City Government"
+  },
+  {
+    "name": ".talk",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".taobao",
+    "type": "generic",
+    "tldManager": "Alibaba Group Holding Limited"
+  },
+  {
+    "name": ".target",
+    "type": "generic",
+    "tldManager": "Target Domain Holdings, LLC"
+  },
+  { "name": ".tatamotors", "type": "generic", "tldManager": "Tata Motors Ltd" },
+  {
+    "name": ".tatar",
+    "type": "generic",
+    "tldManager": "Limited Liability Company \"Coordination Center of Regional Domain of Tatarstan Republic\""
+  },
+  { "name": ".tattoo", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".tax", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".taxi", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".tc", "type": "country-code", "tldManager": "Melrex TC" },
+  {
+    "name": ".tci",
+    "type": "generic",
+    "tldManager": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
+  },
+  {
+    "name": ".td",
+    "type": "country-code",
+    "tldManager": "l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC)"
+  },
+  { "name": ".tdk", "type": "generic", "tldManager": "TDK Corporation" },
+  { "name": ".team", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".tech", "type": "generic", "tldManager": "Radix FZC" },
+  { "name": ".technology", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".tel", "type": "sponsored", "tldManager": "Telnames Ltd." },
+  { "name": ".telecity", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".telefonica", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".temasek",
+    "type": "generic",
+    "tldManager": "Temasek Holdings (Private) Limited"
+  },
+  { "name": ".tennis", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".teva",
+    "type": "generic",
+    "tldManager": "Teva Pharmaceutical Industries Limited"
+  },
+  {
+    "name": ".tf",
+    "type": "country-code",
+    "tldManager": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": ".tg",
+    "type": "country-code",
+    "tldManager": "Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)"
+  },
+  {
+    "name": ".th",
+    "type": "country-code",
+    "tldManager": "Thai Network Information Center Foundation"
+  },
+  {
+    "name": ".thd",
+    "type": "generic",
+    "tldManager": "Home Depot Product Authority, LLC"
+  },
+  { "name": ".theater", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".theatre", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  {
+    "name": ".tiaa",
+    "type": "generic",
+    "tldManager": "Teachers Insurance and Annuity Association of America"
+  },
+  { "name": ".tickets", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".tienda", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".tiffany",
+    "type": "generic",
+    "tldManager": "Tiffany and Company"
+  },
+  { "name": ".tips", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".tires", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".tirol", "type": "generic", "tldManager": "punkt Tirol GmbH" },
+  {
+    "name": ".tj",
+    "type": "country-code",
+    "tldManager": "Information Technology Center"
+  },
+  {
+    "name": ".tjmaxx",
+    "type": "generic",
+    "tldManager": "The TJX Companies, Inc."
+  },
+  {
+    "name": ".tjx",
+    "type": "generic",
+    "tldManager": "The TJX Companies, Inc."
+  },
+  {
+    "name": ".tk",
+    "type": "country-code",
+    "tldManager": "Telecommunication Tokelau Corporation (Teletok)"
+  },
+  {
+    "name": ".tkmaxx",
+    "type": "generic",
+    "tldManager": "The TJX Companies, Inc."
+  },
+  {
+    "name": ".tl",
+    "type": "country-code",
+    "tldManager": "Autoridade Nacional de Comunicações"
+  },
+  {
+    "name": ".tm",
+    "type": "country-code",
+    "tldManager": "TM Domain Registry Ltd"
+  },
+  {
+    "name": ".tmall",
+    "type": "generic",
+    "tldManager": "Alibaba Group Holding Limited"
+  },
+  {
+    "name": ".tn",
+    "type": "country-code",
+    "tldManager": "Agence Tunisienne d'Internet"
+  },
+  {
+    "name": ".to",
+    "type": "country-code",
+    "tldManager": "Government of the Kingdom of Tonga H.R.H. Crown Prince Tupouto'a c/o Consulate of Tonga"
+  },
+  { "name": ".today", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".tokyo", "type": "generic", "tldManager": "GMO Registry, Inc." },
+  { "name": ".tools", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".top",
+    "type": "generic",
+    "tldManager": "Jiangsu Bangning Science & Technology Co.,Ltd."
+  },
+  {
+    "name": ".toray",
+    "type": "generic",
+    "tldManager": "Toray Industries, Inc."
+  },
+  {
+    "name": ".toshiba",
+    "type": "generic",
+    "tldManager": "TOSHIBA Corporation"
+  },
+  { "name": ".total", "type": "generic", "tldManager": "Total SA" },
+  { "name": ".tours", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".town", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".toyota",
+    "type": "generic",
+    "tldManager": "TOYOTA MOTOR CORPORATION"
+  },
+  { "name": ".toys", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".tp", "type": "country-code", "tldManager": "Retired" },
+  {
+    "name": ".tr",
+    "type": "country-code",
+    "tldManager": "Bilgi Teknolojileri ve İletişim Kurumu (BTK)"
+  },
+  {
+    "name": ".trade",
+    "type": "generic",
+    "tldManager": "Elite Registry Limited"
+  },
+  { "name": ".trading", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  { "name": ".training", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".travel", "type": "sponsored", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".travelchannel",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": ".travelers",
+    "type": "generic",
+    "tldManager": "Travelers TLD, LLC"
+  },
+  {
+    "name": ".travelersinsurance",
+    "type": "generic",
+    "tldManager": "Travelers TLD, LLC"
+  },
+  { "name": ".trust", "type": "generic", "tldManager": "UNR Corp." },
+  { "name": ".trv", "type": "generic", "tldManager": "Travelers TLD, LLC" },
+  {
+    "name": ".tt",
+    "type": "country-code",
+    "tldManager": "University of the West Indies Faculty of Engineering"
+  },
+  {
+    "name": ".tube",
+    "type": "generic",
+    "tldManager": "Latin American Telecom LLC"
+  },
+  { "name": ".tui", "type": "generic", "tldManager": "TUI AG" },
+  {
+    "name": ".tunes",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".tushu",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".tv",
+    "type": "country-code",
+    "tldManager": "Ministry of Finance and Tourism"
+  },
+  {
+    "name": ".tvs",
+    "type": "generic",
+    "tldManager": "T V SUNDRAM IYENGAR & SONS PRIVATE LIMITED"
+  },
+  {
+    "name": ".tw",
+    "type": "country-code",
+    "tldManager": "Taiwan Network Information Center (TWNIC)"
+  },
+  {
+    "name": ".tz",
+    "type": "country-code",
+    "tldManager": "Tanzania Communications Regulatory Authority"
+  },
+  { "name": ".ua", "type": "country-code", "tldManager": "Hostmaster Ltd." },
+  {
+    "name": ".ubank",
+    "type": "generic",
+    "tldManager": "National Australia Bank Limited"
+  },
+  { "name": ".ubs", "type": "generic", "tldManager": "UBS AG" },
+  { "name": ".uconnect", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".ug", "type": "country-code", "tldManager": "Uganda Online Ltd." },
+  { "name": ".uk", "type": "country-code", "tldManager": "Nominet UK" },
+  { "name": ".um", "type": "country-code", "tldManager": "Not assigned" },
+  {
+    "name": ".unicom",
+    "type": "generic",
+    "tldManager": "China United Network Communications Corporation Limited"
+  },
+  { "name": ".university", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".uno", "type": "generic", "tldManager": "Radix FZC" },
+  { "name": ".uol", "type": "generic", "tldManager": "UBN INTERNET LTDA." },
+  {
+    "name": ".ups",
+    "type": "generic",
+    "tldManager": "UPS Market Driver, Inc."
+  },
+  {
+    "name": ".us",
+    "type": "country-code",
+    "tldManager": "Registry Services, LLC"
+  },
+  {
+    "name": ".uy",
+    "type": "country-code",
+    "tldManager": "SeCIU - Universidad de la Republica"
+  },
+  {
+    "name": ".uz",
+    "type": "country-code",
+    "tldManager": "Single Integrator for Creation and Support of State Information Systems UZINFOCOM"
+  },
+  {
+    "name": ".va",
+    "type": "country-code",
+    "tldManager": "Holy See - Vatican City State"
+  },
+  { "name": ".vacations", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".vana",
+    "type": "generic",
+    "tldManager": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": ".vanguard",
+    "type": "generic",
+    "tldManager": "The Vanguard Group, Inc."
+  },
+  {
+    "name": ".vc",
+    "type": "country-code",
+    "tldManager": "Ministry of Telecommunications, Science, Technology and Industry"
+  },
+  {
+    "name": ".ve",
+    "type": "country-code",
+    "tldManager": "Comisión Nacional de Telecomunicaciones (CONATEL)"
+  },
+  { "name": ".vegas", "type": "generic", "tldManager": "Dot Vegas, Inc." },
+  { "name": ".ventures", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".verisign", "type": "generic", "tldManager": "VeriSign, Inc." },
+  {
+    "name": ".versicherung",
+    "type": "generic",
+    "tldManager": "TLD-BOX Registrydienstleistungen GmbH"
+  },
+  { "name": ".vet", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".vg",
+    "type": "country-code",
+    "tldManager": "Telecommunications Regulatory Commission of the Virgin Islands"
+  },
+  {
+    "name": ".vi",
+    "type": "country-code",
+    "tldManager": "Virgin Islands Public Telecommunications System, Inc."
+  },
+  { "name": ".viajes", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".video", "type": "generic", "tldManager": "Dog Beach, LLC" },
+  {
+    "name": ".vig",
+    "type": "generic",
+    "tldManager": "VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe"
+  },
+  {
+    "name": ".viking",
+    "type": "generic",
+    "tldManager": "Viking River Cruises (Bermuda) Ltd."
+  },
+  { "name": ".villas", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".vin", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".vip",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".virgin",
+    "type": "generic",
+    "tldManager": "Virgin Enterprises Limited"
+  },
+  {
+    "name": ".visa",
+    "type": "generic",
+    "tldManager": "Visa Worldwide Pte. Limited"
+  },
+  { "name": ".vision", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".vista", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".vistaprint", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".viva", "type": "generic", "tldManager": "Saudi Telecom Company" },
+  {
+    "name": ".vivo",
+    "type": "generic",
+    "tldManager": "Telefonica Brasil S.A."
+  },
+  { "name": ".vlaanderen", "type": "generic", "tldManager": "DNS.be vzw" },
+  {
+    "name": ".vn",
+    "type": "country-code",
+    "tldManager": "Viet Nam Internet Network Information Center (VNNIC)"
+  },
+  {
+    "name": ".vodka",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".volkswagen",
+    "type": "generic",
+    "tldManager": "Volkswagen Group of America Inc."
+  },
+  {
+    "name": ".volvo",
+    "type": "generic",
+    "tldManager": "Volvo Holding Sverige Aktiebolag"
+  },
+  { "name": ".vote", "type": "generic", "tldManager": "Monolith Registry LLC" },
+  { "name": ".voting", "type": "generic", "tldManager": "Valuetainment Corp." },
+  { "name": ".voto", "type": "generic", "tldManager": "Monolith Registry LLC" },
+  { "name": ".voyage", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".vu",
+    "type": "country-code",
+    "tldManager": "Telecommunications Radiocommunications and Broadcasting Regulator (TRBR)"
+  },
+  {
+    "name": ".vuelos",
+    "type": "generic",
+    "tldManager": "Travel Reservations SRL"
+  },
+  { "name": ".wales", "type": "generic", "tldManager": "Nominet UK" },
+  {
+    "name": ".walmart",
+    "type": "generic",
+    "tldManager": "Wal-Mart Stores, Inc."
+  },
+  { "name": ".walter", "type": "generic", "tldManager": "Sandvik AB" },
+  { "name": ".wang", "type": "generic", "tldManager": "Zodiac Wang Limited" },
+  {
+    "name": ".wanggou",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".warman", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".watch", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".watches", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".weather",
+    "type": "generic",
+    "tldManager": "International Business Machines Corporation"
+  },
+  {
+    "name": ".weatherchannel",
+    "type": "generic",
+    "tldManager": "International Business Machines Corporation"
+  },
+  { "name": ".webcam", "type": "generic", "tldManager": "dot Webcam Limited" },
+  {
+    "name": ".weber",
+    "type": "generic",
+    "tldManager": "Saint-Gobain Weber SA"
+  },
+  { "name": ".website", "type": "generic", "tldManager": "Radix FZC" },
+  {
+    "name": ".wed",
+    "type": "generic",
+    "tldManager": "Emergency Back-End Registry Operator Program - ICANN"
+  },
+  {
+    "name": ".wedding",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  { "name": ".weibo", "type": "generic", "tldManager": "Sina Corporation" },
+  { "name": ".weir", "type": "generic", "tldManager": "Weir Group IP Limited" },
+  {
+    "name": ".wf",
+    "type": "country-code",
+    "tldManager": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  { "name": ".whoswho", "type": "generic", "tldManager": "Who's Who Registry" },
+  { "name": ".wien", "type": "generic", "tldManager": "punkt.wien GmbH" },
+  { "name": ".wiki", "type": "generic", "tldManager": "Top Level Design, LLC" },
+  {
+    "name": ".williamhill",
+    "type": "generic",
+    "tldManager": "William Hill Organization Limited"
+  },
+  { "name": ".win", "type": "generic", "tldManager": "First Registry Limited" },
+  {
+    "name": ".windows",
+    "type": "generic",
+    "tldManager": "Microsoft Corporation"
+  },
+  { "name": ".wine", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".winners",
+    "type": "generic",
+    "tldManager": "The TJX Companies, Inc."
+  },
+  {
+    "name": ".wme",
+    "type": "generic",
+    "tldManager": "William Morris Endeavor Entertainment, LLC"
+  },
+  {
+    "name": ".wolterskluwer",
+    "type": "generic",
+    "tldManager": "Wolters Kluwer N.V."
+  },
+  {
+    "name": ".woodside",
+    "type": "generic",
+    "tldManager": "Woodside Petroleum Limited"
+  },
+  {
+    "name": ".work",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  { "name": ".works", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".world", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".wow",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".ws",
+    "type": "country-code",
+    "tldManager": "Government of Samoa Ministry of Foreign Affairs & Trade"
+  },
+  {
+    "name": ".wtc",
+    "type": "generic",
+    "tldManager": "World Trade Centers Association, Inc."
+  },
+  { "name": ".wtf", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  { "name": ".xbox", "type": "generic", "tldManager": "Microsoft Corporation" },
+  { "name": ".xerox", "type": "generic", "tldManager": "Xerox DNHC LLC" },
+  {
+    "name": ".xfinity",
+    "type": "generic",
+    "tldManager": "Comcast IP Holdings I, LLC"
+  },
+  {
+    "name": ".xihuan",
+    "type": "generic",
+    "tldManager": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  { "name": ".xin", "type": "generic", "tldManager": "Elegant Leader Limited" },
+  {
+    "name": ".测试",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  { "name": ".कॉम", "type": "generic", "tldManager": "VeriSign Sarl" },
+  {
+    "name": ".परीक्षा",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  {
+    "name": ".セール",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".佛山",
+    "type": "generic",
+    "tldManager": "Guangzhou YU Wei Information Technology Co., Ltd."
+  },
+  {
+    "name": ".ಭಾರತ",
+    "type": "country-code",
+    "tldManager": "National Internet eXchange of India"
+  },
+  {
+    "name": ".慈善",
+    "type": "generic",
+    "tldManager": "Excellent First Limited"
+  },
+  { "name": ".集团", "type": "generic", "tldManager": "Eagle Horizon Limited" },
+  { "name": ".在线", "type": "generic", "tldManager": "TLD REGISTRY LIMITED" },
+  {
+    "name": ".한국",
+    "type": "country-code",
+    "tldManager": "KISA (Korea Internet & Security Agency)"
+  },
+  {
+    "name": ".ଭାରତ",
+    "type": "country-code",
+    "tldManager": "National Internet eXchange of India"
+  },
+  {
+    "name": ".大众汽车",
+    "type": "generic",
+    "tldManager": "Volkswagen (China) Investment Co., Ltd."
+  },
+  { "name": ".点看", "type": "generic", "tldManager": "VeriSign Sarl" },
+  { "name": ".คอม", "type": "generic", "tldManager": "VeriSign Sarl" },
+  {
+    "name": ".ভাৰত",
+    "type": "country-code",
+    "tldManager": "National Internet eXchange of India"
+  },
+  {
+    "name": ".ভারত",
+    "type": "country-code",
+    "tldManager": "National Internet Exchange of India"
+  },
+  { "name": ".八卦", "type": "generic", "tldManager": "Zodiac Gemini Ltd" },
+  {
+    "name": "‏.ישראל‎",
+    "type": "country-code",
+    "tldManager": "The Israel Internet Association (RA)"
+  },
+  {
+    "name": "‏.موقع‎",
+    "type": "generic",
+    "tldManager": "Suhub Electronic Establishment"
+  },
+  {
+    "name": ".বাংলা",
+    "type": "country-code",
+    "tldManager": "Posts and Telecommunications Division"
+  },
+  {
+    "name": ".公益",
+    "type": "generic",
+    "tldManager": "China Organizational Name Administration Center"
+  },
+  {
+    "name": ".公司",
+    "type": "generic",
+    "tldManager": "Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）"
+  },
+  {
+    "name": ".香格里拉",
+    "type": "generic",
+    "tldManager": "Shangri‐La International Hotel Management Limited"
+  },
+  {
+    "name": ".网站",
+    "type": "generic",
+    "tldManager": "Global Website TLD Asia Limited"
+  },
+  { "name": ".移动", "type": "generic", "tldManager": "Afilias Limited" },
+  {
+    "name": ".我爱你",
+    "type": "generic",
+    "tldManager": "Tycoon Treasure Limited"
+  },
+  {
+    "name": ".москва",
+    "type": "generic",
+    "tldManager": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)"
+  },
+  {
+    "name": ".испытание",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  {
+    "name": ".қаз",
+    "type": "country-code",
+    "tldManager": "Association of IT Companies of Kazakhstan"
+  },
+  {
+    "name": ".католик",
+    "type": "generic",
+    "tldManager": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  { "name": ".онлайн", "type": "generic", "tldManager": "CORE Association" },
+  { "name": ".сайт", "type": "generic", "tldManager": "CORE Association" },
+  {
+    "name": ".联通",
+    "type": "generic",
+    "tldManager": "China United Network Communications Corporation Limited"
+  },
+  {
+    "name": ".срб",
+    "type": "country-code",
+    "tldManager": "Serbian National Internet Domain Registry (RNIDS)"
+  },
+  { "name": ".бг", "type": "country-code", "tldManager": "Imena.BG AD" },
+  {
+    "name": ".бел",
+    "type": "country-code",
+    "tldManager": "Reliable Software, Ltd."
+  },
+  { "name": "‏.קום‎", "type": "generic", "tldManager": "VeriSign Sarl" },
+  { "name": ".时尚", "type": "generic", "tldManager": "RISE VICTORY LIMITED" },
+  { "name": ".微博", "type": "generic", "tldManager": "Sina Corporation" },
+  {
+    "name": ".테스트",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  {
+    "name": ".淡马锡",
+    "type": "generic",
+    "tldManager": "Temasek Holdings (Private) Limited"
+  },
+  {
+    "name": ".ファッション",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".орг",
+    "type": "generic",
+    "tldManager": "Public Interest Registry"
+  },
+  { "name": ".नेट", "type": "generic", "tldManager": "VeriSign Sarl" },
+  {
+    "name": ".ストア",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".アマゾン",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".삼성", "type": "generic", "tldManager": "SAMSUNG SDS CO., LTD" },
+  {
+    "name": ".சிங்கப்பூர்",
+    "type": "country-code",
+    "tldManager": "Singapore Network Information Centre (SGNIC) Pte Ltd"
+  },
+  {
+    "name": ".商标",
+    "type": "generic",
+    "tldManager": "Internet DotTrademark Organisation Limited"
+  },
+  { "name": ".商店", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".商城",
+    "type": "generic",
+    "tldManager": "Zodiac Aquarius Limited"
+  },
+  {
+    "name": ".дети",
+    "type": "generic",
+    "tldManager": "The Foundation for Network Initiatives “The Smart Internet”"
+  },
+  {
+    "name": ".мкд",
+    "type": "country-code",
+    "tldManager": "Macedonian Academic Research Network Skopje"
+  },
+  {
+    "name": "‏.טעסט‎",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  { "name": ".ею", "type": "country-code", "tldManager": "EURid vzw/asbl" },
+  {
+    "name": ".ポイント",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".新闻",
+    "type": "generic",
+    "tldManager": "Guangzhou YU Wei Information and Technology Co.,Ltd"
+  },
+  { "name": ".工行", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".家電",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": "‏.كوم‎", "type": "generic", "tldManager": "VeriSign Sarl" },
+  {
+    "name": ".中文网",
+    "type": "generic",
+    "tldManager": "TLD REGISTRY LIMITED"
+  },
+  {
+    "name": ".中信",
+    "type": "generic",
+    "tldManager": "CITIC Group Corporation"
+  },
+  {
+    "name": ".中国",
+    "type": "country-code",
+    "tldManager": "China Internet Network Information Center (CNNIC)"
+  },
+  {
+    "name": ".中國",
+    "type": "country-code",
+    "tldManager": "China Internet Network Information Center (CNNIC)"
+  },
+  { "name": ".娱乐", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".谷歌",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".భారత్",
+    "type": "country-code",
+    "tldManager": "National Internet Exchange of India"
+  },
+  {
+    "name": ".ලංකා",
+    "type": "country-code",
+    "tldManager": "LK Domain Registry"
+  },
+  {
+    "name": ".電訊盈科",
+    "type": "generic",
+    "tldManager": "PCCW Enterprises Limited"
+  },
+  {
+    "name": ".购物",
+    "type": "generic",
+    "tldManager": "Nawang Heli(Xiamen) Network Service Co., LTD."
+  },
+  {
+    "name": ".測試",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  {
+    "name": ".クラウド",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".ભારત",
+    "type": "country-code",
+    "tldManager": "National Internet Exchange of India"
+  },
+  {
+    "name": ".通販",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".भारतम्",
+    "type": "country-code",
+    "tldManager": "National Internet eXchange of India"
+  },
+  {
+    "name": ".भारत",
+    "type": "country-code",
+    "tldManager": "National Internet Exchange of India"
+  },
+  {
+    "name": ".भारोत",
+    "type": "country-code",
+    "tldManager": "National Internet eXchange of India"
+  },
+  {
+    "name": "‏.آزمایشی‎",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  {
+    "name": ".பரிட்சை",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  { "name": ".网店", "type": "generic", "tldManager": "Zodiac Taurus Ltd." },
+  {
+    "name": ".संगठन",
+    "type": "generic",
+    "tldManager": "Public Interest Registry"
+  },
+  {
+    "name": ".餐厅",
+    "type": "generic",
+    "tldManager": "Internet DotTrademark Organisation Limited"
+  },
+  {
+    "name": ".网络",
+    "type": "generic",
+    "tldManager": "Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）"
+  },
+  { "name": ".ком", "type": "generic", "tldManager": "VeriSign Sarl" },
+  {
+    "name": ".укр",
+    "type": "country-code",
+    "tldManager": "Ukrainian Network Information Centre (UANIC), Inc."
+  },
+  {
+    "name": ".香港",
+    "type": "country-code",
+    "tldManager": "Hong Kong Internet Registration Corporation Ltd."
+  },
+  {
+    "name": ".亚马逊",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".诺基亚", "type": "generic", "tldManager": "Nokia Corporation" },
+  {
+    "name": ".食品",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".δοκιμή",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  {
+    "name": ".飞利浦",
+    "type": "generic",
+    "tldManager": "Koninklijke Philips N.V."
+  },
+  {
+    "name": "‏.إختبار‎",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  {
+    "name": ".台湾",
+    "type": "country-code",
+    "tldManager": "Taiwan Network Information Center (TWNIC)"
+  },
+  {
+    "name": ".台灣",
+    "type": "country-code",
+    "tldManager": "Taiwan Network Information Center (TWNIC)"
+  },
+  { "name": ".手表", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".手机",
+    "type": "generic",
+    "tldManager": "Beijing RITT-Net Technology Development Co., Ltd"
+  },
+  { "name": ".мон", "type": "country-code", "tldManager": "Datacom Co.,Ltd" },
+  { "name": "‏.الجزائر‎", "type": "country-code", "tldManager": "CERIST" },
+  {
+    "name": "‏.عمان‎",
+    "type": "country-code",
+    "tldManager": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "name": "‏.ارامكو‎",
+    "type": "generic",
+    "tldManager": "Aramco Services Company"
+  },
+  {
+    "name": "‏.ایران‎",
+    "type": "country-code",
+    "tldManager": "Institute for Research in Fundamental Sciences (IPM)"
+  },
+  {
+    "name": "‏.العليان‎",
+    "type": "generic",
+    "tldManager": "Crescent Holding GmbH"
+  },
+  {
+    "name": "‏.اتصالات‎",
+    "type": "generic",
+    "tldManager": "Emirates Telecommunications Corporation (trading as Etisalat)"
+  },
+  {
+    "name": "‏.امارات‎",
+    "type": "country-code",
+    "tldManager": "Telecommunications Regulatory Authority (TRA)"
+  },
+  { "name": "‏.بازار‎", "type": "generic", "tldManager": "CORE Association" },
+  {
+    "name": "‏.موريتانيا‎",
+    "type": "country-code",
+    "tldManager": "Université de Nouakchott Al Aasriya"
+  },
+  {
+    "name": "‏.پاکستان‎",
+    "type": "country-code",
+    "tldManager": "National Telecommunication Corporation"
+  },
+  {
+    "name": "‏.الاردن‎",
+    "type": "country-code",
+    "tldManager": "Ministry of Digital Economy and Entrepreneurship (MoDEE)"
+  },
+  { "name": "‏.موبايلي‎", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": "‏.بارت‎",
+    "type": "country-code",
+    "tldManager": "National Internet eXchange of India"
+  },
+  {
+    "name": "‏.بھارت‎",
+    "type": "country-code",
+    "tldManager": "National Internet Exchange of India"
+  },
+  {
+    "name": "‏.المغرب‎",
+    "type": "country-code",
+    "tldManager": "Agence Nationale de Réglementation des Télécommunications (ANRT)"
+  },
+  {
+    "name": "‏.ابوظبي‎",
+    "type": "generic",
+    "tldManager": "Abu Dhabi Systems and Information Centre"
+  },
+  {
+    "name": "‏.البحرين‎",
+    "type": "country-code",
+    "tldManager": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "name": "‏.السعودية‎",
+    "type": "country-code",
+    "tldManager": "Communications and Information Technology Commission"
+  },
+  {
+    "name": "‏.ڀارت‎",
+    "type": "country-code",
+    "tldManager": "National Internet eXchange of India"
+  },
+  {
+    "name": "‏.كاثوليك‎",
+    "type": "generic",
+    "tldManager": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  {
+    "name": "‏.سودان‎",
+    "type": "country-code",
+    "tldManager": "Sudan Internet Society"
+  },
+  {
+    "name": "‏.همراه‎",
+    "type": "generic",
+    "tldManager": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
+  },
+  {
+    "name": "‏.عراق‎",
+    "type": "country-code",
+    "tldManager": "Communications and Media Commission (CMC)"
+  },
+  { "name": "‏.مليسيا‎", "type": "country-code", "tldManager": "MYNIC Berhad" },
+  {
+    "name": ".澳門",
+    "type": "country-code",
+    "tldManager": "Macao Post and Telecommunications Bureau (CTT)"
+  },
+  { "name": ".닷컴", "type": "generic", "tldManager": "VeriSign Sarl" },
+  { "name": ".政府", "type": "generic", "tldManager": "Net-Chinese Co., Ltd." },
+  {
+    "name": "‏.شبكة‎",
+    "type": "generic",
+    "tldManager": "International Domain Registry Pty. Ltd."
+  },
+  {
+    "name": "‏.بيتك‎",
+    "type": "generic",
+    "tldManager": "Kuwait Finance House"
+  },
+  {
+    "name": "‏.عرب‎",
+    "type": "generic",
+    "tldManager": "League of Arab States"
+  },
+  {
+    "name": ".გე",
+    "type": "country-code",
+    "tldManager": "Information Technologies Development Center (ITDC)"
+  },
+  {
+    "name": ".机构",
+    "type": "generic",
+    "tldManager": "Public Interest Registry"
+  },
+  {
+    "name": ".组织机构",
+    "type": "generic",
+    "tldManager": "Public Interest Registry"
+  },
+  { "name": ".健康", "type": "generic", "tldManager": "Stable Tone Limited" },
+  {
+    "name": ".ไทย",
+    "type": "country-code",
+    "tldManager": "Thai Network Information Center Foundation"
+  },
+  {
+    "name": "‏.سورية‎",
+    "type": "country-code",
+    "tldManager": "National Agency for Network Services (NANS)"
+  },
+  {
+    "name": ".招聘",
+    "type": "generic",
+    "tldManager": "Dot Trademark TLD Holding Company Limited"
+  },
+  { "name": ".рус", "type": "generic", "tldManager": "Rusnames Limited" },
+  {
+    "name": ".рф",
+    "type": "country-code",
+    "tldManager": "Coordination Center for TLD RU"
+  },
+  { "name": ".珠宝", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": "‏.تونس‎",
+    "type": "country-code",
+    "tldManager": "Agence Tunisienne d'Internet"
+  },
+  { "name": ".大拿", "type": "generic", "tldManager": "VeriSign Sarl" },
+  {
+    "name": ".ລາວ",
+    "type": "country-code",
+    "tldManager": "Lao National Internet Center (LANIC)"
+  },
+  {
+    "name": ".みんな",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".グーグル",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".ευ", "type": "country-code", "tldManager": "EURid vzw/asbl" },
+  { "name": ".ελ", "type": "country-code", "tldManager": "ICS-FORTH GR" },
+  { "name": ".世界", "type": "generic", "tldManager": "Stable Tone Limited" },
+  {
+    "name": ".書籍",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".ഭാരതം",
+    "type": "country-code",
+    "tldManager": "National Internet eXchange of India"
+  },
+  {
+    "name": ".ਭਾਰਤ",
+    "type": "country-code",
+    "tldManager": "National Internet Exchange of India"
+  },
+  { "name": ".网址", "type": "generic", "tldManager": "KNET Co., Ltd" },
+  { "name": ".닷넷", "type": "generic", "tldManager": "VeriSign Sarl" },
+  { "name": ".コム", "type": "generic", "tldManager": "VeriSign Sarl" },
+  {
+    "name": ".天主教",
+    "type": "generic",
+    "tldManager": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  { "name": ".游戏", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".vermögensberater",
+    "type": "generic",
+    "tldManager": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  {
+    "name": ".vermögensberatung",
+    "type": "generic",
+    "tldManager": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  { "name": ".企业", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".信息",
+    "type": "generic",
+    "tldManager": "Beijing Tele-info Network Technology Co., Ltd."
+  },
+  {
+    "name": ".嘉里大酒店",
+    "type": "generic",
+    "tldManager": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": ".嘉里",
+    "type": "generic",
+    "tldManager": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": "‏.مصر‎",
+    "type": "country-code",
+    "tldManager": "National Telecommunication Regulatory Authority - NTRA"
+  },
+  {
+    "name": "‏.قطر‎",
+    "type": "country-code",
+    "tldManager": "Communications Regulatory Authority"
+  },
+  {
+    "name": ".广东",
+    "type": "generic",
+    "tldManager": "Guangzhou YU Wei Information Technology Co., Ltd."
+  },
+  {
+    "name": ".இலங்கை",
+    "type": "country-code",
+    "tldManager": "LK Domain Registry"
+  },
+  {
+    "name": ".இந்தியா",
+    "type": "country-code",
+    "tldManager": "National Internet Exchange of India"
+  },
+  {
+    "name": ".հայ",
+    "type": "country-code",
+    "tldManager": "\"Internet Society\" Non-governmental Organization"
+  },
+  {
+    "name": ".新加坡",
+    "type": "country-code",
+    "tldManager": "Singapore Network Information Centre (SGNIC) Pte Ltd"
+  },
+  {
+    "name": "‏.فلسطين‎",
+    "type": "country-code",
+    "tldManager": "Ministry of Telecom & Information Technology (MTIT)"
+  },
+  {
+    "name": ".テスト",
+    "type": "test",
+    "tldManager": "Internet Assigned Numbers Authority"
+  },
+  {
+    "name": ".政务",
+    "type": "generic",
+    "tldManager": "China Organizational Name Administration Center"
+  },
+  { "name": ".xperia", "type": "generic", "tldManager": "Not assigned" },
+  { "name": ".xxx", "type": "sponsored", "tldManager": "ICM Registry LLC" },
+  { "name": ".xyz", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".yachts", "type": "generic", "tldManager": "XYZ.COM LLC" },
+  { "name": ".yahoo", "type": "generic", "tldManager": "OATH INC" },
+  {
+    "name": ".yamaxun",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  { "name": ".yandex", "type": "generic", "tldManager": "Yandex Europe B.V." },
+  { "name": ".ye", "type": "country-code", "tldManager": "TeleYemen" },
+  {
+    "name": ".yodobashi",
+    "type": "generic",
+    "tldManager": "YODOBASHI CAMERA CO.,LTD."
+  },
+  {
+    "name": ".yoga",
+    "type": "generic",
+    "tldManager": "Minds + Machines Group Limited"
+  },
+  {
+    "name": ".yokohama",
+    "type": "generic",
+    "tldManager": "GMO Registry, Inc."
+  },
+  {
+    "name": ".you",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".youtube",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  {
+    "name": ".yt",
+    "type": "country-code",
+    "tldManager": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": ".yun",
+    "type": "generic",
+    "tldManager": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  {
+    "name": ".za",
+    "type": "country-code",
+    "tldManager": "ZA Domain Name Authority"
+  },
+  {
+    "name": ".zappos",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".zara",
+    "type": "generic",
+    "tldManager": "Industria de Diseño Textil, S.A. (INDITEX, S.A.)"
+  },
+  {
+    "name": ".zero",
+    "type": "generic",
+    "tldManager": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": ".zip",
+    "type": "generic",
+    "tldManager": "Charleston Road Registry Inc."
+  },
+  { "name": ".zippo", "type": "generic", "tldManager": "Not assigned" },
+  {
+    "name": ".zm",
+    "type": "country-code",
+    "tldManager": "Zambia Information and Communications Technology Authority (ZICTA)"
+  },
+  { "name": ".zone", "type": "generic", "tldManager": "Binky Moon, LLC" },
+  {
+    "name": ".zuerich",
+    "type": "generic",
+    "tldManager": "Kanton Zürich (Canton of Zurich)"
+  },
+  {
+    "name": ".zw",
+    "type": "country-code",
+    "tldManager": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)"
+  }
+]

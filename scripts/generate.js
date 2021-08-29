@@ -15,7 +15,15 @@ dataFiles.forEach(async (file) => {
 
 async function createFile(fileName) {
   const name = fileName.replace(".json", "");
-  if (name === "currencies" || name === "isocodes") {
+  const allowed = [
+    "countries",
+    "currencies",
+    "domains",
+    "languages",
+    "language-strings",
+    "timezones",
+  ];
+  if (allowed.includes(name)) {
     const data = await fs.readJson(
       path.join(__dirname, "..", "data", fileName)
     );
