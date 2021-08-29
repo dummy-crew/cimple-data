@@ -25,34 +25,23 @@ dataFiles.forEach(async (file) => {
 
 async function createFile(fileName) {
   const name = fileName.replace(".json", "");
-  console.log(`Generating ${name}`);
   if (allowed.has(name)) {
     const data = await fs.readJson(
       path.join(__dirname, "..", "data", fileName)
     );
-    const parsedExport = parseExport(name, data);
+    const parsedExport = parseExport(data);
     fs.writeFileSync(`${name}.mjs`, parsedExport.mjs, "utf-8");
     fs.writeFileSync(`${name}.cjs`, parsedExport.cjs, "utf-8");
-    fs.appendFileSync(
-      "index.mjs",
-      `export {default as ${toCamelCaseName(name)}} from './${name}.mjs';`
-    );
-    fs.appendFileSync(
-      "index.cjs",
-      `const { ${toCamelCaseName(
-        name
-      )} } = require('./${name}.cjs');module.exports = { ${toCamelCaseName(
-        name
-      )} };`
-    );
+    packageJSON.exports[`./${name}`] = {
+      import: `./${name}.mjs`,
+      require: `./${name}.cjs`,
+    };
   }
 }
 
-function parseExport(name, data) {
+function parseExport(data) {
   return {
-    mjs: `export const ${toCamelCaseName(name)} = ${JSON.stringify(data)}`,
-    cjs: `module.exports = { ${toCamelCaseName(name)}: ${JSON.stringify(
-      data
-    )} }`,
+    mjs: `export default ${JSON.stringify(data)}`,
+    cjs: `module.exports = ${JSON.stringify(data)}`,
   };
 }

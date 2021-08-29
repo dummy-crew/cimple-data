@@ -11,15 +11,15 @@ npm i cimple-data
 
 ```javascript
 // ES Module
-import { currencies } from 'cimple-data';
+import currencies from 'cimple-data/currencies';
 // CommonJS
-const { currencies } = require("cimple-data");
+const currencies = require("cimple-data/currencies");
 ```
 
 ## Available data
 ### Countries
 ```javascript
-import { countries } from 'cimple-data';
+import countries from 'cimple-data/countries';
 
 /* returns 
 {
@@ -33,7 +33,7 @@ import { countries } from 'cimple-data';
 ```	
 ### Currencies
 ```javascript
-import { currencies } from 'cimple-data';
+import currencies from 'cimple-data/currencies';
 
 /* returns 
 {
@@ -44,7 +44,7 @@ import { currencies } from 'cimple-data';
 ```	
 ### Domains
 ```javascript
-import { domains } from 'cimple-data';
+import domains from 'cimple-data/domains';
 
 /* returns 
 {
@@ -56,7 +56,7 @@ import { domains } from 'cimple-data';
 ```	
 ### Languages
 ```javascript
-import { languages } from 'cimple-data';
+import languages from 'cimple-data/languages';
 
 /* returns 
 {
@@ -78,7 +78,7 @@ import { languages } from 'cimple-data';
 ```	
 ### Locales
 ```javascript
-import { locales } from 'cimple-data';
+import locales from 'cimple-data/locales';
 
 /* returns
 {
@@ -89,7 +89,7 @@ import { locales } from 'cimple-data';
 ```	
 ### Timezones
 ```javascript
-import { timezones } from 'cimple-data';
+import timezones from 'cimple-data/timezones';
 
 /* returns
 {
